@@ -1,0 +1,16 @@
+WarehouseID,WarehouseName,Country,Region,City,WarehouseType,CapacityUnits,OperatingCostPerMonth,OpeningDate,ActiveFlag
+W001,Montreal Cross-Dock Facility,Canada,North America,Montreal,Cross-Dock Facility,26979,27004.2,2013-01-07,False
+W002,Toronto Fulfillment Center,Canada,North America,Toronto,Fulfillment Center,341507,524071.98,2011-09-17,True
+W003,Johannesburg Distribution Center,South Africa,Middle East & Africa,Johannesburg,Distribution Center,98643,87498.08,2015-04-03,True
+W004,Osaka Distribution Center,Japan,Asia Pacific,Osaka,Distribution Center,383657,377545.35,2019-08-30,True
+W005,Toronto Distribution Center,Canada,North America,Toronto,Distribution Center,154626,206782.09,2015-12-05,True
+W006,Ho Chi Minh City Regional Hub,Vietnam,Asia Pacific,Ho Chi Minh City,Regional Hub,333195,528690.03,2017-05-31,True
+W007,Shanghai Regional Hub,China,Asia Pacific,Shanghai,Regional Hub,31732,37367.0,2010-04-30,True
+W008,Warsaw Cross-Dock Facility,Poland,Europe,Warsaw,Cross-Dock Facility,91891,122510.22,2017-09-23,True
+W009,Paris Fulfillment Center,France,Europe,Paris,Fulfillment Center,172582,152728.74,2020-10-11,True
+W010,Buenos Aires Fulfillment Center,Argentina,Latin America,Buenos Aires,Fulfillment Center,79614,71156.67,2011-09-14,False
+W011,Hamburg Distribution Center,Germany,Europe,Hamburg,Distribution Center,68143,95897.26,2013-04-30,True
+W012,Shenzhen Fulfillment Center,China,Asia Pacific,Shenzhen,Fulfillment Center,85857,79159.74,2019-08-17,True
+W013,Vancouver Distribution Center,Canada,North America,Vancouver,Distribution Center,94399,124330.67,2020-06-16,False
+W014,Bogota Fulfillment Center,Colombia,Latin America,Bogota,Fulfillment Center,73275,78672.4,2017-12-17,True
+W015,Buenos Aires Distribution Center,Argentina,Latin America,Buenos Aires,Distribution Center,29526,29067.02,2010-07-17,True

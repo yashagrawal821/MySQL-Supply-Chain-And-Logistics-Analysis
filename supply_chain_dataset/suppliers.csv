@@ -1,0 +1,46 @@
+SupplierID,SupplierName,Country,Region,City,SupplierType,ReliabilityScore,QualityScore,PaymentTermsDays,ActiveFlag
+S001,Metro Mills,Egypt,Middle East & Africa,Cairo,Wholesaler,56.0,83.9,45,True
+S002,Crest Textiles,Netherlands,Europe,Rotterdam,Contract Producer,90.7,89.4,30,True
+S003,Pioneer Assembly,India,Asia Pacific,Mumbai,Import Agent,56.1,69.6,30,True
+S004,Meridian Exports,Mexico,North America,Guadalajara,Manufacturer,81.7,74.3,60,True
+S005,Pinnacle Plastics,Vietnam,Asia Pacific,Ho Chi Minh City,Contract Producer,71.5,63.2,60,True
+S006,Vertex Tooling,Japan,Asia Pacific,Tokyo,Contract Producer,60.7,87.2,90,True
+S007,Global Foundry,Canada,North America,Toronto,Contract Producer,83.5,69.1,90,True
+S008,Frontier Foundry,Canada,North America,Montreal,Contract Producer,94.4,77.6,90,True
+S009,Apex Materials,France,Europe,Lyon,Import Agent,92.0,76.9,15,True
+S010,Beacon Electronics,Canada,North America,Vancouver,Wholesaler,79.0,90.0,45,True
+S011,Atlas Assembly,Australia,Asia Pacific,Melbourne,Manufacturer,69.9,95.9,60,True
+S012,Bluewave Industries,United States,North America,Atlanta,Contract Producer,94.1,69.6,30,True
+S013,Redwood Textiles,South Africa,Middle East & Africa,Johannesburg,Contract Producer,81.8,,30,False
+S014,Union Precision,United Arab Emirates,Middle East & Africa,Dubai,Wholesaler,83.7,35.0,15,False
+S015,Coastal Works,Chile,Latin America,Santiago,Import Agent,86.8,78.1,45,True
+S016,Apex Precision,Netherlands,Europe,Rotterdam,Import Agent,93.0,80.9,15,True
+S017,Pioneer Fabrication,United States,North America,Newark,Wholesaler,92.3,98.0,30,True
+S018,Pioneer Materials,Japan,Asia Pacific,Tokyo,Wholesaler,99.0,66.6,45,True
+S019,Sterling Mills,India,Asia Pacific,Bengaluru,Wholesaler,73.7,71.3,30,True
+S020,Zenith Factory,Saudi Arabia,Middle East & Africa,Riyadh,Wholesaler,82.0,55.1,45,True
+S021,Zenith Industries,United Kingdom,Europe,London,Import Agent,99.0,87.0,60,True
+S022,Bluewave Manufacturing,Canada,North America,Vancouver,Wholesaler,77.0,81.1,15,True
+S023,Anchor Electronics,United Arab Emirates,Middle East & Africa,Dubai,Contract Producer,89.0,72.6,30,True
+S024,Skyline Plastics,Vietnam,Asia Pacific,Ho Chi Minh City,Wholesaler,66.0,88.4,90,True
+S025,Anchor Plastics,United States,North America,Columbus,Contract Producer,99.0,91.1,90,True
+S026,Harbor Metals,Vietnam,Asia Pacific,Hanoi,Import Agent,66.8,87.9,60,True
+S027,Pinnacle Industries,Canada,North America,Vancouver,Contract Producer,99.0,72.4,15,True
+S028,Beacon Foundry,United Kingdom,Europe,Manchester,Manufacturer,74.3,55.5,60,True
+S029,Summit Components,Poland,Europe,Warsaw,Wholesaler,64.8,59.3,90,True
+S030,Horizon Industries,United Kingdom,Europe,Manchester,Wholesaler,63.3,83.6,15,True
+S031,Vantage Tooling,Mexico,North America,Mexico City,Import Agent,84.5,76.2,30,True
+S032,Granite Plastics,United States,North America,Dallas,Contract Producer,76.6,82.2,15,True
+S033,Zenith Materials,Germany,Europe,Hamburg,Manufacturer,81.7,55.4,60,True
+S034,Sterling Metals,Canada,North America,Montreal,Wholesaler,78.7,81.1,15,True
+S035,Global Textiles,Netherlands,Europe,Amsterdam,Wholesaler,96.2,92.0,30,True
+S036,Bluewave Exports,Spain,Europe,Barcelona,Manufacturer,82.6,88.1,15,True
+S037,Pioneer Electronics,Japan,Asia Pacific,Osaka,Import Agent,86.2,86.9,45,True
+S038,Granite Textiles,Japan,Asia Pacific,Osaka,Contract Producer,67.3,73.1,30,True
+S039,Apex Assembly,United States,North America,Phoenix,Wholesaler,60.6,54.6,15,False
+S040,Atlas Components,Canada,North America,Toronto,Contract Producer,99.0,92.5,45,True
+S041,Zenith Factory,India,Asia Pacific,Chennai,Manufacturer,65.8,99.0,60,True
+S042,Harbor Precision,Colombia,Latin America,Bogota,Manufacturer,66.8,68.5,90,True
+S043,Ironclad Textiles,Saudi Arabia,Middle East & Africa,Riyadh,Contract Producer,81.9,81.1,90,True
+S044,Vertex Foundry,Egypt,Middle East & Africa,Cairo,Manufacturer,90.9,84.1,45,True
+S045,Redwood Electronics,Vietnam,Asia Pacific,Hanoi,Import Agent,96.9,,45,True

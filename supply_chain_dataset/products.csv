@@ -1,0 +1,321 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice,WeightKg,SupplierLeadTimeDays,ReorderLevel,DiscontinuedFlag
+P0001,Northgate Hair Dryer,Health & Personal Care,Personal Care,Northgate,20.86,35.8,2.72,19,158,False
+P0002,BrightPath Copy Paper Ream,Office Supplies,Paper Products,BrightPath,20.98,53.32,4.91,52,425,False
+P0003,Urban Forge Body Wash Set,Health & Personal Care,Personal Care,Urban Forge,18.71,41.29,,42,265,False
+P0004,Vantage Pro Backup Camera,Automotive Parts,Electronics,Vantage Pro,124.89,163.38,4.17,41,354,False
+P0005,Clearwater Bike Repair Kit,Sports & Outdoors,Cycling,Clearwater,170.12,353.35,0.65,9,96,False
+P0006,Kessler & Vane Puzzle Set,Toys & Games,Educational Toys,Kessler & Vane,38.32,53.42,3.93,25,84,False
+P0007,Urban Forge Mechanical Pencil,Office Supplies,Writing Instruments,Urban Forge,54.24,108.1,5.31,41,95,False
+P0008,TrueForm Standing Desk,Furniture,Office Furniture,TrueForm,481.38,758.01,2.06,8,133,False
+P0009,Clearwater Umbrella Stand,Furniture,Outdoor Furniture,Clearwater,305.65,452.43,6.53,54,189,False
+P0010,Clearwater Sidewalk Chalk Set,Toys & Games,Outdoor Toys,Clearwater,7.19,10.05,1.81,10,184,False
+P0011,Nordholt Memory Foam Pillow,Home & Kitchen,Bedding,Nordholt,127.57,310.38,1.3,5,386,False
+P0012,Northgate Duvet Cover,Home & Kitchen,Bedding,Northgate,85.67,108.12,2.15,50,221,False
+P0013,Everline Die-Cast Car,Toys & Games,Action Figures,Everline,42.31,81.91,5.41,57,120,False
+P0014,Steelbridge Patio Chair Set,Furniture,Outdoor Furniture,Steelbridge,523.5,701.0,3.1,38,193,False
+P0015,Northgate Shaving Kit,Health & Personal Care,Personal Care,Northgate,54.22,111.12,2.59,10,46,False
+P0016,Everline Mechanical Keyboard,Electronics,Computer Accessories,Everline,39.63,85.29,3.12,45,223,False
+P0017,Urban Forge Duvet Cover,Home & Kitchen,Bedding,Urban Forge,89.34,205.01,5.26,11,170,False
+P0018,Steelbridge Memory Foam Pillow,Home & Kitchen,Bedding,Steelbridge,109.47,191.74,2.11,33,389,False
+P0019,Craftmore Gel Pen Set,Office Supplies,Writing Instruments,Craftmore,41.1,92.83,1.39,44,286,False
+P0020,Vantage Pro Noise-Cancelling Headphones,Electronics,Audio,Vantage Pro,170.21,382.77,2.48,28,430,False
+P0021,TrueForm Sleep Tracker,Electronics,Wearables,TrueForm,63.56,121.55,2.43,29,295,False
+P0022,Sunmark File Folder Box,Office Supplies,Filing & Storage,Sunmark,4.93,7.69,6.84,30,46,False
+P0023,Kessler & Vane Work Gloves,Industrial Supplies,Safety Equipment,Kessler & Vane,23.28,33.4,1.18,20,127,False
+P0024,TrueForm Network Switch,Electronics,Networking,TrueForm,56.77,75.75,6.52,57,270,False
+P0025,Halvorsen Cotton Sheet Set,Home & Kitchen,Bedding,Halvorsen,74.22,100.5,7.93,37,188,False
+P0026,Halvorsen Standing Desk,Furniture,Office Furniture,Halvorsen,239.13,351.71,4.15,50,270,False
+P0027,Halvorsen Bluetooth Car Adapter,Automotive Parts,Electronics,Halvorsen,164.06,423.8,3.04,39,101,False
+P0028,Northgate Die-Cast Car,Toys & Games,Action Figures,Northgate,19.01,34.12,0.71,4,233,False
+P0029,Nordholt Stainless Steel Pot Set,Home & Kitchen,Cookware,Nordholt,99.4,157.49,3.3,4,447,False
+P0030,Kessler & Vane Hair Dryer,Health & Personal Care,Personal Care,Kessler & Vane,7.36,17.45,8.67,42,465,False
+P0031,Northgate Ergonomic Office Chair,Furniture,Office Furniture,Northgate,173.14,328.18,2.78,5,247,False
+P0032,Halvorsen Camping Tent,Sports & Outdoors,Camping & Hiking,Halvorsen,133.98,300.62,1.45,43,169,False
+P0033,Primeworks Patio Chair Set,Furniture,Outdoor Furniture,Primeworks,296.33,433.43,2.87,12,177,False
+P0034,Ridgeline Storage Bin,Industrial Supplies,Material Handling,Ridgeline,95.31,199.88,3.66,53,111,False
+P0035,Ferro & Co Seat Cover Set,Automotive Parts,Interior Accessories,Ferro & Co,48.2,122.72,1.2,28,77,False
+P0036,Rivermark Floor Mats,Automotive Parts,Interior Accessories,Rivermark,68.05,127.22,1.92,40,396,False
+P0037,Steelbridge Cordless Drill,Industrial Supplies,Power Tools,Steelbridge,104.39,194.52,0.61,20,413,False
+P0038,Primeworks Bike Rack,Automotive Parts,Exterior Accessories,Primeworks,313.11,723.88,1.83,12,163,False
+P0039,Northgate Air Fryer,Home & Kitchen,Small Appliances,Northgate,75.7,113.83,1.69,24,46,False
+P0040,Ridgeline Dash Camera,Automotive Parts,Interior Accessories,Ridgeline,166.83,392.19,1.75,47,465,False
+P0041,Oakfield Cotton Sheet Set,Home & Kitchen,Bedding,Oakfield,118.19,173.08,0.75,42,308,False
+P0042,Halvorsen Wok,Home & Kitchen,Cookware,Halvorsen,79.27,135.14,1.33,32,443,False
+P0043,Ferro & Co Air Filter,Automotive Parts,Maintenance,Ferro & Co,95.7,122.94,1.97,6,225,False
+P0044,Lumenis Bike Repair Kit,Sports & Outdoors,Cycling,Lumenis,31.2,70.58,2.02,24,299,True
+P0045,Sunmark Noise-Cancelling Headphones,Electronics,Audio,Sunmark,148.81,244.22,1.74,27,112,False
+P0046,Craftmore Air Filter,Automotive Parts,Maintenance,Craftmore,33.49,44.3,3.02,6,486,False
+P0047,Steelbridge Car Battery,Automotive Parts,Maintenance,Steelbridge,46.67,102.38,1.35,38,56,False
+P0048,Everline Bookshelf,Furniture,Office Furniture,Everline,50.11,64.54,3.38,9,426,False
+P0049,Primeworks Cardigan,Apparel & Footwear,Women's Apparel,Primeworks,49.58,96.78,1.06,26,404,False
+P0050,Everline Roof Rack,Automotive Parts,Exterior Accessories,Everline,103.44,167.18,0.3,52,101,False
+P0051,Northgate Electric Kettle,Home & Kitchen,Small Appliances,Northgate,38.38,77.49,3.08,28,488,False
+P0052,Craftmore Dash Camera,Automotive Parts,Interior Accessories,Craftmore,233.77,535.51,5.21,8,389,False
+P0053,Halvorsen Wireless Earbuds,electronics,Audio,Halvorsen,117.26,172.56,3.87,17,458,False
+P0054,Ridgeline Brake Pads,Automotive Parts,Maintenance,Ridgeline,225.1,460.44,5.77,24,143,False
+P0055,Vantage Pro Hiking Backpack,Sports & Outdoors,Camping & Hiking,Vantage Pro,178.85,327.65,6.09,10,152,False
+P0056,BrightPath Model Vehicle Kit,Toys & Games,Action Figures,BrightPath,16.5,24.04,1.27,28,362,False
+P0057,TrueForm Coding Robot Kit,Toys & Games,Educational Toys,TrueForm,25.29,62.41,1.83,59,348,False
+P0058,Halvorsen Canvas Sneakers,Apparel & Footwear,Footwear,Halvorsen,70.14,119.24,2.21,31,99,False
+P0059,Craftmore Patio Chair Set,Furniture,Outdoor Furniture,Craftmore,273.86,429.83,2.82,15,322,False
+P0060,Ferro & Co Notebook,Office Supplies,Paper Products,Ferro & Co,7.18,17.2,2.51,43,490,False
+P0061,Kessler & Vane Bed Frame,Furniture,Home Furniture,Kessler & Vane,86.89,109.05,0.73,26,122,False
+P0062,Vantage Pro Safety Goggles,Industrial Supplies,Safety Equipment,Vantage Pro,48.24,78.97,7.84,22,261,False
+P0063,TrueForm Dress Shirt,Apparel & Footwear,Men's Apparel,TrueForm,23.57,60.6,1.49,20,306,False
+P0064,Nordholt Soccer Ball,Sports & Outdoors,Team Sports,Nordholt,132.62,304.24,0.88,31,156,False
+P0065,TrueForm Filing Cabinet,Furniture,Office Furniture,TrueForm,368.46,550.83,1.31,38,183,False
+P0066,Vantage Pro Canvas Sneakers,Apparel & Footwear,Footwear,Vantage Pro,53.29,81.94,1.26,35,263,False
+P0067,Nordholt Baseball Glove,Sports & Outdoors,Team Sports,Nordholt,82.32,146.0,3.37,27,408,False
+P0068,Steelbridge Chess Set,Toys & Games,Board Games,Steelbridge,46.11,87.19,3.37,28,262,False
+P0069,Craftmore Work Gloves,Industrial Supplies,Safety Equipment,Craftmore,124.27,231.14,1.18,24,79,False
+P0070,Rivermark Car Cover,Automotive Parts,Exterior Accessories,Rivermark,212.71,324.1,6.43,37,308,False
+P0071,Everline Shipping Container,Industrial Supplies,Material Handling,Everline,246.83,579.42,3.09,33,396,False
+P0072,BrightPath Circular Saw,Industrial Supplies,Power Tools,BrightPath,28.58,53.57,3.39,33,453,False
+P0073,Everline Access Point,Electronics,Networking,Everline,78.47,174.24,1.55,52,43,False
+P0074,Primeworks Wireless Mouse,Electronics,Computer Accessories,Primeworks,25.68,47.83,3.65,6,76,False
+P0075,Northgate Electric Kettle,Home & Kitchen,Small Appliances,Northgate,118.41,293.21,0.94,10,443,False
+P0076,Craftmore Cardigan,Apparel & Footwear,Women's Apparel,Craftmore,30.4,54.96,3.48,59,95,False
+P0077,Nordholt Wok,Home & Kitchen,Cookware,Nordholt,90.07,181.57,1.27,10,197,False
+P0078,Ferro & Co Filing Cabinet,Furniture,Office Furniture,Ferro & Co,302.67,406.64,2.76,28,269,False
+P0079,Ridgeline Wi-Fi Router,Electronics,Networking,Ridgeline,92.3,178.53,3.42,16,253,True
+P0080,Ferro & Co Angle Grinder,Industrial Supplies,Power Tools,Ferro & Co,284.84,373.27,3.04,24,25,True
+P0081,Ridgeline Exercise Bike,Sports & Outdoors,Fitness Equipment,Ridgeline,195.49,294.07,5.61,22,480,False
+P0082,Rivermark Baseball Glove,Sports & Outdoors,Team Sports,Rivermark,91.69,135.23,1.66,31,444,False
+P0083,Rivermark Bookshelf,Office Supplies,Office Furniture,Rivermark,37.43,72.98,0.96,41,278,False
+P0084,Nordholt Desk Lamp,Furniture,Office Furniture,Nordholt,444.26,941.44,3.55,31,481,False
+P0085,Oakfield Highlighter Set,Office Supplies,Writing Instruments,Oakfield,42.34,69.26,0.77,40,467,False
+P0086,Everline Hand Truck,Industrial Supplies,Material Handling,Everline,135.16,217.66,0.88,36,448,True
+P0087,Halvorsen TV Stand,Furniture,Home Furniture,Halvorsen,393.93,776.81,1.07,52,416,False
+P0088,Everline Water Blaster,Toys & Games,Outdoor Toys,Everline,20.6,35.98,3.32,11,245,False
+P0089,Lumenis Summer Dress,Apparel & Footwear,Women's Apparel,Lumenis,85.96,222.96,4.06,33,379,False
+P0090,Craftmore Sandals,Apparel & Footwear,Footwear,Craftmore,24.2,31.51,0.81,13,213,False
+P0091,TrueForm GPS Running Watch,Electronics,Wearables,TrueForm,24.96,52.1,1.64,6,228,False
+P0092,Lumenis Digital Thermometer,Health & Personal Care,Medical Supplies,Lumenis,12.17,28.29,2.63,58,81,False
+P0093,Sunmark Cotton Sheet Set,Home & Kitchen,Bedding,Sunmark,53.22,84.9,2.27,13,265,False
+P0094,Urban Forge Toaster,Home & Kitchen,Small Appliances,Urban Forge,102.35,213.31,1.42,19,20,False
+P0095,TrueForm Trekking Poles,Sports & Outdoors,Camping & Hiking,TrueForm,246.5,579.8,2.71,19,421,False
+P0096,Urban Forge Garden Bench,Furniture,Outdoor Furniture,Urban Forge,459.58,692.83,0.69,44,239,False
+P0097,Halvorsen Sidewalk Chalk Set,Toys & Games,Outdoor Toys,Halvorsen,13.24,27.91,2.82,37,103,False
+P0098,Corestone Bluetooth Car Adapter,Automotive Parts,Electronics,Corestone,149.95,235.99,0.75,34,200,False
+P0099,Clearwater LED Bike Light Set,Sports & Outdoors,Cycling,Clearwater,215.18,397.71,2.0,28,291,False
+P0100,Nordholt Trampoline,Toys & Games,Outdoor Toys,Nordholt,15.75,35.71,0.81,31,216,False
+P0101,TrueForm Comforter,Home & Kitchen,Bedding,TrueForm,110.26,171.54,3.8,22,58,False
+P0102,Lumenis Comforter,Home & Kitchen,Bedding,Lumenis,124.96,243.44,1.51,18,42,False
+P0103,Clearwater Coffee Maker,Home & Kitchen,Small Appliances,Clearwater,131.82,283.44,1.83,14,260,False
+P0104,Northgate Cargo Carrier,Automotive Parts,Exterior Accessories,Northgate,134.31,316.44,0.4,7,314,False
+P0105,Primeworks Yoga Leggings,Apparel & Footwear,Women's Apparel,Primeworks,25.82,63.92,2.27,18,340,False
+P0106,Clearwater Sofa,Furniture,Home Furniture,Clearwater,65.51,170.23,4.06,25,468,False
+P0107,Lumenis Angle Grinder,Industrial Supplies,Power Tools,Lumenis,198.6,412.72,3.0,5,289,False
+P0108,Primeworks Summer Dress,Apparel & Footwear,Women's Apparel,Primeworks,18.89,31.73,4.46,47,161,False
+P0109,Sunmark Multivitamin Bottle,Health & Personal Care,Vitamins & Supplements,Sunmark,74.14,98.01,1.06,49,228,False
+P0110,Oakfield Cycling Gloves,Sports & Outdoors,Cycling,Oakfield,43.65,59.83,1.49,32,386,False
+P0111,Steelbridge Digital Thermometer,Health & Personal Care,Medical Supplies,Steelbridge,12.85,28.85,0.54,32,75,False
+P0112,Nordholt Hiking Shoes,Apparel & Footwear,Footwear,Nordholt,60.52,133.27,1.53,8,420,False
+P0113,Halvorsen Screen Protector,Electronics,Mobile Accessories,Halvorsen,40.88,72.76,3.31,59,121,False
+P0114,BrightPath Fleece Jacket,Apparel & Footwear,Men's Apparel,BrightPath,18.82,25.38,3.85,39,401,False
+P0115,Corestone Work Gloves,Industrial Supplies,Safety Equipment,Corestone,119.25,167.69,6.43,25,375,False
+P0116,TrueForm Air Fryer,Home & Kitchen,Small Appliances,TrueForm,93.17,204.24,5.51,38,21,False
+P0117,Halvorsen Ethernet Cable,Electronics,Networking,Halvorsen,144.46,240.39,2.24,13,363,False
+P0118,Halvorsen Power Bank,Electronics,Mobile Accessories,Halvorsen,209.22,543.34,6.16,15,90,False
+P0119,Kessler & Vane Resistance Bands,Sports & Outdoors,Fitness Equipment,Kessler & Vane,88.58,206.48,1.15,13,368,False
+P0120,Primeworks Bookshelf,Office Supplies,Office Furniture,Primeworks,39.23,94.44,3.22,25,298,False
+P0121,Corestone Fitness Tracker,Electronics,Wearables,Corestone,22.5,55.39,3.37,34,327,False
+P0122,Clearwater Alphabet Blocks,Toys & Games,Educational Toys,Clearwater,68.73,88.0,2.51,10,401,False
+P0123,Craftmore STEM Kit,Toys & Games,Educational Toys,Craftmore,22.25,46.21,2.57,59,48,False
+P0124,Primeworks Hand Truck,Industrial Supplies,Material Handling,Primeworks,267.2,453.94,2.56,28,71,False
+P0125,Urban Forge Car Battery,Automotive Parts,Maintenance,Urban Forge,11.89,17.65,1.88,25,253,False
+P0126,Primeworks Bike Lock,Sports & Outdoors,Cycling,Primeworks,45.01,65.14,2.61,17,324,False
+P0127,Steelbridge Sidewalk Chalk Set,Toys & Games,Outdoor Toys,Steelbridge,38.3,80.62,2.15,54,252,False
+P0128,Kessler & Vane Yoga Leggings,Apparel & Footwear,Women's Apparel,Kessler & Vane,78.61,151.05,,41,258,False
+P0129,Rivermark Summer Dress,Apparel & Footwear,Women's Apparel,Rivermark,65.59,145.97,3.51,32,248,False
+P0130,BrightPath Ethernet Cable,Electronics,Networking,BrightPath,204.82,303.64,1.25,32,404,False
+P0131,BrightPath Umbrella Stand,Furniture,Outdoor Furniture,BrightPath,415.75,644.8,2.73,46,151,False
+P0132,Steelbridge Car Battery,Automotive Parts,Maintenance,Steelbridge,138.32,188.85,2.47,33,474,False
+P0133,Craftmore Ethernet Cable,Electronics,Networking,Craftmore,78.97,180.09,4.08,4,321,False
+P0134,TrueForm File Folder Box,Office Supplies,Filing & Storage,TrueForm,11.86,15.57,3.03,32,259,False
+P0135,Oakfield Air Fryer,Home & Kitchen,Small Appliances,Oakfield,132.56,284.58,2.98,28,410,False
+P0136,Ridgeline Wireless Charger,Electronics,Mobile Accessories,Ridgeline,56.39,112.16,2.78,39,344,False
+P0137,Everline Leather Boots,Apparel & Footwear,Footwear,Everline,61.06,139.31,0.17,39,236,False
+P0138,Ridgeline Duvet Cover,Home & Kitchen,Bedding,Ridgeline,96.24,169.22,4.05,29,467,False
+P0139,Rivermark Volleyball Set,Sports & Outdoors,Team Sports,Rivermark,125.97,272.2,4.47,14,385,False
+P0140,Oakfield Fish Oil Capsules,Health & Personal Care,Vitamins & Supplements,Oakfield,11.88,20.66,2.93,27,110,False
+P0141,Sunmark Blood Pressure Monitor,Health & Personal Care,Medical Supplies,Sunmark,52.61,114.81,4.72,19,145,False
+P0142,BrightPath Bookshelf,Office Supplies,Office Furniture,BrightPath,28.0,70.75,4.56,38,473,False
+P0143,Ferro & Co Memory Foam Pillow,Home & Kitchen,Bedding,Ferro & Co,74.43,139.43,5.11,52,332,False
+P0144,Rivermark Label Maker,Office Supplies,Filing & Storage,Rivermark,5.01,9.86,4.16,59,310,False
+P0145,Corestone Outdoor Dining Table,Furniture,Outdoor Furniture,Corestone,167.68,413.2,0.82,34,233,False
+P0146,Northgate Wireless Earbuds,Electronics,Audio,Northgate,174.9,278.71,1.57,52,36,False
+P0147,Oakfield Card Game Set,Toys & Games,Board Games,Oakfield,42.65,96.54,2.37,14,189,False
+P0148,TrueForm Multivitamin Bottle,Health & Personal Care,Vitamins & Supplements,TrueForm,20.98,36.84,3.16,25,329,False
+P0149,Ferro & Co Sleeping Bag,Sports & Outdoors,Camping & Hiking,Ferro & Co,184.32,361.7,4.0,56,315,False
+P0150,Vantage Pro Compression Bandage,Health & Personal Care,Medical Supplies,Vantage Pro,51.89,132.53,2.7,57,444,False
+P0151,Urban Forge Sleeping Bag,Sports & Outdoors,Camping & Hiking,Urban Forge,12.61,19.78,2.63,31,127,False
+P0152,Kessler & Vane Floor Mats,Automotive Parts,Interior Accessories,Kessler & Vane,43.31,111.1,4.88,51,475,False
+P0153,Lumenis Heart Rate Monitor,Electronics,Wearables,Lumenis,146.67,268.85,0.43,51,414,False
+P0154,Everline Drawer Organizer,Home & Kitchen,Storage & Organization,Everline,44.78,106.54,1.61,29,361,False
+P0155,Rivermark Blood Pressure Monitor,Health & Personal Care,Medical Supplies,Rivermark,14.11,33.03,0.53,48,437,False
+P0156,Halvorsen Wireless Mouse,Electronics,Computer Accessories,Halvorsen,65.68,100.99,0.39,10,358,False
+P0157,Oakfield High-Visibility Vest,Industrial Supplies,Safety Equipment,Oakfield,172.74,441.21,0.8,40,482,False
+P0158,Everline LED Bike Light Set,Sports & Outdoors,Cycling,Everline,53.25,98.01,2.59,40,256,False
+P0159,Lumenis Sleep Tracker,Electronics,Wearables,Lumenis,203.41,379.36,2.14,40,298,False
+P0160,Primeworks Stainless Steel Screws,Industrial Supplies,Fasteners,Primeworks,175.19,230.01,1.71,53,176,True
+P0161,Steelbridge Backup Camera,Automotive Parts,Electronics,Steelbridge,227.1,440.02,0.34,18,94,False
+P0162,Everline Sunglasses,Apparel & Footwear,Accessories,Everline,84.85,133.52,1.62,34,55,False
+P0163,Everline Strategy Board Game,Toys & Games,Board Games,Everline,40.89,71.84,1.2,14,278,False
+P0164,Halvorsen Desk Lamp,Furniture,Office Furniture,Halvorsen,217.37,433.82,4.26,41,178,False
+P0165,Primeworks Ballpoint Pen Pack,Office Supplies,Writing Instruments,Primeworks,24.65,48.59,2.48,8,295,False
+P0166,Rivermark First Aid Kit,Health & Personal Care,Medical Supplies,Rivermark,50.05,79.86,2.04,20,446,False
+P0167,Nordholt Strategy Board Game,Toys & Games,Board Games,Nordholt,27.22,70.41,7.65,27,363,False
+P0168,Primeworks Garden Bench,Furniture,Outdoor Furniture,Primeworks,273.63,703.8,1.84,26,493,False
+P0169,Primeworks Air Fryer,Home & Kitchen,Small Appliances,Primeworks,51.47,68.48,4.49,39,402,False
+P0170,Craftmore Sidewalk Chalk Set,Toys & Games,Outdoor Toys,Craftmore,45.73,103.3,0.85,24,289,False
+P0171,BrightPath Shin Guards,Sports & Outdoors,Team Sports,BrightPath,47.7,72.77,2.46,55,218,False
+P0172,Vantage Pro Bed Frame,Furniture,Home Furniture,Vantage Pro,106.47,234.09,3.59,14,73,False
+P0173,Ridgeline Probiotic Supplement,Health & Personal Care,Vitamins & Supplements,Ridgeline,63.13,144.43,3.57,44,370,False
+P0174,BrightPath Digital Thermometer,Health & Personal Care,Medical Supplies,BrightPath,29.44,65.76,4.19,45,130,True
+P0175,Ferro & Co Ethernet Cable,Electronics,Networking,Ferro & Co,115.4,232.96,1.98,33,310,False
+P0176,Sunmark Cordless Drill,Industrial Supplies,Power Tools,Sunmark,61.73,112.76,2.78,22,189,False
+P0177,TrueForm Cast Iron Skillet,Home & Kitchen,Cookware,TrueForm,104.39,264.12,4.05,15,303,False
+P0178,Ferro & Co Cotton T-Shirt,Apparel & Footwear,Men's Apparel,Ferro & Co,11.7,25.63,4.33,28,399,False
+P0179,Urban Forge High-Visibility Vest,Industrial Supplies,Safety Equipment,Urban Forge,58.63,80.72,3.23,21,270,False
+P0180,Urban Forge First Aid Kit,Health & Personal Care,Medical Supplies,Urban Forge,13.07,24.51,0.64,11,83,False
+P0181,Corestone Comforter,Home & Kitchen,Bedding,Corestone,46.46,90.22,2.26,56,451,False
+P0182,Corestone Sidewalk Chalk Set,Toys & Games,Outdoor Toys,Corestone,48.22,85.15,0.93,43,224,False
+P0183,Steelbridge Baking Sheet,Home & Kitchen,Cookware,Steelbridge,94.66,183.91,1.43,16,34,False
+P0184,Craftmore Protein Powder,Health & Personal Care,Vitamins & Supplements,Craftmore,11.23,14.42,4.34,20,468,False
+P0185,Vantage Pro Blender,Home & Kitchen,Small Appliances,Vantage Pro,131.42,181.91,6.41,40,38,False
+P0186,Primeworks Coding Robot Kit,Toys & Games,Educational Toys,Primeworks,51.2,125.02,2.87,23,321,False
+P0187,Urban Forge Compression Bandage,Health & Personal Care,Medical Supplies,Urban Forge,34.87,59.59,3.78,23,298,False
+P0188,BrightPath Body Wash Set,Health & Personal Care,Personal Care,BrightPath,26.63,47.0,1.43,17,285,False
+P0189,Northgate Blood Pressure Monitor,Health & Personal Care,Medical Supplies,Northgate,12.17,20.57,2.13,11,87,True
+P0190,Lumenis Work Gloves,Industrial Supplies,Safety Equipment,Lumenis,102.5,130.28,0.87,6,270,False
+P0191,Urban Forge Shelving Unit,Home & Kitchen,Storage & Organization,Urban Forge,52.34,115.62,2.94,37,35,False
+P0192,Urban Forge Anchor Bolts,Industrial Supplies,Fasteners,Urban Forge,62.11,130.61,5.01,4,145,False
+P0193,Ridgeline Road Bike Helmet,Sports & Outdoors,Cycling,Ridgeline,162.58,250.55,3.52,12,276,False
+P0194,Steelbridge Bookshelf,Furniture,Office Furniture,Steelbridge,185.04,282.95,0.94,5,461,False
+P0195,Ridgeline Multivitamin Bottle,Health & Personal Care,Vitamins & Supplements,Ridgeline,53.93,128.46,6.02,39,192,False
+P0196,BrightPath Trivia Game,Toys & Games,Board Games,BrightPath,14.35,23.19,2.38,6,328,False
+P0197,Nordholt Storage Bin,Industrial Supplies,Material Handling,Nordholt,279.29,433.0,1.88,27,264,True
+P0198,Sunmark Bookshelf,Office Supplies,Office Furniture,Sunmark,58.37,84.45,2.63,43,130,False
+P0199,Everline USB-C Hub,Electronics,Computer Accessories,Everline,64.43,94.49,0.68,53,63,False
+P0200,Clearwater Safety Goggles,Industrial Supplies,Safety Equipment,Clearwater,39.8,51.06,3.26,54,205,False
+P0201,Ferro & Co Sandals,Apparel & Footwear,Footwear,Ferro & Co,14.76,32.15,3.36,21,309,False
+P0202,Urban Forge Coffee Table,Furniture,Home Furniture,Urban Forge,290.92,641.61,0.97,53,28,False
+P0203,BrightPath Toaster,Home & Kitchen,Small Appliances,BrightPath,112.33,193.49,7.12,36,255,False
+P0204,Halvorsen Coding Robot Kit,Toys & Games,Educational Toys,Halvorsen,50.33,84.18,2.76,46,118,False
+P0205,Corestone Cordless Drill,Industrial Supplies,Power Tools,Corestone,153.62,365.87,1.39,56,483,False
+P0206,Ferro & Co Hair Dryer,Health & Personal Care,Personal Care,Ferro & Co,11.45,24.12,3.58,57,312,False
+P0207,Sunmark Fish Oil Capsules,Health & Personal Care,Vitamins & Supplements,Sunmark,79.41,128.83,1.73,45,229,False
+P0208,Corestone STEM Kit,Toys & Games,Educational Toys,Corestone,58.72,114.15,1.46,38,390,False
+P0209,Oakfield Digital Thermometer,Health & Personal Care,Medical Supplies,Oakfield,22.24,43.85,3.64,11,77,False
+P0210,BrightPath Reciprocating Saw,Industrial Supplies,Power Tools,BrightPath,186.06,431.48,1.97,12,335,False
+P0211,Sunmark Water Blaster,Toys & Games,Outdoor Toys,Sunmark,8.09,14.43,1.26,24,404,False
+P0212,TrueForm Heart Rate Monitor,Electronics,Wearables,TrueForm,180.13,277.81,0.53,12,448,False
+P0213,Lumenis Foam Roller,Sports & Outdoors,Fitness Equipment,Lumenis,160.64,248.11,0.58,5,238,False
+P0214,Everline Blouse,Apparel & Footwear,Women's Apparel,Everline,35.79,85.31,1.53,53,33,False
+P0215,Craftmore Model Vehicle Kit,Toys & Games,Action Figures,Craftmore,42.62,77.76,2.54,36,414,False
+P0216,Craftmore Sticky Note Pack,Office Supplies,Paper Products,Craftmore,12.26,26.74,1.37,16,210,False
+P0217,Northgate Shipping Container,Industrial Supplies,Material Handling,Northgate,36.85,49.41,0.42,10,116,True
+P0218,Ferro & Co Hard Hat,Industrial Supplies,Safety Equipment,Ferro & Co,42.87,53.85,1.53,10,420,False
+P0219,Clearwater Trekking Poles,Sports & Outdoors,Camping & Hiking,Clearwater,35.89,79.78,7.19,30,237,False
+P0220,Kessler & Vane Camping Tent,Sports & Outdoors,Camping & Hiking,Kessler & Vane,209.39,302.76,2.63,12,257,False
+P0221,Kessler & Vane Storage Bin,Industrial Supplies,Material Handling,Kessler & Vane,94.83,239.06,6.02,34,474,False
+P0222,BrightPath Hiking Shoes,Apparel & Footwear,Footwear,BrightPath,58.53,125.39,3.09,7,473,False
+P0223,Ferro & Co Anchor Bolts,Industrial  Supplies,Fasteners,Ferro & Co,218.25,565.6,1.63,47,476,False
+P0224,Primeworks Washer Assortment,Industrial Supplies,Fasteners,Primeworks,43.6,105.26,1.83,23,236,False
+P0225,Steelbridge Bike Lock,Sports & Outdoors,Cycling,Steelbridge,23.88,35.49,3.39,33,489,False
+P0226,BrightPath Soundbar,Electronics,Audio,BrightPath,167.76,404.03,5.79,24,339,False
+P0227,Urban Forge Cotton Sheet Set,Home & Kitchen,Bedding,Urban Forge,21.83,51.92,1.91,7,200,False
+P0228,TrueForm Fish Oil Capsules,Health & Personal Care,Vitamins & Supplements,TrueForm,74.79,187.78,0.93,25,432,False
+P0229,Steelbridge Cycling Gloves,Sports & Outdoors,Cycling,Steelbridge,92.85,180.56,6.85,48,43,False
+P0230,Rivermark Drawer Organizer,Home & Kitchen,Storage & Organization,Rivermark,8.93,13.38,2.44,43,336,False
+P0231,Steelbridge Range Extender,Electronics,Networking,Steelbridge,166.18,381.98,2.74,17,156,False
+P0232,Steelbridge Dining Chair Set,Furniture,Home Furniture,Steelbridge,54.42,69.7,5.47,53,83,False
+P0233,Clearwater Storage Bin Set,Home & Kitchen,Storage & Organization,Clearwater,69.63,108.48,8.18,20,158,False
+P0234,Kessler & Vane Seat Cover Set,Automotive Parts,Interior Accessories,Kessler & Vane,118.3,185.34,2.96,32,96,False
+P0235,Nordholt Filing Cabinet,Furniture,Office Furniture,Nordholt,139.49,192.19,1.07,19,401,False
+P0236,Sunmark Stainless Steel Screws,Industrial Supplies,Fasteners,Sunmark,152.55,369.99,7.89,24,167,True
+P0237,Ferro & Co Filing Cabinet,Office Supplies,Office Furniture,Ferro & Co,25.94,47.14,2.11,18,28,False
+P0238,Ferro & Co Digital Thermometer,Health & Personal Care,Medical Supplies,Ferro & Co,33.63,79.66,4.0,31,312,False
+P0239,Everline Fish Oil Capsules,Health & Personal Care,Vitamins & Supplements,Everline,53.78,82.77,1.8,41,492,False
+P0240,Lumenis Exercise Bike,Sports & Outdoors,Fitness Equipment,Lumenis,142.35,307.2,1.69,29,458,False
+P0241,Oakfield Hard Hat,Industrial Supplies,Safety Equipment,Oakfield,43.72,73.11,0.36,10,371,False
+P0242,Clearwater Stainless Steel Screws,Industrial Supplies,Fasteners,Clearwater,45.98,104.75,2.07,53,20,True
+P0243,Steelbridge Work Gloves,Industrial Supplies,Safety Equipment,Steelbridge,18.78,46.23,1.3,43,432,False
+P0244,Everline Anchor Bolts,Industrial Supplies,Fasteners,Everline,132.86,242.67,1.69,39,307,False
+P0245,Everline Exercise Bike,Sports & Outdoors,Fitness Equipment,Everline,137.15,352.31,2.25,57,31,False
+P0246,Sunmark Webcam,Electronics,Computer Accessories,Sunmark,200.31,511.94,2.15,40,180,True
+P0247,Lumenis Basketball,Sports & Outdoors,Team Sports,Lumenis,64.73,125.83,1.82,28,244,False
+P0248,Sunmark Dash Camera,Automotive Parts,Interior Accessories,Sunmark,302.36,449.33,2.08,15,380,True
+P0249,Steelbridge Vitamin C Tablets,Health & Personal Care,Vitamins & Supplements,Steelbridge,26.53,44.7,3.88,13,314,True
+P0250,Ridgeline Soundbar,electronics,Audio,Ridgeline,150.21,307.43,1.74,59,492,False
+P0251,Primeworks Heart Rate Monitor,Electronics,Wearables,Primeworks,80.36,153.21,2.24,29,456,True
+P0252,Halvorsen Dash Cam,Automotive Parts,Electronics,Halvorsen,27.26,36.25,1.76,9,322,False
+P0253,Halvorsen Bluetooth Car Adapter,Automotive Parts,Electronics,Halvorsen,285.47,639.07,7.43,45,106,False
+P0254,Primeworks Fish Oil Capsules,Health & Personal Care,Vitamins & Supplements,Primeworks,16.87,21.63,4.13,9,272,False
+P0255,Nordholt Blouse,Apparel & Footwear,Women's Apparel,Nordholt,59.3,76.31,2.06,41,385,False
+P0256,Urban Forge Basketball,Sports & Outdoors,Team Sports,Urban Forge,200.34,484.2,2.32,45,323,False
+P0257,Ridgeline Work Gloves,Industrial Supplies,Safety Equipment,Ridgeline,254.9,489.2,1.0,17,107,False
+P0258,Ridgeline Seat Cover Set,Automotive Parts,Interior Accessories,Ridgeline,51.12,90.9,7.85,55,21,False
+P0259,Steelbridge Washer Assortment,Industrial  Supplies,Fasteners,Steelbridge,149.18,221.57,3.52,8,207,False
+P0260,Vantage Pro Baking Sheet,Home & Kitchen,Cookware,Vantage Pro,39.02,64.53,2.36,19,455,False
+P0261,BrightPath Shipping Container,Industrial Supplies,Material Handling,BrightPath,160.34,298.21,1.19,59,207,False
+P0262,Clearwater Outdoor Dining Table,Furniture,Outdoor Furniture,Clearwater,503.34,967.93,0.8,42,164,False
+P0263,Halvorsen Cotton T-Shirt,Apparel & Footwear,Men's Apparel,Halvorsen,76.14,136.71,1.83,26,469,False
+P0264,Northgate Cast Iron Skillet,Home & Kitchen,Cookware,Northgate,56.85,112.09,0.68,39,247,False
+P0265,Halvorsen Cast Iron Skillet,Home & Kitchen,Cookware,Halvorsen,73.97,148.74,1.95,7,114,False
+P0266,Everline Phone Case,Electronics,Mobile Accessories,Everline,148.43,331.58,1.34,17,141,False
+P0267,Clearwater Legal Pad,Office Supplies,Paper Products,Clearwater,57.07,98.29,3.63,46,465,False
+P0268,Vantage Pro Stainless Steel Pot Set,Home & Kitchen,Cookware,Vantage Pro,76.99,199.34,4.78,12,269,False
+P0269,Halvorsen Wiper Blades,Automotive Parts,Maintenance,Halvorsen,140.95,194.32,1.05,18,317,False
+P0270,TrueForm Cotton T-Shirt,Apparel & Footwear,Men's Apparel,TrueForm,17.27,39.82,1.86,41,227,False
+P0271,Sunmark Cardigan,Apparel & Footwear,Women's Apparel,Sunmark,77.43,132.34,1.31,15,484,False
+P0272,Clearwater Shaving Kit,Health & Personal Care,Personal Care,Clearwater,23.89,33.11,5.5,16,79,False
+P0273,Oakfield Camping Tent,Sports & Outdoors,Camping & Hiking,Oakfield,228.29,461.72,4.87,15,54,False
+P0274,Everline Ergonomic Office Chair,Furniture,Office Furniture,Everline,128.14,206.23,5.67,58,88,False
+P0275,Vantage Pro Standing Desk,Furniture,Office Furniture,Vantage Pro,479.91,639.23,3.65,12,434,False
+P0276,Halvorsen Drawer Organizer,Home & Kitchen,Storage & Organization,Halvorsen,10.96,14.71,1.35,44,159,False
+P0277,Halvorsen Adjustable Dumbbells,Sports & Outdoors,Fitness Equipment,Halvorsen,219.05,371.72,0.92,25,108,False
+P0278,Nordholt Volleyball Set,Sports & Outdoors,Team Sports,Nordholt,215.82,351.51,0.93,59,476,False
+P0279,Primeworks Shin Guards,Sports & Outdoors,Team Sports,Primeworks,198.09,423.6,2.63,30,303,False
+P0280,Craftmore Cycling Gloves,Sports & Outdoors,Cycling,Craftmore,87.8,207.41,1.61,30,485,False
+P0281,BrightPath Yoga Mat,Sports & Outdoors,Fitness Equipment,BrightPath,167.19,211.56,3.92,15,308,False
+P0282,Halvorsen Washer Assortment,Industrial Supplies,Fasteners,Halvorsen,262.07,373.49,4.98,42,235,False
+P0283,Urban Forge Range Extender,Electronics,Networking,Urban Forge,218.46,286.9,8.68,48,295,False
+P0284,Halvorsen Leather Belt,Apparel & Footwear,Accessories,Halvorsen,85.21,117.96,2.4,51,41,False
+P0285,Kessler & Vane Phone Case,Electronics,Mobile Accessories,Kessler & Vane,166.5,299.46,1.91,11,92,False
+P0286,Urban Forge Collectible Action Figure,Toys & Games,Action Figures,Urban Forge,56.61,91.08,1.0,29,393,False
+P0287,Urban Forge Cardigan,Apparel & Footwear,Women's Apparel,Urban Forge,16.17,33.53,3.77,38,113,False
+P0288,Clearwater Storage Cabinet,Office Supplies,Filing & Storage,Clearwater,38.25,84.53,2.39,55,296,False
+P0289,Sunmark Cargo Strap,Industrial Supplies,Material Handling,Sunmark,102.62,202.71,2.03,31,120,False
+P0290,Urban Forge Stainless Steel Pot Set,Home and Kitchen,Cookware,Urban Forge,75.62,127.54,2.61,13,449,False
+P0291,Urban Forge Wireless Charger,Electronics,Mobile Accessories,Urban Forge,82.93,121.6,5.45,14,66,False
+P0292,Ridgeline Phone Case,Electronics,Mobile Accessories,Ridgeline,40.27,92.37,1.36,33,476,False
+P0293,Oakfield Garden Bench,Furniture,Outdoor Furniture,Oakfield,253.0,537.79,1.83,58,462,False
+P0294,Nordholt Circular Saw,Industrial Supplies,Power Tools,Nordholt,206.1,465.65,0.54,17,391,False
+P0295,Oakfield USB-C Hub,Electronics,Computer Accessories,Oakfield,170.39,404.71,4.65,28,200,False
+P0296,Ridgeline Sunglasses,Apparel & Footwear,Accessories,Ridgeline,58.91,130.35,1.66,37,121,False
+P0297,Everline Wiper Blades,Automotive Parts,Maintenance,Everline,171.29,420.05,7.09,38,98,False
+P0298,Kessler & Vane Dash Cam,Automotive Parts,Electronics,Kessler & Vane,150.32,293.34,2.84,27,160,False
+P0299,Everline Yoga Mat,Sports & Outdoors,Fitness Equipment,Everline,94.37,239.14,2.83,22,412,False
+P0300,Northgate Shaving Kit,Health & Personal Care,Personal Care,Northgate,16.23,33.31,2.11,51,266,False
+P0301,Lumenis Chess Set,Toys & Games,Board Games,Lumenis,19.58,28.42,2.37,35,308,False
+P0302,Northgate Car Cover,Automotive Parts,Exterior Accessories,Northgate,23.08,41.05,3.15,39,79,False
+P0303,Sunmark Polo Shirt,Apparel & Footwear,Men's Apparel,Sunmark,7.86,10.21,3.06,37,197,False
+P0304,Oakfield Garden Bench,Furniture,Outdoor Furniture,Oakfield,326.62,834.58,2.39,41,438,False
+P0305,Sunmark Threaded Rod,Industrial Supplies,Fasteners,Sunmark,254.62,351.02,1.86,21,339,True
+P0306,Vantage Pro Basketball,Sports & Outdoors,Team Sports,Vantage Pro,112.54,268.31,4.01,6,480,False
+P0307,Everline Steering Wheel Cover,Automotive Parts,Interior Accessories,Everline,194.62,432.49,0.32,10,200,False
+P0308,Rivermark Electric Kettle,Home & Kitchen,Small Appliances,Rivermark,72.94,139.16,2.29,17,271,False
+P0309,Halvorsen Memory Foam Pillow,Home & Kitchen,Bedding,Halvorsen,121.77,226.6,4.75,32,420,False
+P0310,Oakfield Legal Pad,Office Supplies,Paper Products,Oakfield,9.85,24.41,0.55,50,242,False
+P0311,Northgate Floor Mats,Automotive Parts,Interior Accessories,Northgate,92.73,213.64,9.01,13,424,False
+P0312,Nordholt Shelving Unit,Home & Kitchen,Storage & Organization,Nordholt,138.8,342.12,1.54,35,292,False
+P0313,Corestone Dining Chair Set,Furniture,Home Furniture,Corestone,461.24,818.47,7.57,13,246,False
+P0314,Clearwater Vitamin C Tablets,Health & Personal Care,Vitamins & Supplements,Clearwater,8.1,20.37,1.55,32,498,False
+P0315,TrueForm Copy Paper Ream,Office Supplies,Paper Products,TrueForm,7.94,20.64,2.52,52,162,False
+P0316,Primeworks Vitamin C Tablets,Health & Personal Care,Vitamins & Supplements,Primeworks,36.66,95.11,1.99,32,478,False
+P0317,Northgate Cardigan,Apparel & Footwear,Women's Apparel,Northgate,52.5,106.9,4.68,51,230,False
+P0318,Vantage Pro Bookshelf,Office Supplies,Office Furniture,Vantage Pro,46.61,79.82,0.56,54,27,False
+P0319,Everline Wi-Fi Router,Electronics,Networking,Everline,106.41,263.06,3.35,57,270,False
+P0320,Corestone Backup Camera,Automotive Parts,Electronics,Corestone,242.59,354.64,,25,309,False

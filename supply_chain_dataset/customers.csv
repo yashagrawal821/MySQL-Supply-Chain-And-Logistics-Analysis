@@ -1,0 +1,1519 @@
+CustomerID,CustomerName,CustomerType,Industry,Country,Region,City,StateProvince,PostalCode,SignupDate,CustomerSegment
+C00001,Ling Oliveira,B2C,Consumer,Singapore,Asia Pacific,Singapore,,43239,2024-02-11,Consumer
+C00002,Pinnacle Partners,B2B,Construction,Netherlands,Europe,Rotterdam,,21803,2024-01-19,Small Business
+C00003,Claire Wilson,B2C,Consumer,Argentina,Latin America,Buenos Aires,,18976,2025-09-07,Consumer
+C00004,Horizon Supply Co.,B2B,Hospitality,Vietnam,Asia Pacific,Hanoi,,89453,2023-07-27,Mid-Market
+C00005,Pinnacle Supply Co.,B2B,Energy,United States,North America,Columbus,IL,32352,2024-06-08,Enterprise
+C00006,Skyline Systems,B2B,Healthcare,South Africa,Middle East & Africa,Johannesburg,,62341,2023-03-18,Mid-Market
+C00007,Joseph Clark,B2C,Consumer,Singapore,Asia Pacific,Singapore,,31667,2023-10-31,Consumer
+C00008,Union Supply Co.,B2B,Telecommunications,China,Asia Pacific,Shenzhen,,26519,2023-09-22,Small Business
+C00009,Vertex Systems,B2B,Hospitality,United States,North America,Atlanta,CA,31239,2025-09-14,Mid-Market
+C00010,Frontier Retail Group,B2B,Agriculture,Spain,Europe,Madrid,,65215,2024-05-31,Small Business
+C00011,Betty Ramirez,B2C,Consumer,Poland,Europe,Gdansk,,11422,2025-02-17,Consumer
+C00012,Frontier Wholesale,B2B,Education,Argentina,Latin America,Buenos Aires,,85294,2024-12-05,Mid-Market
+C00013,Jessica Jones,B2C,Consumer,Singapore,Asia Pacific,Singapore,,20668,2025-07-18,Consumer
+C00014,Cascade Systems,B2B,Hospitality,Vietnam,Asia Pacific,Ho Chi Minh City,,94491,2024-11-20,Mid-Market
+C00015,Pioneer Enterprises,B2B,Construction,Spain,Europe,Barcelona,,78898,2023-08-02,Enterprise
+C00016,Ironclad Traders,B2B,Healthcare,Canada,North America,Toronto,,83078,2023-09-05,Enterprise
+C00017,Sterling Traders,B2B,Consumer Goods,Spain,Europe,Barcelona,,40799,2025-06-11,Mid-Market
+C00018,Apex Depot,B2B,Automotive,Mexico,North America,Mexico City,,79820,2025-04-30,Mid-Market
+C00019,Lucas Gonzalez,B2C,Consumer,Australia,Asia Pacific,Sydney,,61404,2024-09-18,Small Business
+C00020,Vantage Partners,B2B,Telecommunications,Vietnam,Asia Pacific,Ho Chi Minh City,,40453,2025-06-06,Enterprise
+C00021,Apex Enterprises,B2B,Healthcare,Singapore,Asia Pacific,Singapore,,76694,2023-08-03,Mid-Market
+C00022,Quantum Trading Co.,B2B,Consumer Goods,Spain,Europe,Barcelona,,46301,2024-12-16,Mid-Market
+C00023,Michael Schmidt,B2C,Consumer,United Arab Emirates,Middle East & Africa,Dubai,,52140,2024-03-29,Consumer
+C00024,Apex Holdings,B2B,Healthcare,Brazil,Latin America,Sao Paulo,,67274,2025-05-22,Small Business
+C00025,Sterling Holdings,B2B,Healthcare,China,Asia Pacific,Shanghai,,46183,2024-07-16,Small Business
+C00026,Apex Retail Group,B2B,Manufacturing,Canada,North America,Montreal,,24470,2023-06-27,Small Business
+C00027,Sven Anderson,B2C,Consumer,United Kingdom,Europe,Manchester,,87242,2025-07-18,Consumer
+C00028,Cascade Partners,B2B,Energy,Mexico,North America,Mexico City,,80274,2023-05-14,Enterprise
+C00029,Prime Import Export,B2B,Healthcare,United States,North America,Columbus,WA,24511,2024-08-01,Small Business
+C00030,Bluewave Distribution,B2B,Hospitality,Australia,Asia Pacific,Sydney,,87191,2024-07-05,Mid-Market
+C00031,Ava Dubois,B2C,Consumer,Japan,Asia Pacific,Osaka,,32766,2023-09-28,Consumer
+C00032,Susan Ramirez,B2C,Consumer,Saudi Arabia,Middle East & Africa,Jeddah,,24107,2025-11-18,Consumer
+C00033,Union Traders,B2B,Food & Beverage,Mexico,North America,Mexico City,,18442,2023-09-01,Small Business
+C00034,Meridian Solutions,B2B,Government,Netherlands,Europe,Amsterdam,,80195,2024-02-24,Small Business
+C00035,Anchor Distribution,B2B,Government,United Kingdom,Europe,London,,84662,2025-10-21,Small Business
+C00036,Cascade Ventures,B2B,Government,Canada,North America,Toronto,,83641,2024-06-27,Enterprise
+C00037,Global Mart,B2B,Consumer Goods,Mexico,North America,Guadalajara,,,2024-01-30,Enterprise
+C00038,Valentina Tran,B2C,Consumer,Netherlands,Europe,Amsterdam,,57815,2024-08-23,Consumer
+C00039,Nova Retail Group,B2B,Technology,Mexico,North America,Monterrey,,43441,2025-11-16,Small Business
+C00040,Vertex Wholesale,B2B,Manufacturing,Singapore,Asia Pacific,Singapore,,11557,2024-05-07,Small Business
+C00041,Skyline Depot,B2B,Education,Spain,Europe,Barcelona,,97510,2023-10-16,Enterprise
+C00042,Crest Networks,B2B,Healthcare,Singapore,Asia Pacific,Singapore,,18100,2023-05-26,Enterprise
+C00043,Michael Jones,B2C,Consumer,Japan,Asia Pacific,Tokyo,,84452,2024-08-01,Consumer
+C00044,Nova Import Export,B2B,Hospitality,United States,North America,Columbus,GA,47309,2024-11-30,Mid-Market
+C00045,Union Logistics,B2B,Healthcare,Singapore,Asia Pacific,Singapore,,33463,2025-05-06,Small Business
+C00046,Sarah Santos,B2C,Consumer,Singapore,Asia Pacific,Singapore,,89331,2023-12-28,Consumer
+C00047,Pinnacle Solutions,B2B,Construction,Germany,Europe,Munich,,91880,2024-12-13,Small Business
+C00048,Union Ventures,B2B,Hospitality,Mexico,North America,Mexico City,,93225,2024-11-12,Mid-Market
+C00049,Redwood Ventures,B2B,Telecommunications,India,Asia Pacific,Bengaluru,,50215,2025-04-03,Enterprise
+C00050,Cascade Mart,B2B,Pharmaceuticals,Canada,North America,Toronto,,51746,2025-03-25,Mid-Market
+C00051,Pinnacle Partners,B2B,Food & Beverage,Canada,North America,Toronto,,93516,2025-03-01,Mid-Market
+C00052,Bluewave Systems,B2B,Manufacturing,Mexico,North America,Mexico City,,56317,2023-03-20,Mid-Market
+C00053,Frontier Depot,B2B,Consumer Goods,Vietnam,Asia Pacific,Ho Chi Minh City,,26279,2024-10-07,Mid-Market
+C00054,Quantum Mart,B2B,Technology,India,Asia Pacific,Mumbai,,29394,2025-04-23,Small Business
+C00055,William Cohen,B2C,Consumer,Australia,Asia Pacific,Melbourne,,45575,2023-07-03,Consumer
+C00056,Mark Martinez,B2C,Consumer,Australia,Asia Pacific,Sydney,,24075,2023-09-10,Consumer
+C00057,Mia Bernard,B2C,Consumer,Poland,Europe,Warsaw,,71399,2023-09-03,Consumer
+C00058,Lukas Smith,B2C,Consumer,United Kingdom,Europe,Manchester,,74955,2025-12-21,Consumer
+C00059,Crest Supply Co.,B2B,Food & Beverage,Mexico,North America,Mexico City,,37287,2023-09-04,Small Business
+C00060,Sven Khan,B2C,Consumer,United States,North America,Phoenix,AZ,34221,2025-11-18,Consumer
+C00061,Beacon Ventures,B2B,Government,Australia,Asia Pacific,Sydney,,77424,2025-01-13,Mid-Market
+C00062,Nova Enterprises,B2B,Food & Beverage,France,Europe,Paris,,19433,2025-07-21,Mid-Market
+C00063,Beacon Depot,B2B,Hospitality,Poland,Europe,Gdansk,,69027,2023-10-07,Enterprise
+C00064,Prime Merchants,B2B,Education,Singapore,Asia Pacific,Singapore,,86390,2023-01-25,Enterprise
+C00065,Redwood Mart,B2B,Technology,Australia,Asia Pacific,Melbourne,,21355,2023-03-20,Small Business
+C00066,Richard Lee,B2C,Consumer,Germany,Europe,Frankfurt,,82743,2024-08-25,Consumer
+C00067,Silverline Depot,B2B,Consumer Goods,Netherlands,Europe,Rotterdam,,37024,2024-09-05,Mid-Market
+C00068,Pinnacle Retail Group,B2B,Manufacturing,Mexico,North America,Mexico City,,,2024-01-22,Small Business
+C00069,Apex Commerce,B2B,Government,United States,North America,Atlanta,TX,14125,2025-05-01,Small Business
+C00070,Redwood Distribution,B2B,Healthcare,Spain,Europe,Madrid,,24611,2023-02-16,Mid-Market
+C00071,Richard Wang,B2C,Consumer,Canada,North America,Toronto,,57932,2025-10-11,Consumer
+C00072,Sven Patel,B2C,Consumer,Germany,Europe,Hamburg,,27657,2023-01-14,Consumer
+C00073,Bluewave Solutions,B2B,Manufacturing,Colombia,Latin America,Bogota,,65243,2023-03-08,Small Business
+C00074,Meridian Enterprises,B2B,Government,Canada,North America,Vancouver,,26507,2025-03-21,Enterprise
+C00075,Frontier Partners,B2B,Hospitality,Mexico,North America,Mexico City,,75980,2023-05-23,Small Business
+C00076,Silverline Wholesale,B2B,Education,Mexico,North America,Monterrey,,95216,2025-10-30,Small Business
+C00077,Anthony Dubois,B2C,Consumer,Mexico,North America,Mexico City,,21168,2023-09-22,Consumer
+C00078,Mohammed Sharma,B2C,Consumer,China,Asia Pacific,Shenzhen,,87187,2023-06-15,Consumer
+C00079,Summit Solutions,B2B,Energy,France,Europe,Paris,,40153,2024-07-14,Mid-Market
+C00080,Carlos Williams,B2C,Consumer,Singapore,Asia Pacific,Singapore,,27071,2024-05-04,Consumer
+C00081,Vantage Holdings,B2B,Healthcare,India,Asia Pacific,Bengaluru,,71877,2023-07-25,Enterprise
+C00082,Pioneer Mart,B2B,Telecommunications,Netherlands,Europe,Rotterdam,,48314,2024-03-30,Mid-Market
+C00083,Harbor Industries,B2B,Government,India,Asia Pacific,Delhi,,11239,2024-03-28,Enterprise
+C00084,Pinnacle Networks,B2B,Retail,Canada,North America,Vancouver,,23043,2024-02-19,Mid-Market
+C00085,Meridian Import Export,B2B,Automotive,United States,North America,Newark,IL,80453,2023-04-17,Enterprise
+C00086,Pierre Khan,B2C,Consumer,United States,North America,Phoenix,NJ,34256,2023-11-09,Consumer
+C00087,Union Mart,B2B,Consumer Goods,Vietnam,Asia Pacific,Hanoi,,18268,2024-08-22,Enterprise
+C00088,Global Trading Co.,B2B,Pharmaceuticals,Spain,Europe,Madrid,,53181,2023-01-04,Mid-Market
+C00089,Pioneer Logistics,B2B,Telecommunications,United States,North America,Atlanta,CA,14127,2025-11-02,Mid-Market
+C00090,Valentina Patel,B2C,Consumer,Netherlands,Europe,Rotterdam,,33294,2025-12-03,Consumer
+C00091,Vertex Holdings,B2B,Automotive,Mexico,North America,Guadalajara,,92067,2025-07-26,Mid-Market
+C00092,Metro Enterprises,B2B,Retail,Vietnam,Asia Pacific,Ho Chi Minh City,,28016,2024-09-09,Mid-Market
+C00093,Coastal Holdings,B2B,Food & Beverage,France,Europe,Paris,,51421,2024-01-25,Mid-Market
+C00094,Betty Brown,B2C,Consumer,France,Europe,Lyon,,48628,2024-09-18,Consumer
+C00095,Prime Ventures,B2B,Manufacturing,Canada,North America,Montreal,,77239,2025-01-13,Mid-Market
+C00096,Jessica Li,B2C,Consumer,China,Asia Pacific,Ningbo,,74222,2024-03-31,Consumer
+C00097,Vertex Partners,B2B,Pharmaceuticals,France,Europe,Lyon,,41290,2024-08-07,Enterprise
+C00098,Crest Holdings,B2B,Retail,United States,North America,Chicago,FL,31622,2025-04-12,Enterprise
+C00099,Sterling Merchants,B2B,Technology,United States,North America,Atlanta,IL,40510,2025-12-10,Mid-Market
+C00100,Global Holdings,B2B,Energy,United Arab Emirates,Middle East & Africa,Abu Dhabi,,93566,2024-01-20,Small Business
+C00101,Global Solutions,B2B,Manufacturing,Colombia,Latin America,Medellin,,25284,2025-04-18,Small Business
+C00102,Emma Schmidt,B2C,Consumer,Japan,Asia Pacific,Tokyo,,93434,2023-12-05,Consumer
+C00103,Anchor Holdings,B2B,Government,Mexico,North America,Mexico City,,79316,2025-01-02,Enterprise
+C00104,Pierre Lee,B2C,Consumer,Egypt,Middle East & Africa,Cairo,,86660,2023-04-18,Consumer
+C00105,Atlas Depot,B2B,Technology,India,Asia Pacific,Delhi,,89146,2023-02-22,Mid-Market
+C00106,Pinnacle Industries,B2B,Energy,Vietnam,Asia Pacific,Hanoi,,43701,2024-07-04,Mid-Market
+C00107,Horizon Commerce,B2B,Education,Netherlands,Europe,Rotterdam,,84151,2024-06-13,Mid-Market
+C00108,Hiroshi Cohen,B2C,Consumer,Mexico,North America,Guadalajara,,,2023-07-01,Consumer
+C00109,Nancy Zhang,B2C,Consumer,Canada,North America,Toronto,,93662,2023-07-01,Consumer
+C00110,Fatima Thomas,B2C,Consumer,Argentina,Latin America,Buenos Aires,,11102,2023-03-06,Consumer
+C00111,Meridian Logistics,B2B,Government,Germany,Europe,Frankfurt,,94333,2024-03-14,Enterprise
+C00112,Vertex Ventures,B2B,Technology,United States,North America,Dallas,TX,74158,2025-02-25,Mid-Market
+C00113,Cascade Import Export,B2B,Construction,Mexico,North America,Guadalajara,,90842,2024-06-12,Small Business
+C00114,Ingrid Lee,B2C,Consumer,Germany,Europe,Frankfurt,,76367,2023-12-11,Consumer
+C00115,Susan Park,B2C,Consumer,Canada,North America,Toronto,,63194,2023-10-05,Consumer
+C00116,Quantum Ventures,B2B,Government,Brazil,Latin America,Sao Paulo,,95485,2025-05-25,Enterprise
+C00117,Ironclad Industries,B2B,Consumer Goods,Japan,Asia Pacific,Osaka,,85212,2024-02-08,Mid-Market
+C00118,Coastal Traders,B2B,Technology,India,Asia Pacific,Bengaluru,,33570,2025-02-02,Enterprise
+C00119,Redwood Partners,B2B,Consumer Goods,United Kingdom,Europe,Manchester,,33908,2025-04-25,Mid-Market
+C00120,Carlos Khan,B2C,Consumer,Vietnam,Asia Pacific,Ho Chi Minh City,,99132,2025-05-19,Consumer
+C00121,Bluewave Retail Group,B2B,Manufacturing,Poland,Europe,Gdansk,,21390,2023-02-03,Mid-Market
+C00122,Lucas Nguyen,B2C,Consumer,India,Asia Pacific,Delhi,,65118,2025-10-12,Consumer
+C00123,Patricia Williams,B2C,Consumer,Canada,North America,Montreal,,29464,2025-02-16,Consumer
+C00124,Global Enterprises,B2B,Agriculture,Poland,Europe,Gdansk,,72249,2024-01-07,Small Business
+C00125,Kwame Jones,B2C,Consumer,United States,North America,Atlanta,WA,24845,2023-08-07,Consumer
+C00126,Harbor Holdings,B2B,Telecommunications,Netherlands,Europe,Amsterdam,,90912,2023-02-13,Small Business
+C00127,Valentina Jackson,B2C,Consumer,United States,North America,Phoenix,GA,88509,2025-04-09,Consumer
+C00128,Beacon Mart,B2B,Hospitality,United States,North America,Dallas,CA,84391,2024-10-17,Small Business
+C00129,Pinnacle Supply Co.,B2B,Healthcare,Canada,North America,Vancouver,,84206,2023-11-12,Enterprise
+C00130,Crest Depot,B2B,Manufacturing,France,Europe,Lyon,,17224,2025-03-28,Mid-Market
+C00131,Vertex Enterprises,B2B,Manufacturing,Canada,North America,Montreal,,23965,2024-09-20,Mid-Market
+C00132,Nancy Rodriguez,B2C,Consumer,Argentina,Latin America,Buenos Aires,,72077,2023-04-16,Consumer
+C00133,Quantum Logistics,B2B,Hospitality,Poland,Europe,Warsaw,,95353,2023-07-06,Enterprise
+C00134,Silverline Depot,B2B,Pharmaceuticals,United Kingdom,Europe,London,,18003,2023-03-24,Small Business
+C00135,Valentina Anderson,B2C,Consumer,Spain,Europe,Madrid,,48361,2025-04-21,Consumer
+C00136,Vantage Depot,B2B,Automotive,Mexico,North America,Mexico City,,36149,2023-06-14,Small Business
+C00137,Vantage Merchants,B2B,Telecommunications,South Africa,Middle East & Africa,Johannesburg,,47671,2025-06-25,Mid-Market
+C00138,Nova Industries,B2B,Telecommunications,France,Europe,Lyon,,13662,2023-12-01,Mid-Market
+C00139,Vantage Ventures,B2B,Healthcare,India,Asia Pacific,Chennai,,86289,2025-11-25,Small Business
+C00140,Vertex Retail Group,B2B,Hospitality,Canada,North America,Toronto,,40194,2025-04-15,Small Business
+C00141,Summit Industries,B2B,Energy,Poland,Europe,Warsaw,,10984,2024-09-07,Mid-Market
+C00142,Coastal Enterprises,B2B,Food & Beverage,United Kingdom,Europe,Birmingham,,29927,2023-05-16,Mid-Market
+C00143,Wei Tran,B2C,Consumer,Egypt,Middle East & Africa,Cairo,,32253,2023-08-12,Consumer
+C00144,Beacon Merchants,B2B,Education,Poland,Europe,Warsaw,,27723,2025-01-17,Small Business
+C00145,Frontier Supply Co.,B2B,Construction,Netherlands,Europe,Amsterdam,,16063,2023-05-31,Mid-Market
+C00146,Pinnacle Solutions,B2B,Pharmaceuticals,Mexico,North America,Monterrey,,19543,2023-04-17,Small Business
+C00147,Redwood Holdings,B2B,Energy,United States,North America,Chicago,GA,74650,2025-09-04,Small Business
+C00148,Mohammed Brown,B2C,Consumer,United Kingdom,Europe,Birmingham,,70438,2024-10-05,Consumer
+C00149,Bluewave Retail Group,B2B,Construction,Poland,Europe,Warsaw,,53323,2024-01-06,Mid-Market
+C00150,Ironclad Ventures,B2B,Energy,United States,North America,Chicago,AZ,27031,2024-10-03,Small Business
+C00151,Zenith Partners,B2B,Retail,China,Asia Pacific,Ningbo,,85981,2024-10-26,Enterprise
+C00152,Ahmed Silva,B2C,Consumer,Chile,Latin America,Santiago,,63304,2024-03-13,Consumer
+C00153,Anthony Zhang,B2C,Consumer,United States,North America,Columbus,FL,40472,2023-11-21,Consumer
+C00154,Silverline Holdings,B2B,Technology,Spain,Europe,Madrid,,22870,2025-05-07,Enterprise
+C00155,Anthony Patel,B2C,Consumer,United States,North America,Atlanta,CA,19517,2025-11-01,Consumer
+C00156,Ironclad Solutions,B2B,Pharmaceuticals,Singapore,Asia Pacific,Singapore,,91112,2025-05-29,Enterprise
+C00157,Nova Depot,B2B,Agriculture,Mexico,North America,Monterrey,,56992,2024-12-12,Small Business
+C00158,Ling Robinson,B2C,Consumer,Australia,Asia Pacific,Sydney,,71470,2024-11-18,Small Business
+C00159,Ironclad Logistics,B2B,Education,Japan,Asia Pacific,Osaka,,80254,2025-10-27,Small Business
+C00160,Atlas Import Export,B2B,Manufacturing,Australia,Asia Pacific,Melbourne,,30945,2025-02-08,Enterprise
+C00161,Crest Partners,B2B,Consumer Goods,Canada,North America,Toronto,,82730,2023-08-24,Enterprise
+C00162,Sterling Merchants,B2B,Automotive,Argentina,Latin America,Buenos Aires,,95263,2023-06-15,Small Business
+C00163,Harbor Commerce,B2B,Government,Mexico,North America,Monterrey,,11483,2024-07-31,Small Business
+C00164,William Thompson,B2C,Consumer,Mexico,North America,Mexico City,,,2025-06-03,Small Business
+C00165,Skyline Distribution,B2B,Healthcare,Germany,Europe,Frankfurt,,49986,2024-08-01,Mid-Market
+C00166,Cascade Ventures,B2B,Education,United Kingdom,Europe,Manchester,,67935,2023-04-30,Mid-Market
+C00167,Bluewave Retail Group,B2B,Construction,China,Asia Pacific,Shenzhen,,83424,2023-10-15,Mid-Market
+C00168,Ling Anderson,B2C,Consumer,Australia,Asia Pacific,Melbourne,,52885,2024-07-20,Consumer
+C00169,Summit Logistics,B2B,Consumer Goods,United States,North America,Columbus,GA,60181,2024-12-22,Enterprise
+C00170,Horizon Commerce,B2B,Construction,Egypt,Middle East & Africa,Cairo,,22419,2025-02-02,Small Business
+C00171,Mary Perez,B2C,Consumer,Mexico,North America,Mexico City,,,2023-03-26,Consumer
+C00172,Pioneer Enterprises,B2B,Construction,Netherlands,Europe,Rotterdam,,67352,2024-05-09,Mid-Market
+C00173,Quantum Networks,B2B,Hospitality,Mexico,North America,Guadalajara,,17986,2024-06-27,Small Business
+C00174,Ingrid Clark,B2C,Consumer,Egypt,Middle East & Africa,Cairo,,73503,2024-03-26,Consumer
+C00175,Global Wholesale,B2B,Government,Mexico,North America,Mexico City,,69944,2025-05-12,Mid-Market
+C00176,Carlos Robinson,B2C,Consumer,United States,North America,Phoenix,NY,34402,2023-04-05,Consumer
+C00177,Arjun Khan,B2C,Consumer,United Kingdom,Europe,Manchester,,41589,2025-09-15,Consumer
+C00178,Crest Trading Co.,B2B,Automotive,United Arab Emirates,Middle East & Africa,Abu Dhabi,,40833,2024-01-14,Mid-Market
+C00179,Apex Ventures,B2B,Food & Beverage,Chile,Latin America,Santiago,,66713,2024-08-18,Small Business
+C00180,Harbor Distribution,B2B,Construction,China,Asia Pacific,Shanghai,,84353,2025-06-20,Enterprise
+C00181,Lukas Thomas,B2C,Consumer,Colombia,Latin America,Medellin,,93014,2023-11-15,Consumer
+C00182,Chen Jones,B2C,Consumer,Colombia,Latin America,Bogota,,45414,2025-12-24,Consumer
+C00183,Rahul Gonzalez,B2C,Consumer,Poland,Europe,Warsaw,,78639,2024-03-08,Consumer
+C00184,Ironclad Merchants,B2B,Technology,United States,North America,Dallas,IL,54244,2023-07-20,Mid-Market
+C00185,Summit Supply Co.,B2B,Food & Beverage,Vietnam,Asia Pacific,Hanoi,,50254,2024-09-13,Mid-Market
+C00186,Pioneer Partners,B2B,Manufacturing,Japan,Asia Pacific,Tokyo,,15935,2024-06-01,Small Business
+C00187,Liam Taylor,B2C,Consumer,France,Europe,Lyon,,80528,2023-06-18,Consumer
+C00188,Apex Enterprises,B2B,Construction,Mexico,North America,Mexico City,,95377,2023-07-01,Mid-Market
+C00189,Hiroshi Nguyen,B2C,Consumer,India,Asia Pacific,Chennai,,83768,2025-05-28,Consumer
+C00190,Mia Santos,B2C,Consumer,Mexico,North America,Mexico City,,44907,2023-01-28,Consumer
+C00191,Meridian Import Export,B2B,Hospitality,Saudi Arabia,Middle East & Africa,Jeddah,,82099,2023-09-10,Enterprise
+C00192,Apex Networks,B2B,Healthcare,Mexico,North America,Monterrey,,30375,2025-11-19,Small Business
+C00193,Nova Ventures,B2B,Food & Beverage,Canada,North America,Montreal,,70081,2024-07-15,Small Business
+C00194,Barbara Kim,B2C,Consumer,Japan,Asia Pacific,Tokyo,,56597,2025-05-10,Consumer
+C00195,Global Enterprises,B2B,Education,Mexico,North America,Guadalajara,,34483,2024-08-28,Mid-Market
+C00196,Apex Systems,B2B,Manufacturing,Mexico,North America,Monterrey,,58020,2024-09-22,Enterprise
+C00197,Pinnacle Wholesale,B2B,Energy,United Kingdom,Europe,London,,26799,2025-04-28,Enterprise
+C00198,Prime Systems,B2B,Food & Beverage,Colombia,Latin America,Bogota,,46518,2025-07-06,Enterprise
+C00199,Vantage Partners,B2B,Telecommunications,Mexico,North America,Guadalajara,,68750,2024-04-23,Mid-Market
+C00200,Global Logistics,B2B,Education,Canada,North America,Toronto,,14992,2025-11-01,Mid-Market
+C00201,Bluewave Holdings,B2B,Energy,Vietnam,Asia Pacific,Hanoi,,14398,2023-06-18,Small Business
+C00202,Beacon Partners,B2B,Manufacturing,Saudi Arabia,Middle East & Africa,Riyadh,,80850,2023-10-12,Enterprise
+C00203,Quantum Industries,B2B,Construction,Germany,Europe,Hamburg,,71815,2023-09-19,Small Business
+C00204,Beacon Networks,B2B,Telecommunications,Canada,North America,Montreal,,82728,2023-03-24,Small Business
+C00205,Granite Import Export,B2B,Technology,Mexico,North America,Monterrey,,79334,2025-04-05,Small Business
+C00206,Atlas Ventures,B2B,Government,United States,North America,Atlanta,WA,61430,2023-05-11,Mid-Market
+C00207,Global Retail Group,B2B,Construction,Mexico,North America,Monterrey,,49972,2025-08-15,Small Business
+C00208,Beacon Solutions,B2B,Education,India,Asia Pacific,Bengaluru,,93097,2023-04-29,Mid-Market
+C00209,Vantage Depot,B2B,Consumer Goods,Mexico,North America,Guadalajara,,32063,2025-12-10,Small Business
+C00210,Liam Davis,B2C,Consumer,United Kingdom,Europe,Birmingham,,28194,2023-09-01,Consumer
+C00211,Union Commerce,B2B,Consumer Goods,Singapore,Asia Pacific,Singapore,,65013,2024-12-13,Mid-Market
+C00212,Anchor Partners,B2B,Automotive,Germany,Europe,Hamburg,,28848,2025-04-11,Mid-Market
+C00213,Summit Solutions,B2B,Telecommunications,Mexico,North America,Monterrey,,38066,2024-02-17,Mid-Market
+C00214,Beacon Solutions,B2B,Hospitality,Singapore,Asia Pacific,Singapore,,27983,2025-10-26,Small Business
+C00215,Bluewave Mart,B2B,Telecommunications,Singapore,Asia Pacific,Singapore,,47339,2024-07-29,Mid-Market
+C00216,Vertex Traders,B2B,Education,Japan,Asia Pacific,Osaka,,13259,2023-09-04,Small Business
+C00217,Nova Distribution,B2B,Agriculture,Mexico,North America,Mexico City,,22972,2023-05-10,Enterprise
+C00218,Meridian Trading Co.,B2B,Healthcare,Canada,North America,Toronto,,59470,2023-12-11,Enterprise
+C00219,Beacon Mart,B2B,Retail,Argentina,Latin America,Buenos Aires,,19747,2024-03-12,Small Business
+C00220,Fatima Chen,B2C,Consumer,United Kingdom,Europe,London,,98801,2024-08-19,Consumer
+C00221,Vantage Commerce,B2B,Education,Canada,North America,Montreal,,37654,2024-04-05,Mid-Market
+C00222,Bluewave Traders,B2B,Government,Germany,Europe,Frankfurt,,15184,2024-10-11,Small Business
+C00223,Vantage Trading Co.,B2B,Food & Beverage,Japan,Asia Pacific,Osaka,,39722,2024-08-07,Small Business
+C00224,Sarah Nguyen,B2C,Consumer,United Arab Emirates,Middle East & Africa,Abu Dhabi,,59918,2023-02-07,Consumer
+C00225,Horizon Commerce,B2B,Retail,United States,North America,Phoenix,GA,71559,2023-10-07,Mid-Market
+C00226,Meridian Ventures,B2B,Education,Argentina,Latin America,Buenos Aires,,93222,2023-08-16,Mid-Market
+C00227,Frontier Systems,B2B,Manufacturing,Mexico,North America,Guadalajara,,11006,2024-12-20,Mid-Market
+C00228,Giulia Hernandez,B2C,Consumer,Spain,Europe,Madrid,,47644,2025-03-26,Consumer
+C00229,Ananya Nguyen,B2C,Consumer,Australia,Asia Pacific,Melbourne,,79901,2023-04-13,Consumer
+C00230,Metro Industries,B2B,Telecommunications,Canada,North America,Montreal,,71296,2023-06-22,Enterprise
+C00231,Ava Khan,B2C,Consumer,Mexico,North America,Monterrey,,93424,2023-04-21,Consumer
+C00232,Cascade Enterprises,B2B,Education,Netherlands,Europe,Rotterdam,,52221,2023-10-07,Enterprise
+C00233,Ingrid Patel,B2C,Consumer,South Africa,Middle East & Africa,Johannesburg,,68850,2023-08-01,Consumer
+C00234,Richard Li,B2C,Consumer,United Kingdom,Europe,Birmingham,,18955,2025-03-26,Consumer
+C00235,Frontier Logistics,B2B,Consumer Goods,United Arab Emirates,Middle East & Africa,Dubai,,64403,2024-08-24,Enterprise
+C00236,Elizabeth Jackson,B2C,Consumer,Singapore,Asia Pacific,Singapore,,60670,2025-08-08,Consumer
+C00237,Ironclad Depot,B2B,Energy,Poland,Europe,Gdansk,,52061,2023-04-18,Small Business
+C00238,Pinnacle Supply Co.,B2B,Energy,China,Asia Pacific,Shenzhen,,19967,2024-08-08,Mid-Market
+C00239,Cascade Import Export,B2B,Food & Beverage,Mexico,North America,Guadalajara,,88866,2025-04-15,Small Business
+C00240,Zenith Ventures,B2B,Hospitality,Mexico,North America,Guadalajara,,,2024-03-12,Mid-Market
+C00241,Metro Industries,B2B,Automotive,Australia,Asia Pacific,Sydney,,10411,2023-06-04,Mid-Market
+C00242,Anthony Thompson,B2C,Consumer,Australia,Asia Pacific,Melbourne,,23488,2023-03-12,Consumer
+C00243,Silverline Merchants,B2B,Retail,Mexico,North America,Monterrey,,67198,2024-09-24,Enterprise
+C00244,Rahul Clark,B2C,Consumer,United Kingdom,Europe,Birmingham,,97785,2023-08-19,Consumer
+C00245,Ava Anderson,B2C,Consumer,China,Asia Pacific,Shanghai,,18778,2024-06-18,Consumer
+C00246,Ironclad Wholesale,B2B,Automotive,Brazil,Latin America,Curitiba,,55390,2024-11-07,Enterprise
+C00247,Granite Trading Co.,B2B,Construction,China,Asia Pacific,Shenzhen,,43652,2023-12-17,Small Business
+C00248,Horizon Systems,B2B,Retail,Spain,Europe,Madrid,,16223,2024-05-06,Enterprise
+C00249,Diego Smith,B2C,Consumer,Poland,Europe,Gdansk,,17869,2025-09-20,Consumer
+C00250,Sterling Distribution,B2B,Manufacturing,Netherlands,Europe,Amsterdam,,80281,2023-11-28,Small Business
+C00251,Atlas Wholesale,B2B,Energy,Australia,Asia Pacific,Sydney,,25271,2024-08-22,Small Business
+C00252,Mia Davis,B2C,Consumer,Colombia,Latin America,Bogota,,38914,2024-05-25,Small Business
+C00253,Apex Merchants,B2B,Consumer Goods,France,Europe,Lyon,,96343,2023-03-01,Enterprise
+C00254,Granite Industries,B2B,Telecommunications,United States,North America,Newark,IL,35322,2024-12-09,Enterprise
+C00255,Granite Traders,B2B,Retail,Mexico,North America,Monterrey,,78618,2024-05-09,Small Business
+C00256,Bluewave Holdings,B2B,Government,Singapore,Asia Pacific,Singapore,,81175,2023-06-27,Mid-Market
+C00257,Metro Holdings,B2B,Education,Japan,Asia Pacific,Tokyo,,72000,2024-11-15,Enterprise
+C00258,Sofia Garcia,B2C,Consumer,United States,North America,Atlanta,OH,74922,2023-10-28,Small Business
+C00259,Patricia Williams,B2C,Consumer,Mexico,North America,Mexico City,,51948,2024-02-17,Consumer
+C00260,John Harris,B2C,Consumer,Spain,Europe,Madrid,,23312,2024-12-01,Consumer
+C00261,Metro Enterprises,B2B,Education,Mexico,North America,Monterrey,,21140,2025-06-03,Mid-Market
+C00262,Ironclad Logistics,B2B,Energy,Japan,Asia Pacific,Tokyo,,20838,2025-09-30,Mid-Market
+C00263,Horizon Logistics,B2B,Government,Mexico,North America,Guadalajara,,18657,2023-09-11,Small Business
+C00264,Sterling Depot,B2B,Government,Canada,North America,Toronto,,53019,2025-01-06,Small Business
+C00265,Vertex Import Export,B2B,Energy,Chile,Latin America,Santiago,,66246,2024-02-04,Enterprise
+C00266,Apex Networks,B2B,Healthcare,Mexico,North America,Guadalajara,,17248,2025-12-22,Enterprise
+C00267,Granite Holdings,B2B,Hospitality,United States,North America,Phoenix,AZ,53788,2023-08-02,Enterprise
+C00268,Apex Ventures,B2B,Education,United States,North America,Newark,WA,58335,2023-04-14,Enterprise
+C00269,Valentina Kobayashi,B2C,Consumer,United States,North America,Phoenix,GA,,2025-07-18,Consumer
+C00270,Bluewave Logistics,B2B,Government,United States,North America,Chicago,OH,,2024-01-21,Small Business
+C00271,Sarah Perez,B2C,Consumer,Mexico,North America,Monterrey,,35252,2025-06-15,Small Business
+C00272,Robert Schmidt,B2C,Consumer,Mexico,North America,Monterrey,,22510,2023-07-26,Consumer
+C00273,Sterling Commerce,B2B,Technology,Mexico,North America,Guadalajara,,,2024-06-13,Mid-Market
+C00274,Summit Retail Group,B2B,Manufacturing,Netherlands,Europe,Rotterdam,,35637,2023-09-22,Small Business
+C00275,Daniel Ibrahim,B2C,Consumer,Singapore,Asia Pacific,Singapore,,21882,2024-09-09,Consumer
+C00276,Beacon Holdings,B2B,Pharmaceuticals,Germany,Europe,Munich,,52531,2023-11-27,Small Business
+C00277,Zenith Wholesale,B2B,Telecommunications,Canada,North America,Vancouver,,82884,2023-02-10,Small Business
+C00278,Beacon Retail Group,B2B,Manufacturing,United Kingdom,Europe,London,,16459,2023-11-23,Small Business
+C00279,Frontier Enterprises,B2B,Consumer Goods,Colombia,Latin America,Bogota,,94444,2025-04-16,Small Business
+C00280,Granite Traders,B2B,Telecommunications,Colombia,Latin America,Bogota,,83782,2024-08-31,Small Business
+C00281,Zenith Trading Co.,B2B,Government,Canada,North America,Vancouver,,19226,2024-12-29,Enterprise
+C00282,Metro Retail Group,B2B,Government,United States,North America,Chicago,GA,18115,2023-02-11,Mid-Market
+C00283,Silverline Partners,B2B,Food & Beverage,Canada,North America,Vancouver,,96965,2023-01-12,Mid-Market
+C00284,Vertex Retail Group,B2B,Healthcare,Mexico,North America,Mexico City,,88348,2025-10-29,Mid-Market
+C00285,Silverline Merchants,B2B,Retail,Spain,Europe,Madrid,,63965,2024-05-31,Enterprise
+C00286,Sofia Sharma,B2C,Consumer,Germany,Europe,Munich,,36270,2024-04-23,Consumer
+C00287,Summit Logistics,B2B,Energy,United States,North America,Columbus,WA,81769,2023-12-08,Enterprise
+C00288,Pioneer Networks,B2B,Agriculture,Germany,Europe,Munich,,62122,2024-03-21,Small Business
+C00289,Zenith Traders,B2B,Retail,United Kingdom,Europe,London,,43001,2024-05-08,Mid-Market
+C00290,Liam Moore,B2C,Consumer,Canada,North America,Vancouver,,,2023-07-25,Consumer
+C00291,Redwood Partners,B2B,Automotive,Japan,Asia Pacific,Tokyo,,89425,2025-01-06,Small Business
+C00292,Coastal Partners,B2B,Manufacturing,Mexico,North America,Monterrey,,39604,2023-01-26,Enterprise
+C00293,Union Merchants,B2B,Food & Beverage,Argentina,Latin America,Buenos Aires,,70025,2023-07-10,Small Business
+C00294,Ironclad Ventures,B2B,Manufacturing,United States,North America,Atlanta,AZ,39624,2023-12-11,Mid-Market
+C00295,Horizon Retail Group,B2B,Agriculture,Argentina,Latin America,Buenos Aires,,86963,2025-08-09,Enterprise
+C00296,Meridian Commerce,B2B,Retail,Argentina,Latin America,Buenos Aires,,50942,2024-07-30,Small Business
+C00297,Mei Ali,B2C,Consumer,United Arab Emirates,Middle East & Africa,Dubai,,28240,2024-07-21,Consumer
+C00298,Carlos Clark,B2C,Consumer,Vietnam,Asia Pacific,Hanoi,,22445,2025-08-21,Consumer
+C00299,Apex Systems,B2B,Pharmaceuticals,China,Asia Pacific,Ningbo,,16889,2025-10-12,Enterprise
+C00300,Ironclad Logistics,B2B,Food & Beverage,Singapore,Asia Pacific,Singapore,,14490,2025-07-03,Mid-Market
+C00301,Skyline Supply Co.,B2B,Construction,Vietnam,Asia Pacific,Hanoi,,19072,2025-03-03,Mid-Market
+C00302,Beacon Logistics,B2B,Food & Beverage,Mexico,North America,Monterrey,,15764,2023-11-25,Mid-Market
+C00303,John Taylor,B2C,Consumer,Poland,Europe,Gdansk,,19875,2025-08-01,Consumer
+C00304,Horizon Traders,B2B,Manufacturing,France,Europe,Lyon,,93185,2025-01-28,Small Business
+C00305,Beacon Merchants,B2B,Consumer Goods,Chile,Latin America,Santiago,,16835,2025-03-30,Mid-Market
+C00306,Atlas Retail Group,B2B,Education,Spain,Europe,Madrid,,14235,2024-10-15,Mid-Market
+C00307,Betty Rodriguez,B2C,Consumer,Germany,Europe,Munich,,33673,2024-01-04,Consumer
+C00308,Skyline Networks,B2B,Education,China,Asia Pacific,Ningbo,,13158,2023-02-02,Enterprise
+C00309,Susan Khan,B2C,Consumer,Canada,North America,Montreal,,81265,2023-03-28,Small Business
+C00310,Coastal Holdings,B2B,Telecommunications,Canada,North America,Montreal,,45035,2025-04-03,Small Business
+C00311,Nancy Bernard,B2C,Consumer,United Kingdom,Europe,Manchester,,52130,2024-04-26,Consumer
+C00312,Beacon Networks,B2B,Pharmaceuticals,France,Europe,Lyon,,93888,2023-07-09,Small Business
+C00313,Summit Networks,B2B,Agriculture,United States,North America,Atlanta,AZ,29680,2024-09-09,Small Business
+C00314,Harbor Wholesale,B2B,Hospitality,United Kingdom,Europe,Birmingham,,57643,2024-10-06,Enterprise
+C00315,Elizabeth Wilson,B2C,Consumer,Netherlands,Europe,Rotterdam,,47458,2025-02-24,Consumer
+C00316,Nova Supply Co.,B2B,Retail,Mexico,North America,Guadalajara,,74635,2025-11-27,Small Business
+C00317,Pierre Silva,B2C,Consumer,Poland,Europe,Warsaw,,96315,2024-07-22,Consumer
+C00318,Rahul Ali,B2C,Consumer,India,Asia Pacific,Chennai,,64848,2025-10-01,Consumer
+C00319,Carlos Kumar,B2C,Consumer,United States,North America,Newark,WA,19868,2025-07-11,Consumer
+C00320,Nova Merchants,B2B,Healthcare,Saudi Arabia,Middle East & Africa,Jeddah,,53594,2025-11-26,Small Business
+C00321,Global Enterprises,B2B,Government,Colombia,Latin America,Bogota,,74119,2025-02-11,Small Business
+C00322,Horizon Industries,B2B,Agriculture,Netherlands,Europe,Amsterdam,,89729,2024-08-15,Mid-Market
+C00323,Nova Wholesale,B2B,Consumer Goods,United States,North America,Dallas,FL,51355,2025-12-29,Enterprise
+C00324,Horizon Partners,B2B,Hospitality,Netherlands,Europe,Amsterdam,,58242,2023-11-17,Small Business
+C00325,Harbor Partners,B2B,Telecommunications,Colombia,Latin America,Medellin,,91404,2023-03-25,Mid-Market
+C00326,Ava Park,B2C,Consumer,China,Asia Pacific,Ningbo,,85347,2024-09-11,Consumer
+C00327,Pioneer Industries,B2B,Agriculture,China,Asia Pacific,Ningbo,,22636,2024-05-03,Mid-Market
+C00328,Sarah Martinez,B2C,Consumer,Poland,Europe,Warsaw,,66375,2023-03-22,Consumer
+C00329,Diego Tran,B2C,Consumer,Japan,Asia Pacific,Osaka,,77129,2025-05-27,Consumer
+C00330,Christopher Brown,B2C,Consumer,Mexico,North America,Mexico City,,33560,2023-12-26,Consumer
+C00331,Giulia Muller,B2C,Consumer,India,Asia Pacific,Bengaluru,,71313,2025-08-25,Consumer
+C00332,Vertex Depot,B2B,Construction,United States,North America,Dallas,NY,,2025-04-26,Small Business
+C00333,Metro Supply Co.,B2B,Government,China,Asia Pacific,Shanghai,,65351,2024-07-21,Mid-Market
+C00334,Atlas Supply Co.,B2B,Technology,Colombia,Latin America,Medellin,,55603,2023-06-25,Mid-Market
+C00335,Sterling Trading Co.,B2B,Pharmaceuticals,Canada,North America,Toronto,,60458,2024-01-10,Small Business
+C00336,Horizon Enterprises,B2B,Construction,China,Asia Pacific,Ningbo,,79632,2023-04-27,Small Business
+C00337,Granite Ventures,B2B,Pharmaceuticals,Canada,North America,Vancouver,,82408,2023-10-16,Enterprise
+C00338,Vertex Networks,B2B,Government,Australia,Asia Pacific,Sydney,,35055,2023-07-13,Enterprise
+C00339,Coastal Mart,B2B,Pharmaceuticals,Canada,North America,Toronto,,28917,2025-10-30,Mid-Market
+C00340,Vantage Logistics,B2B,Food & Beverage,Saudi Arabia,Middle East & Africa,Riyadh,,58206,2023-06-23,Mid-Market
+C00341,Joseph Lewis,B2C,Consumer,United States,North America,Dallas,GA,32500,2025-09-02,Consumer
+C00342,Bluewave Supply Co.,B2B,Manufacturing,South Africa,Middle East & Africa,Johannesburg,,76531,2024-09-23,Mid-Market
+C00343,Matthew Dubois,B2C,Consumer,China,Asia Pacific,Shenzhen,,36816,2025-08-20,Consumer
+C00344,Patricia Smith,B2C,Consumer,United Kingdom,Europe,Birmingham,,18151,2023-07-07,Consumer
+C00345,Summit Supply Co.,B2B,Consumer Goods,China,Asia Pacific,Ningbo,,44326,2024-01-19,Mid-Market
+C00346,Anchor Partners,B2B,Construction,China,Asia Pacific,Shanghai,,63333,2025-04-04,Mid-Market
+C00347,Global Systems,B2B,Agriculture,United Arab Emirates,Middle East & Africa,Dubai,,61664,2024-04-07,Mid-Market
+C00348,Quantum Industries,B2B,Construction,Canada,North America,Toronto,,74463,2025-01-04,Mid-Market
+C00349,Emma Wang,B2C,Consumer,Spain,Europe,Madrid,,44317,2025-04-06,Consumer
+C00350,Liam Zhang,B2C,Consumer,Mexico,North America,Mexico City,,70868,2024-06-04,Consumer
+C00351,Priya Fischer,B2C,Consumer,Vietnam,Asia Pacific,Ho Chi Minh City,,60718,2025-05-26,Consumer
+C00352,Oliver Gonzalez,B2C,Consumer,Mexico,North America,Monterrey,,91343,2025-09-20,Consumer
+C00353,Bluewave Wholesale,B2B,Telecommunications,United Kingdom,Europe,Birmingham,,49708,2025-05-20,Small Business
+C00354,Liam Patel,B2C,Consumer,France,Europe,Paris,,74531,2023-05-03,Consumer
+C00355,Granite Distribution,B2B,Pharmaceuticals,Spain,Europe,Barcelona,,24230,2023-04-04,Mid-Market
+C00356,Atlas Wholesale,B2B,Construction,Poland,Europe,Gdansk,,93505,2023-01-14,Mid-Market
+C00357,Nova Logistics,B2B,Hospitality,India,Asia Pacific,Chennai,,85022,2023-09-30,Enterprise
+C00358,Union Holdings,B2B,Government,Australia,Asia Pacific,Sydney,,96512,2024-02-10,Small Business
+C00359,Matthew Robinson,B2C,Consumer,Netherlands,Europe,Amsterdam,,17043,2024-11-08,Consumer
+C00360,Frontier Networks,B2B,Hospitality,Germany,Europe,Munich,,71931,2025-10-19,Mid-Market
+C00361,Carlos Davis,B2C,Consumer,Egypt,Middle East & Africa,Cairo,,72832,2024-11-11,Consumer
+C00362,Skyline Enterprises,B2B,Manufacturing,Mexico,North America,Monterrey,,54243,2024-09-08,Small Business
+C00363,Nova Trading Co.,B2B,Retail,Mexico,North America,Mexico City,,38114,2023-03-26,Enterprise
+C00364,Atlas Traders,B2B,Energy,United States,North America,Chicago,OH,94317,2024-11-21,Small Business
+C00365,Pioneer Logistics,B2B,Telecommunications,Vietnam,Asia Pacific,Ho Chi Minh City,,17089,2024-04-17,Mid-Market
+C00366,Mohammed Chen,B2C,Consumer,United Kingdom,Europe,London,,60171,2025-04-22,Consumer
+C00367,Silverline Holdings,B2B,Hospitality,India,Asia Pacific,Delhi,,94203,2025-05-30,Mid-Market
+C00368,Anchor Mart,B2B,Education,Australia,Asia Pacific,Sydney,,74120,2024-05-30,Mid-Market
+C00369,Robert Clark,B2C,Consumer,Mexico,North America,Guadalajara,,56276,2023-11-07,Consumer
+C00370,Prime Depot,B2B,Agriculture,Chile,Latin America,Santiago,,,2024-07-11,Small Business
+C00371,Sterling Partners,B2B,Hospitality,China,Asia Pacific,Shenzhen,,45186,2025-07-16,Mid-Market
+C00372,William Clark,B2C,Consumer,United States,North America,Dallas,FL,17329,2024-04-21,Consumer
+C00373,Redwood Distribution,B2B,Consumer Goods,Germany,Europe,Munich,,60741,2023-11-01,Mid-Market
+C00374,Horizon Supply Co.,B2B,Pharmaceuticals,United States,North America,Newark,NJ,62345,2023-08-12,Enterprise
+C00375,Horizon Depot,B2B,Healthcare,Canada,North America,Vancouver,,57072,2023-01-22,Mid-Market
+C00376,Silverline Holdings,B2B,Consumer Goods,Mexico,North America,Mexico City,,98819,2024-09-25,Enterprise
+C00377,Crest Partners,B2B,Healthcare,Egypt,Middle East & Africa,Cairo,,56426,2024-06-13,Small Business
+C00378,Pinnacle Industries,B2B,Retail,Spain,Europe,Barcelona,,48634,2024-03-14,Enterprise
+C00379,Skyline Distribution,B2B,Food & Beverage,Germany,Europe,Munich,,70163,2024-07-08,Mid-Market
+C00380,Redwood Networks,B2B,Healthcare,Japan,Asia Pacific,Osaka,,35516,2024-07-14,Mid-Market
+C00381,Coastal Mart,B2B,Food & Beverage,France,Europe,Lyon,,69440,2024-02-29,Mid-Market
+C00382,Richard Lee,B2C,Consumer,South Africa,Middle East & Africa,Johannesburg,,28661,2023-03-13,Consumer
+C00383,Michael Rodriguez,B2C,Consumer,China,Asia Pacific,Shanghai,,57828,2024-12-15,Consumer
+C00384,Harbor Wholesale,B2B,Manufacturing,United Kingdom,Europe,Manchester,,46392,2023-10-16,Mid-Market
+C00385,Summit Merchants,B2B,Healthcare,France,Europe,Marseille,,64746,2023-12-22,Enterprise
+C00386,Pinnacle Logistics,B2B,Agriculture,United Arab Emirates,Middle East & Africa,Abu Dhabi,,40111,2025-08-17,Mid-Market
+C00387,Zenith Trading Co.,B2B,Manufacturing,Vietnam,Asia Pacific,Hanoi,,99016,2023-08-10,Mid-Market
+C00388,Union Industries,B2B,Food & Beverage,Saudi Arabia,Middle East & Africa,Riyadh,,93872,2023-05-23,Small Business
+C00389,Summit Traders,B2B,Healthcare,Canada,North America,Vancouver,,22900,2023-03-18,Mid-Market
+C00390,Horizon Systems,B2B,Healthcare,Chile,Latin America,Santiago,,28207,2024-11-16,Enterprise
+C00391,Bluewave Traders,B2B,Technology,Australia,Asia Pacific,Sydney,,28899,2023-04-06,Mid-Market
+C00392,Coastal Mart,B2B,Construction,United States,North America,Chicago,FL,99138,2023-03-11,Mid-Market
+C00393,Nova Networks,B2B,Hospitality,Spain,Europe,Barcelona,,11271,2023-09-23,Mid-Market
+C00394,Vertex Enterprises,B2B,Government,Vietnam,Asia Pacific,Ho Chi Minh City,,47173,2025-02-23,Mid-Market
+C00395,Beacon Logistics,B2B,Food & Beverage,United States,North America,Dallas,NY,24541,2024-03-23,Enterprise
+C00396,Richard Singh,B2C,Consumer,United Kingdom,Europe,Birmingham,,68365,2023-02-17,Consumer
+C00397,Atlas Industries,B2B,Telecommunications,China,Asia Pacific,Ningbo,,27404,2025-12-10,Mid-Market
+C00398,Sarah Ibrahim,B2C,Consumer,Canada,North America,Montreal,,69662,2025-02-03,Consumer
+C00399,Metro Supply Co.,B2B,Energy,Netherlands,Europe,Amsterdam,,15575,2024-12-02,Mid-Market
+C00400,Nancy Kumar,B2C,Consumer,France,Europe,Lyon,,56481,2024-02-20,Consumer
+C00401,Elizabeth Schmidt,B2C,Consumer,Mexico,North America,Guadalajara,,40766,2024-06-10,Consumer
+C00402,Summit Systems,B2B,Automotive,Argentina,Latin America,Buenos Aires,,54178,2025-11-06,Small Business
+C00403,Isabella Lopez,B2C,Consumer,Japan,Asia Pacific,Osaka,,48198,2023-11-18,Consumer
+C00404,Bluewave Solutions,B2B,Healthcare,Mexico,North America,Mexico City,,20689,2023-08-17,Mid-Market
+C00405,Skyline Merchants,B2B,Agriculture,Saudi Arabia,Middle East & Africa,Riyadh,,64196,2023-07-18,Mid-Market
+C00406,Summit Retail Group,B2B,Pharmaceuticals,Argentina,Latin America,Buenos Aires,,15260,2024-03-21,Small Business
+C00407,Atlas Industries,B2B,Hospitality,United States,North America,Phoenix,FL,37868,2023-04-28,Small Business
+C00408,Beacon Enterprises,B2B,Manufacturing,Vietnam,Asia Pacific,Ho Chi Minh City,,19085,2024-06-07,Enterprise
+C00409,Horizon Distribution,B2B,Construction,Canada,North America,Montreal,,40068,2023-12-21,Mid-Market
+C00410,Crest Ventures,B2B,Government,Saudi Arabia,Middle East & Africa,Jeddah,,37525,2024-05-31,Mid-Market
+C00411,Summit Logistics,B2B,Telecommunications,Singapore,Asia Pacific,Singapore,,56671,2024-06-20,Small Business
+C00412,Pierre Patel,B2C,Consumer,Australia,Asia Pacific,Melbourne,,34108,2023-12-15,Consumer
+C00413,Meridian Wholesale,B2B,Telecommunications,Canada,North America,Montreal,,46412,2025-11-08,Small Business
+C00414,Pierre Martinez,B2C,Consumer,Argentina,Latin America,Buenos Aires,,53134,2025-06-02,Consumer
+C00415,Noah Chen,B2C,Consumer,Canada,North America,Montreal,,55928,2023-06-05,Consumer
+C00416,Summit Import Export,B2B,Energy,Canada,North America,Toronto,,10037,2025-02-16,Small Business
+C00417,Prime Partners,B2B,Food & Beverage,Canada,North America,Montreal,,12811,2023-03-07,Mid-Market
+C00418,Atlas Depot,B2B,Construction,Singapore,Asia Pacific,Singapore,,49421,2023-12-28,Mid-Market
+C00419,Nova Merchants,B2B,Retail,Mexico,North America,Mexico City,,69849,2023-03-19,Mid-Market
+C00420,Meridian Import Export,B2B,Hospitality,Chile,Latin America,Santiago,,74174,2024-03-10,Small Business
+C00421,Nova Commerce,B2B,Automotive,India,Asia Pacific,Chennai,,73614,2023-08-08,Small Business
+C00422,Elizabeth Singh,B2C,Consumer,United States,North America,Dallas,AZ,98725,2024-09-02,Consumer
+C00423,Silverline Import Export,B2B,Telecommunications,Mexico,North America,Monterrey,,92690,2024-06-20,Mid-Market
+C00424,Metro Logistics,B2B,Consumer Goods,Canada,North America,Toronto,,99509,2024-06-24,Enterprise
+C00425,Ironclad Depot,B2B,Food & Beverage,Australia,Asia Pacific,Melbourne,,89614,2023-04-17,Enterprise
+C00426,Summit Networks,B2B,Pharmaceuticals,Vietnam,Asia Pacific,Ho Chi Minh City,,92408,2023-04-26,Mid-Market
+C00427,Metro Partners,B2B,Automotive,Mexico,North America,Monterrey,,72933,2025-04-15,Enterprise
+C00428,Beacon Ventures,B2B,Manufacturing,Brazil,Latin America,Rio de Janeiro,,27238,2023-07-23,Small Business
+C00429,Redwood Industries,B2B,Retail,Mexico,North America,Monterrey,,23753,2024-07-01,Mid-Market
+C00430,Vantage Enterprises,B2B,Consumer Goods,Australia,Asia Pacific,Melbourne,,72109,2024-09-02,Mid-Market
+C00431,Valentina Oliveira,B2C,Consumer,Brazil,Latin America,Rio de Janeiro,,82620,2023-03-15,Consumer
+C00432,Beacon Commerce,B2B,Energy,Vietnam,Asia Pacific,Ho Chi Minh City,,52865,2023-05-28,Small Business
+C00433,Atlas Import Export,B2B,Hospitality,Australia,Asia Pacific,Melbourne,,34701,2023-01-23,Enterprise
+C00434,Horizon Wholesale,B2B,Food & Beverage,Japan,Asia Pacific,Tokyo,,,2025-01-10,Small Business
+C00435,Sven Taylor,B2C,Consumer,Canada,North America,Vancouver,,89890,2025-03-09,Consumer
+C00436,Silverline Partners,B2B,Hospitality,Canada,North America,Montreal,,12462,2024-04-08,Small Business
+C00437,Bluewave Trading Co.,B2B,Pharmaceuticals,Mexico,North America,Mexico City,,29044,2023-04-12,Small Business
+C00438,Kwame Moore,B2C,Consumer,Netherlands,Europe,Rotterdam,,10661,2025-11-26,Consumer
+C00439,Prime Import Export,B2B,Consumer Goods,India,Asia Pacific,Delhi,,62090,2023-06-21,Small Business
+C00440,Harbor Holdings,B2B,Retail,Vietnam,Asia Pacific,Hanoi,,63089,2025-04-15,Enterprise
+C00441,Nova Enterprises,B2B,Education,Argentina,Latin America,Buenos Aires,,71924,2023-11-24,Mid-Market
+C00442,Daniel Perez,B2C,Consumer,United States,North America,Columbus,TX,21306,2023-08-11,Small Business
+C00443,Zenith Retail Group,B2B,Food & Beverage,Japan,Asia Pacific,Osaka,,33272,2023-09-13,Small Business
+C00444,Atlas Merchants,B2B,Pharmaceuticals,United States,North America,Chicago,FL,63058,2025-05-13,Small Business
+C00445,Redwood Logistics,B2B,Pharmaceuticals,Mexico,North America,Mexico City,,11607,2023-08-09,Mid-Market
+C00446,Thomas Ali,B2C,Consumer,Singapore,Asia Pacific,Singapore,,94573,2024-12-10,Consumer
+C00447,Mei Silva,B2C,Consumer,Egypt,Middle East & Africa,Cairo,,81626,2023-03-19,Small Business
+C00448,Skyline Retail Group,B2B,Manufacturing,Australia,Asia Pacific,Melbourne,,31086,2023-04-02,Mid-Market
+C00449,Rahul Nguyen,B2C,Consumer,Canada,North America,Montreal,,84907,2024-05-01,Consumer
+C00450,Granite Logistics,B2B,Food & Beverage,Vietnam,Asia Pacific,Ho Chi Minh City,,56452,2025-09-05,Small Business
+C00451,Hiroshi Oliveira,B2C,Consumer,United States,North America,Columbus,NJ,90261,2023-09-24,Consumer
+C00452,Coastal Wholesale,B2B,Energy,Colombia,Latin America,Medellin,,13252,2024-10-07,Enterprise
+C00453,Vertex Logistics,B2B,Healthcare,China,Asia Pacific,Ningbo,,25272,2023-08-19,Mid-Market
+C00454,Jessica Johnson,B2C,Consumer,Mexico,North America,Monterrey,,38809,2025-04-30,Consumer
+C00455,Yuki Khan,B2C,Consumer,United States,North America,Atlanta,TX,23881,2024-07-18,Consumer
+C00456,Joseph Thomas,B2C,Consumer,Canada,North America,Vancouver,,59234,2024-07-22,Consumer
+C00457,Richard Lee,B2C,Consumer,South Africa,Middle East & Africa,Cape Town,,80092,2023-06-22,Consumer
+C00458,Global Solutions,B2B,Food & Beverage,Poland,Europe,Gdansk,,92729,2024-08-26,Mid-Market
+C00459,Frontier Supply Co.,B2B,Government,Japan,Asia Pacific,Osaka,,66477,2023-02-27,Small Business
+C00460,Anchor Merchants,B2B,Retail,China,Asia Pacific,Ningbo,,55958,2025-01-12,Enterprise
+C00461,Apex Distribution,B2B,Technology,Netherlands,Europe,Rotterdam,,61202,2024-10-11,Mid-Market
+C00462,Apex Depot,B2B,Hospitality,United States,North America,Chicago,WA,84821,2025-05-27,Small Business
+C00463,Fatima White,B2C,Consumer,Saudi Arabia,Middle East & Africa,Riyadh,,51147,2023-09-16,Consumer
+C00464,Daniel Silva,B2C,Consumer,United States,North America,Dallas,IL,71598,2025-09-26,Consumer
+C00465,Pinnacle Retail Group,B2B,Manufacturing,France,Europe,Lyon,,90910,2025-07-12,Small Business
+C00466,Meridian Traders,B2B,Healthcare,Australia,Asia Pacific,Sydney,,14044,2023-12-04,Mid-Market
+C00467,Nova Supply Co.,B2B,Hospitality,Singapore,Asia Pacific,Singapore,,25742,2024-12-31,Small Business
+C00468,Bluewave Depot,B2B,Agriculture,Saudi Arabia,Middle East & Africa,Riyadh,,11725,2023-09-16,Small Business
+C00469,Prime Trading Co.,B2B,Government,Canada,North America,Toronto,,31404,2025-09-12,Mid-Market
+C00470,Vantage Commerce,B2B,Agriculture,France,Europe,Marseille,,65442,2025-05-16,Mid-Market
+C00471,Anchor Solutions,B2B,Hospitality,United Kingdom,Europe,London,,57242,2025-12-29,Mid-Market
+C00472,Global Holdings,B2B,Retail,United Kingdom,Europe,Birmingham,,29719,2024-01-27,Mid-Market
+C00473,Anchor Traders,B2B,Automotive,Mexico,North America,Monterrey,,51435,2025-05-12,Mid-Market
+C00474,Ironclad Enterprises,B2B,Technology,Canada,North America,Vancouver,,80025,2025-04-08,Mid-Market
+C00475,Vantage Ventures,B2B,Manufacturing,Canada,North America,Montreal,,48808,2024-12-09,Mid-Market
+C00476,Pinnacle Logistics,B2B,Education,Canada,North America,Montreal,,46959,2024-03-29,Small Business
+C00477,Fatima Cohen,B2C,Consumer,Poland,Europe,Warsaw,,70699,2025-01-16,Consumer
+C00478,Harbor Traders,B2B,Pharmaceuticals,Singapore,Asia Pacific,Singapore,,11838,2024-06-11,Mid-Market
+C00479,Ironclad Trading Co.,B2B,Technology,Australia,Asia Pacific,Sydney,,12666,2023-07-25,Enterprise
+C00480,Meridian Holdings,B2B,Telecommunications,Poland,Europe,Warsaw,,51554,2025-12-10,Mid-Market
+C00481,Summit Distribution,B2B,Retail,United Kingdom,Europe,London,,,2024-01-14,Small Business
+C00482,Margaret Johnson,B2C,Consumer,Mexico,North America,Guadalajara,,99112,2024-12-10,Consumer
+C00483,Michael Martinez,B2C,Consumer,Germany,Europe,Hamburg,,77951,2025-12-12,Consumer
+C00484,Meridian Industries,B2B,Manufacturing,Canada,North America,Vancouver,,49332,2025-08-18,Enterprise
+C00485,Susan Ali,B2C,Consumer,Mexico,North America,Guadalajara,,71231,2023-03-28,Consumer
+C00486,Ava Muller,B2C,Consumer,Poland,Europe,Gdansk,,16423,2025-12-11,Consumer
+C00487,Crest Enterprises,B2B,Agriculture,Netherlands,Europe,Rotterdam,,54705,2025-08-13,Mid-Market
+C00488,Vertex Depot,B2B,Agriculture,United States,North America,Dallas,IL,11133,2024-04-21,Enterprise
+C00489,Ananya Novak,B2C,Consumer,France,Europe,Lyon,,72992,2024-02-05,Consumer
+C00490,Silverline Trading Co.,B2B,Manufacturing,Spain,Europe,Barcelona,,16614,2025-12-02,Small Business
+C00491,Skyline Industries,B2B,Education,Singapore,Asia Pacific,Singapore,,60088,2023-11-11,Enterprise
+C00492,Meridian Commerce,B2B,Consumer Goods,Japan,Asia Pacific,Osaka,,90963,2025-10-06,Small Business
+C00493,Arjun Martin,B2C,Consumer,Australia,Asia Pacific,Melbourne,,33851,2023-07-15,Consumer
+C00494,Beacon Holdings,B2B,Telecommunications,United States,North America,Atlanta,AZ,15944,2024-12-11,Enterprise
+C00495,Beacon Distribution,B2B,Manufacturing,China,Asia Pacific,Shenzhen,,41462,2023-01-02,Mid-Market
+C00496,Giulia Lopez,B2C,Consumer,United Kingdom,Europe,Manchester,,28073,2023-08-24,Consumer
+C00497,Skyline Traders,B2B,Manufacturing,Spain,Europe,Barcelona,,88307,2025-05-17,Mid-Market
+C00498,Atlas Enterprises,B2B,Hospitality,India,Asia Pacific,Mumbai,,24696,2025-01-21,Small Business
+C00499,Granite Commerce,B2B,Pharmaceuticals,Germany,Europe,Frankfurt,,88739,2024-03-05,Mid-Market
+C00500,Bluewave Retail Group,B2B,Pharmaceuticals,Poland,Europe,Warsaw,,13449,2023-11-05,Small Business
+C00501,Vertex Solutions,B2B,Agriculture,India,Asia Pacific,Bengaluru,,14190,2025-10-26,Small Business
+C00502,Valentina Martin,B2C,Consumer,Argentina,Latin America,Buenos Aires,,47905,2024-01-17,Consumer
+C00503,Silverline Systems,B2B,Construction,Colombia,Latin America,Medellin,,86906,2025-05-20,Small Business
+C00504,Metro Wholesale,B2B,Construction,France,Europe,Marseille,,,2024-07-29,Small Business
+C00505,Union Holdings,B2B,Healthcare,France,Europe,Marseille,,17780,2025-06-10,Mid-Market
+C00506,Frontier Solutions,B2B,Automotive,Japan,Asia Pacific,Tokyo,,,2023-09-27,Mid-Market
+C00507,Metro Mart,B2B,Education,Canada,North America,Toronto,,23375,2024-01-15,Mid-Market
+C00508,Zenith Commerce,B2B,Energy,China,Asia Pacific,Shanghai,,32535,2023-03-18,Mid-Market
+C00509,Harbor Enterprises,B2B,Hospitality,United Kingdom,Europe,London,,40893,2023-05-16,Small Business
+C00510,Oliver Silva,B2C,Consumer,Mexico,North America,Guadalajara,,21808,2024-01-16,Small Business
+C00511,Atlas Solutions,B2B,Technology,Canada,North America,Toronto,,57304,2023-11-10,Enterprise
+C00512,Coastal Import Export,B2B,Agriculture,Argentina,Latin America,Buenos Aires,,12646,2023-05-02,Enterprise
+C00513,Mei Gonzalez,B2C,Consumer,Canada,North America,Toronto,,46471,2024-08-20,Consumer
+C00514,Crest Import Export,B2B,Food & Beverage,United States,North America,Phoenix,AZ,55658,2025-06-27,Small Business
+C00515,Quantum Systems,B2B,Construction,United States,North America,Newark,AZ,67967,2023-02-18,Small Business
+C00516,Atlas Solutions,B2B,Manufacturing,United States,North America,Chicago,WA,17372,2024-05-28,Mid-Market
+C00517,Nancy Ali,B2C,Consumer,Canada,North America,Vancouver,,95506,2025-10-01,Consumer
+C00518,Daniel Perez,B2C,Consumer,Vietnam,Asia Pacific,Ho Chi Minh City,,83382,2023-05-30,Consumer
+C00519,Karen Patel,B2C,Consumer,United States,North America,Columbus,GA,50190,2023-12-13,Consumer
+C00520,Lucas Wang,B2C,Consumer,Singapore,Asia Pacific,Singapore,,38472,2024-04-23,Consumer
+C00521,Olga Ferreira,B2C,Consumer,Argentina,Latin America,Buenos Aires,,63522,2025-03-10,Consumer
+C00522,Pioneer Traders,B2B,Pharmaceuticals,France,Europe,Lyon,,12590,2024-07-10,Small Business
+C00523,Apex Depot,B2B,Education,United States,North America,Dallas,GA,74308,2024-01-28,Mid-Market
+C00524,Silverline Holdings,B2B,Automotive,Australia,Asia Pacific,Sydney,,47258,2025-12-03,Enterprise
+C00525,Summit Holdings,B2B,Retail,Mexico,North America,Guadalajara,,70870,2025-01-17,Small Business
+C00526,Summit Networks,B2B,Manufacturing,Poland,Europe,Gdansk,,89102,2023-01-17,Enterprise
+C00527,Sterling Supply Co.,B2B,Retail,Saudi Arabia,Middle East & Africa,Riyadh,,48540,2023-11-27,Enterprise
+C00528,Anchor Supply Co.,B2B,Telecommunications,United Arab Emirates,Middle East & Africa,Abu Dhabi,,21279,2023-12-17,Small Business
+C00529,Redwood Commerce,B2B,Government,India,Asia Pacific,Chennai,,21139,2023-01-26,Mid-Market
+C00530,Karen Park,B2C,Consumer,Mexico,North America,Monterrey,,45857,2024-12-26,Consumer
+C00531,Atlas Industries,B2B,Automotive,China,Asia Pacific,Shenzhen,,72628,2024-07-25,Mid-Market
+C00532,Meridian Solutions,B2B,Construction,Singapore,Asia Pacific,Singapore,,44874,2023-12-19,Small Business
+C00533,Pinnacle Commerce,B2B,Technology,Netherlands,Europe,Rotterdam,,84699,2024-01-08,Small Business
+C00534,Redwood Commerce,B2B,Consumer Goods,India,Asia Pacific,Mumbai,,35246,2025-12-22,Mid-Market
+C00535,Pioneer Wholesale,B2B,Retail,Canada,North America,Toronto,,74236,2023-08-31,Mid-Market
+C00536,Frontier Import Export,B2B,Healthcare,Mexico,North America,Guadalajara,,73914,2023-06-05,Small Business
+C00537,Apex Traders,B2B,Automotive,France,Europe,Marseille,,13557,2023-08-26,Enterprise
+C00538,Zenith Logistics,B2B,Pharmaceuticals,Canada,North America,Montreal,,70112,2023-05-11,Small Business
+C00539,Quantum Enterprises,B2B,Telecommunications,United States,North America,Atlanta,IL,27104,2023-10-30,Small Business
+C00540,Cascade Systems,B2B,Technology,Vietnam,Asia Pacific,Ho Chi Minh City,,69577,2023-11-11,Small Business
+C00541,Frontier Commerce,B2B,Government,Egypt,Middle East & Africa,Cairo,,98463,2023-06-18,Mid-Market
+C00542,Susan Thompson,B2C,Consumer,Netherlands,Europe,Amsterdam,,94046,2023-02-28,Consumer
+C00543,Skyline Wholesale,B2B,Energy,Australia,Asia Pacific,Melbourne,,72201,2024-12-21,Small Business
+C00544,Vantage Depot,B2B,Government,South Africa,Middle East & Africa,Cape Town,,56860,2023-09-07,Mid-Market
+C00545,Union Distribution,B2B,Healthcare,United States,North America,Chicago,NY,53771,2023-03-12,Enterprise
+C00546,Global Retail Group,B2B,Hospitality,United Kingdom,Europe,Manchester,,65910,2024-11-08,Enterprise
+C00547,Redwood Import Export,B2B,Agriculture,Poland,Europe,Warsaw,,56155,2024-09-30,Mid-Market
+C00548,Liam Miller,B2C,Consumer,United States,North America,Columbus,TX,81975,2025-09-25,Consumer
+C00549,Harbor Commerce,B2B,Education,China,Asia Pacific,Shenzhen,,50858,2023-07-27,Small Business
+C00550,Ironclad Wholesale,B2B,Technology,Germany,Europe,Frankfurt,,30118,2023-12-15,Mid-Market
+C00551,Beacon Commerce,B2B,Technology,Spain,Europe,Madrid,,67498,2023-08-28,Small Business
+C00552,Prime Traders,B2B,Energy,United States,North America,Phoenix,NY,73168,2025-07-10,Small Business
+C00553,Meridian Depot,B2B,Telecommunications,United States,North America,Newark,WA,36213,2023-03-12,Enterprise
+C00554,Zenith Mart,B2B,Education,Argentina,Latin America,Buenos Aires,,52102,2025-10-04,Small Business
+C00555,Quantum Solutions,B2B,Automotive,Canada,North America,Toronto,,63279,2025-03-11,Mid-Market
+C00556,John Williams,B2C,Consumer,United States,North America,Chicago,IL,65348,2023-12-05,Consumer
+C00557,Susan Hassan,B2C,Consumer,Mexico,North America,Guadalajara,,25779,2025-04-16,Consumer
+C00558,Coastal Enterprises,B2B,Consumer Goods,United Kingdom,Europe,Manchester,,84756,2025-06-06,Mid-Market
+C00559,Vantage Mart,B2B,Food & Beverage,Netherlands,Europe,Amsterdam,,59364,2024-09-04,Enterprise
+C00560,Beacon Depot,B2B,Government,United Kingdom,Europe,London,,25175,2024-09-04,Enterprise
+C00561,Pioneer Merchants,B2B,Hospitality,Mexico,North America,Monterrey,,44816,2024-07-16,Small Business
+C00562,Meridian Mart,B2B,Technology,United States,North America,Dallas,AZ,55515,2025-10-29,Mid-Market
+C00563,Frontier Trading Co.,B2B,Technology,Brazil,Latin America,Rio de Janeiro,,25701,2025-07-11,Small Business
+C00564,Ironclad Merchants,B2B,Manufacturing,Japan,Asia Pacific,Tokyo,,77402,2024-03-29,Small Business
+C00565,Sterling Retail Group,B2B,Energy,Vietnam,Asia Pacific,Hanoi,,42791,2024-05-09,Mid-Market
+C00566,Crest Commerce,B2B,Government,India,Asia Pacific,Delhi,,83692,2025-06-26,Small Business
+C00567,Global Systems,B2B,Pharmaceuticals,China,Asia Pacific,Ningbo,,24823,2025-07-30,Mid-Market
+C00568,Matthew Hernandez,B2C,Consumer,Canada,North America,Vancouver,,77802,2025-04-02,Consumer
+C00569,Richard Li,B2C,Consumer,Germany,Europe,Hamburg,,14839,2025-11-05,Consumer
+C00570,Vertex Mart,B2B,Construction,Poland,Europe,Gdansk,,68017,2024-08-30,Mid-Market
+C00571,Joseph Patel,B2C,Consumer,Canada,North America,Toronto,,69343,2025-12-06,Consumer
+C00572,Mei Cohen,B2C,Consumer,Brazil,Latin America,Sao Paulo,,87097,2024-07-02,Consumer
+C00573,Ironclad Retail Group,B2B,Education,United Kingdom,Europe,Manchester,,,2025-03-27,Mid-Market
+C00574,Noah Robinson,B2C,Consumer,China,Asia Pacific,Ningbo,,34912,2025-04-23,Consumer
+C00575,Quantum Distribution,B2B,Manufacturing,Brazil,Latin America,Sao Paulo,,57414,2023-03-10,Enterprise
+C00576,Atlas Depot,B2B,Consumer Goods,Netherlands,Europe,Rotterdam,,21308,2024-07-03,Small Business
+C00577,Ananya Patel,B2C,Consumer,Chile,Latin America,Santiago,,89356,2024-02-06,Consumer
+C00578,Silverline Systems,B2B,Pharmaceuticals,United Kingdom,Europe,Manchester,,25695,2025-03-25,Enterprise
+C00579,Global Partners,B2B,Consumer Goods,Brazil,Latin America,Sao Paulo,,62968,2024-08-02,Small Business
+C00580,Redwood Trading Co.,B2B,Pharmaceuticals,Germany,Europe,Hamburg,,57742,2025-03-09,Enterprise
+C00581,Pioneer Traders,B2B,Energy,United Kingdom,Europe,Manchester,,19860,2023-05-15,Small Business
+C00582,Atlas Systems,B2B,Energy,Spain,Europe,Barcelona,,33157,2025-12-24,Mid-Market
+C00583,Coastal Enterprises,B2B,Government,Mexico,North America,Monterrey,,23957,2023-01-22,Enterprise
+C00584,Summit Import Export,B2B,Construction,Germany,Europe,Munich,,91987,2025-04-15,Small Business
+C00585,Atlas Commerce,B2B,Retail,Chile,Latin America,Santiago,,21040,2023-03-19,Mid-Market
+C00586,Atlas Trading Co.,B2B,Automotive,Japan,Asia Pacific,Osaka,,14784,2024-06-10,Mid-Market
+C00587,Metro Depot,B2B,Pharmaceuticals,United States,North America,Atlanta,WA,46534,2023-08-13,Small Business
+C00588,Harbor Supply Co.,B2B,Manufacturing,Mexico,North America,Mexico City,,60833,2024-11-29,Mid-Market
+C00589,Crest Holdings,B2B,Consumer Goods,Mexico,North America,Monterrey,,47523,2024-05-19,Small Business
+C00590,Linda Garcia,B2C,Consumer,United States,North America,Newark,FL,13533,2024-06-09,Consumer
+C00591,Oliver Novak,B2C,Consumer,Argentina,Latin America,Buenos Aires,,56775,2024-10-21,Consumer
+C00592,Quantum Mart,B2B,Healthcare,United Kingdom,Europe,Birmingham,,43161,2025-07-04,Small Business
+C00593,David Ali,B2C,Consumer,Mexico,North America,Monterrey,,96069,2024-06-03,Consumer
+C00594,Mark Thompson,B2C,Consumer,Netherlands,Europe,Amsterdam,,61959,2025-10-02,Consumer
+C00595,Emma Hassan,B2C,Consumer,Mexico,North America,Monterrey,,98753,2025-11-28,Consumer
+C00596,Metro Solutions,B2B,Government,Mexico,North America,Monterrey,,,2024-08-31,Mid-Market
+C00597,Rahul White,B2C,Consumer,China,Asia Pacific,Shanghai,,35375,2025-01-02,Consumer
+C00598,Apex Networks,B2B,Manufacturing,Vietnam,Asia Pacific,Hanoi,,65201,2023-03-22,Mid-Market
+C00599,Union Commerce,B2B,Retail,Saudi Arabia,Middle East & Africa,Riyadh,,96182,2025-12-30,Mid-Market
+C00600,Nova Depot,B2B,Technology,China,Asia Pacific,Shanghai,,,2025-01-30,Small Business
+C00601,Robert Harris,B2C,Consumer,Netherlands,Europe,Rotterdam,,17783,2024-06-26,Consumer
+C00602,Union Trading Co.,B2B,Food & Beverage,Vietnam,Asia Pacific,Hanoi,,79271,2023-06-10,Mid-Market
+C00603,Granite Solutions,B2B,Construction,Argentina,Latin America,Buenos Aires,,,2025-03-24,Mid-Market
+C00604,Anchor Systems,B2B,Government,Japan,Asia Pacific,Tokyo,,34941,2023-09-17,Small Business
+C00605,Layla Wang,B2C,Consumer,Saudi Arabia,Middle East & Africa,Riyadh,,16247,2024-02-17,Consumer
+C00606,Pinnacle Solutions,B2B,Construction,Singapore,Asia Pacific,Singapore,,77783,2024-03-30,Small Business
+C00607,Ananya Moore,B2C,Consumer,Chile,Latin America,Santiago,,68645,2025-10-14,Consumer
+C00608,Skyline Retail Group,B2B,Manufacturing,Canada,North America,Toronto,,91015,2025-05-22,Enterprise
+C00609,Coastal Solutions,B2B,Retail,Japan,Asia Pacific,Osaka,,54110,2025-06-26,Mid-Market
+C00610,Global Logistics,B2B,Government,Spain,Europe,Barcelona,,33006,2023-11-23,Small Business
+C00611,Joseph Wilson,B2C,Consumer,Germany,Europe,Hamburg,,80506,2025-09-15,Consumer
+C00612,Chen Garcia,B2C,Consumer,China,Asia Pacific,Shenzhen,,50997,2024-03-17,Consumer
+C00613,Skyline Depot,B2B,Retail,United Arab Emirates,Middle East & Africa,Abu Dhabi,,37818,2024-05-23,Mid-Market
+C00614,Cascade Logistics,B2B,Retail,South Africa,Middle East & Africa,Johannesburg,,28108,2023-10-11,Small Business
+C00615,Coastal Systems,B2B,Food & Beverage,Mexico,North America,Monterrey,,55219,2024-01-24,Enterprise
+C00616,Vertex Solutions,B2B,Telecommunications,Singapore,Asia Pacific,Singapore,,36942,2023-12-29,Enterprise
+C00617,Robert Ramirez,B2C,Consumer,Japan,Asia Pacific,Tokyo,,99950,2023-06-11,Consumer
+C00618,Anchor Merchants,B2B,Agriculture,France,Europe,Marseille,,95557,2025-10-09,Small Business
+C00619,Global Supply Co.,B2B,Retail,Canada,North America,Montreal,,43069,2024-04-30,Small Business
+C00620,Michael Lewis,B2C,Consumer,Mexico,North America,Monterrey,,16653,2023-08-12,Consumer
+C00621,Liam Smith,B2C,Consumer,India,Asia Pacific,Bengaluru,,31863,2025-03-20,Consumer
+C00622,Union Traders,B2B,Automotive,Poland,Europe,Warsaw,,61701,2023-02-12,Enterprise
+C00623,Richard Li,B2C,Consumer,Egypt,Middle East & Africa,Cairo,,48982,2024-08-04,Consumer
+C00624,Prime Commerce,B2B,Manufacturing,United Kingdom,Europe,London,,76594,2025-04-03,Enterprise
+C00625,Wei Rodriguez,B2C,Consumer,South Africa,Middle East & Africa,Cape Town,,18696,2025-01-06,Consumer
+C00626,Ava Gonzalez,B2C,Consumer,Netherlands,Europe,Rotterdam,,21546,2023-03-04,Consumer
+C00627,Quantum Depot,B2B,Energy,India,Asia Pacific,Bengaluru,,94017,2023-01-29,Enterprise
+C00628,Divya Fischer,B2C,Consumer,Canada,North America,Toronto,,66589,2025-08-23,Consumer
+C00629,Cascade Import Export,B2B,Construction,Poland,Europe,Gdansk,,87437,2024-05-19,Mid-Market
+C00630,Pioneer Retail Group,B2B,Education,Vietnam,Asia Pacific,Hanoi,,65072,2023-10-07,Enterprise
+C00631,Claire Kumar,B2C,Consumer,Brazil,Latin America,Rio de Janeiro,,88435,2024-02-02,Consumer
+C00632,Atlas Trading Co.,B2B,Government,Singapore,Asia Pacific,Singapore,,42119,2024-08-11,Mid-Market
+C00633,Bluewave Wholesale,B2B,Healthcare,United States,North America,Dallas,NY,61316,2024-11-09,Enterprise
+C00634,Nova Logistics,B2B,Hospitality,United Kingdom,Europe,London,,37570,2025-10-17,Small Business
+C00635,Valentina Lee,B2C,Consumer,United States,North America,Phoenix,GA,56692,2025-06-11,Consumer
+C00636,Pinnacle Distribution,B2B,Government,Mexico,North America,Mexico City,,10094,2025-03-25,Mid-Market
+C00637,Atlas Ventures,B2B,Retail,Australia,Asia Pacific,Melbourne,,73844,2024-08-26,Mid-Market
+C00638,Redwood Import Export,B2B,Hospitality,Australia,Asia Pacific,Melbourne,,41520,2023-12-29,Enterprise
+C00639,Arjun Jackson,B2C,Consumer,China,Asia Pacific,Shanghai,,70332,2024-01-13,Consumer
+C00640,Crest Commerce,B2B,Manufacturing,Argentina,Latin America,Buenos Aires,,93946,2025-10-10,Enterprise
+C00641,Pinnacle Enterprises,B2B,Education,Australia,Asia Pacific,Melbourne,,,2025-08-21,Enterprise
+C00642,Yuki Kim,B2C,Consumer,Singapore,Asia Pacific,Singapore,,63719,2023-12-24,Consumer
+C00643,Mia Lewis,B2C,Consumer,Mexico,North America,Monterrey,,95755,2025-02-04,Consumer
+C00644,Diego Gonzalez,B2C,Consumer,Mexico,North America,Guadalajara,,94703,2024-09-15,Consumer
+C00645,Sandra Taylor,B2C,Consumer,Australia,Asia Pacific,Sydney,,31786,2024-10-02,Small Business
+C00646,Robert Harris,B2C,Consumer,Chile,Latin America,Santiago,,52749,2024-07-03,Consumer
+C00647,Rahul Khan,B2C,Consumer,Canada,North America,Toronto,,60089,2024-04-16,Consumer
+C00648,Sterling Systems,B2B,Government,France,Europe,Lyon,,93246,2023-02-21,Small Business
+C00649,Harbor Enterprises,B2B,Automotive,Australia,Asia Pacific,Sydney,,64502,2025-11-29,Small Business
+C00650,Beacon Commerce,B2B,Healthcare,Canada,North America,Vancouver,,40799,2024-11-04,Enterprise
+C00651,Anchor Commerce,B2B,Hospitality,Poland,Europe,Gdansk,,26179,2025-03-05,Mid-Market
+C00652,Nova Traders,B2B,Food & Beverage,Brazil,Latin America,Sao Paulo,,26307,2023-10-15,Small Business
+C00653,Margaret Chen,B2C,Consumer,Australia,Asia Pacific,Sydney,,83933,2025-05-09,Consumer
+C00654,Granite Depot,B2B,Automotive,United States,North America,Columbus,WA,89503,2025-12-15,Enterprise
+C00655,Coastal Holdings,B2B,Consumer Goods,Chile,Latin America,Santiago,,24292,2023-08-11,Small Business
+C00656,Pinnacle Partners,B2B,Retail,Germany,Europe,Munich,,21704,2023-05-18,Mid-Market
+C00657,Granite Import Export,B2B,Technology,Colombia,Latin America,Medellin,,62427,2024-12-21,Small Business
+C00658,Union Distribution,B2B,Food & Beverage,Mexico,North America,Guadalajara,,24842,2024-09-28,Small Business
+C00659,Ironclad Import Export,B2B,Food & Beverage,United Kingdom,Europe,Birmingham,,86864,2024-02-13,Enterprise
+C00660,Global Commerce,B2B,Healthcare,France,Europe,Marseille,,90282,2023-04-25,Small Business
+C00661,Beacon Import Export,B2B,Healthcare,United States,North America,Chicago,NJ,62606,2025-04-01,Mid-Market
+C00662,Ironclad Industries,B2B,Pharmaceuticals,Chile,Latin America,Santiago,,15695,2025-07-02,Enterprise
+C00663,Skyline Merchants,B2B,Automotive,Canada,North America,Vancouver,,58858,2025-07-08,Enterprise
+C00664,Ahmed Hassan,B2C,Consumer,Mexico,North America,Guadalajara,,56339,2025-01-21,Consumer
+C00665,Bluewave Depot,B2B,Manufacturing,Poland,Europe,Warsaw,,15791,2023-12-28,Small Business
+C00666,Kwame Fischer,B2C,Consumer,Singapore,Asia Pacific,Singapore,,47148,2025-08-24,Consumer
+C00667,Sterling Ventures,B2B,Agriculture,Vietnam,Asia Pacific,Ho Chi Minh City,,90609,2025-04-19,Small Business
+C00668,Zenith Traders,B2B,Retail,South Africa,Middle East & Africa,Cape Town,,12698,2025-09-28,Mid-Market
+C00669,Ava Perez,B2C,Consumer,Canada,North America,Montreal,,94117,2025-01-15,Consumer
+C00670,Olga Wilson,B2C,Consumer,Spain,Europe,Madrid,,39975,2023-02-10,Consumer
+C00671,Summit Distribution,B2B,Healthcare,Mexico,North America,Monterrey,,31571,2024-04-17,Mid-Market
+C00672,Matthew Muller,B2C,Consumer,Poland,Europe,Warsaw,,52298,2025-06-19,Consumer
+C00673,Union Commerce,B2B,Technology,Egypt,Middle East & Africa,Cairo,,82117,2025-06-12,Small Business
+C00674,Cascade Distribution,B2B,Technology,Vietnam,Asia Pacific,Ho Chi Minh City,,42646,2023-02-11,Small Business
+C00675,Michael Park,B2C,Consumer,Poland,Europe,Gdansk,,56693,2025-12-25,Consumer
+C00676,Valentina Cohen,B2C,Consumer,United Kingdom,Europe,London,,78271,2025-06-11,Consumer
+C00677,Redwood Enterprises,B2B,Manufacturing,Colombia,Latin America,Bogota,,66291,2023-04-22,Small Business
+C00678,Granite Supply Co.,B2B,Agriculture,Netherlands,Europe,Amsterdam,,76233,2024-03-29,Mid-Market
+C00679,Yuki Nguyen,B2C,Consumer,Canada,North America,Vancouver,,40381,2025-02-11,Consumer
+C00680,Meridian Commerce,B2B,Telecommunications,Poland,Europe,Gdansk,,57125,2024-06-22,Small Business
+C00681,Union Supply Co.,B2B,Hospitality,United States,North America,Dallas,WA,53147,2024-03-25,Small Business
+C00682,Frontier Enterprises,B2B,Food & Beverage,United States,North America,Dallas,WA,56617,2025-01-22,Mid-Market
+C00683,Skyline Industries,B2B,Technology,Canada,North America,Montreal,,91804,2024-12-17,Mid-Market
+C00684,Meridian Logistics,B2B,Healthcare,Spain,Europe,Barcelona,,39953,2025-10-26,Mid-Market
+C00685,Vertex Import Export,B2B,Telecommunications,Australia,Asia Pacific,Melbourne,,96453,2025-10-28,Enterprise
+C00686,Giulia Miller,B2C,Consumer,Poland,Europe,Gdansk,,66075,2023-01-26,Consumer
+C00687,Granite Mart,B2B,Education,Poland,Europe,Gdansk,,64146,2024-05-30,Mid-Market
+C00688,Giulia Silva,B2C,Consumer,South Africa,Middle East & Africa,Cape Town,,84362,2024-02-10,Consumer
+C00689,Harbor Commerce,B2B,Education,India,Asia Pacific,Mumbai,,16907,2023-11-14,Enterprise
+C00690,Frontier Mart,B2B,Healthcare,Germany,Europe,Hamburg,,35290,2025-12-13,Small Business
+C00691,Layla Hassan,B2C,Consumer,United States,North America,Dallas,GA,13782,2024-02-21,Consumer
+C00692,Ironclad Trading Co.,B2B,Consumer Goods,Brazil,Latin America,Curitiba,,56596,2023-12-19,Mid-Market
+C00693,Christopher Miller,B2C,Consumer,Canada,North America,Toronto,,57625,2024-05-05,Consumer
+C00694,Silverline Trading Co.,B2B,Energy,United States,North America,Columbus,AZ,60288,2025-05-24,Mid-Market
+C00695,Anchor Trading Co.,B2B,Telecommunications,Brazil,Latin America,Rio de Janeiro,,59696,2025-11-19,Enterprise
+C00696,Apex Commerce,B2B,Energy,United Kingdom,Europe,Manchester,,88191,2025-05-22,Small Business
+C00697,Horizon Systems,B2B,Pharmaceuticals,Australia,Asia Pacific,Sydney,,55040,2023-11-28,Mid-Market
+C00698,Isabella Anderson,B2C,Consumer,Poland,Europe,Gdansk,,86867,2023-02-20,Consumer
+C00699,Apex Distribution,B2B,Education,China,Asia Pacific,Shanghai,,45439,2024-09-14,Mid-Market
+C00700,Harbor Ventures,B2B,Energy,Mexico,North America,Guadalajara,,52431,2023-06-11,Small Business
+C00701,Prime Partners,B2B,Technology,United States,North America,Dallas,OH,41232,2025-09-22,Small Business
+C00702,Prime Distribution,B2B,Government,Canada,North America,Montreal,,16775,2023-04-04,Mid-Market
+C00703,Summit Enterprises,B2B,Consumer Goods,United States,North America,Dallas,NY,30132,2024-06-29,Mid-Market
+C00704,Union Commerce,B2B,Government,Brazil,Latin America,Curitiba,,76380,2025-05-25,Mid-Market
+C00705,Giulia Silva,B2C,Consumer,Canada,North America,Vancouver,,85165,2023-08-31,Consumer
+C00706,Quantum Trading Co.,B2B,Education,Germany,Europe,Hamburg,,40288,2024-11-01,Small Business
+C00707,Union Mart,B2B,Technology,Singapore,Asia Pacific,Singapore,,53493,2025-11-11,Small Business
+C00708,Wei Khan,B2C,Consumer,Japan,Asia Pacific,Osaka,,43864,2023-04-11,Consumer
+C00709,Betty Rossi,B2C,Consumer,Spain,Europe,Barcelona,,20697,2023-03-21,Consumer
+C00710,Horizon Wholesale,B2B,Government,Netherlands,Europe,Rotterdam,,18607,2024-12-19,Small Business
+C00711,Olga Oliveira,B2C,Consumer,Egypt,Middle East & Africa,Cairo,,66348,2023-07-06,Small Business
+C00712,Prime Mart,B2B,Pharmaceuticals,Singapore,Asia Pacific,Singapore,,95388,2025-02-10,Small Business
+C00713,Quantum Import Export,B2B,Manufacturing,Australia,Asia Pacific,Melbourne,,75380,2025-07-08,Small Business
+C00714,Crest Mart,B2B,Technology,Brazil,Latin America,Rio de Janeiro,,21199,2023-10-12,Mid-Market
+C00715,Wei Khan,B2C,Consumer,Vietnam,Asia Pacific,Hanoi,,29808,2025-03-21,Consumer
+C00716,Pinnacle Solutions,B2B,Pharmaceuticals,Canada,North America,Vancouver,,84442,2025-12-28,Mid-Market
+C00717,Summit Mart,B2B,Food & Beverage,France,Europe,Lyon,,59052,2023-06-14,Mid-Market
+C00718,Union Retail Group,B2B,Consumer Goods,Mexico,North America,Monterrey,,19798,2023-05-28,Mid-Market
+C00719,Quantum Holdings,B2B,Healthcare,Vietnam,Asia Pacific,Hanoi,,39917,2025-06-28,Mid-Market
+C00720,Global Holdings,B2B,Education,South Africa,Middle East & Africa,Johannesburg,,48146,2023-05-30,Small Business
+C00721,Richard Davis,B2C,Consumer,Germany,Europe,Hamburg,,89995,2024-07-27,Consumer
+C00722,Ironclad Enterprises,B2B,Retail,Germany,Europe,Hamburg,,17495,2024-12-25,Mid-Market
+C00723,Vertex Distribution,B2B,Pharmaceuticals,Mexico,North America,Guadalajara,,14596,2024-01-18,Small Business
+C00724,Harbor Enterprises,B2B,Consumer Goods,United Arab Emirates,Middle East & Africa,Dubai,,15856,2024-04-14,Mid-Market
+C00725,Beacon Ventures,B2B,Energy,United States,North America,Newark,GA,75100,2023-08-05,Small Business
+C00726,James Davis,B2C,Consumer,Mexico,North America,Guadalajara,,64028,2025-10-23,Consumer
+C00727,Pioneer Depot,B2B,Education,Canada,North America,Vancouver,,70024,2024-03-27,Small Business
+C00728,Ironclad Distribution,B2B,Retail,United States,North America,Newark,NJ,71820,2023-05-26,Mid-Market
+C00729,Cascade Depot,B2B,Retail,Germany,Europe,Hamburg,,20498,2023-02-11,Mid-Market
+C00730,Christopher Thomas,B2C,Consumer,United Kingdom,Europe,Manchester,,32221,2025-07-07,Consumer
+C00731,Horizon Mart,B2B,Telecommunications,Canada,North America,Toronto,,51798,2023-07-27,Enterprise
+C00732,Harbor Supply Co.,B2B,Energy,Canada,North America,Toronto,,92657,2025-03-14,Mid-Market
+C00733,Susan Perez,B2C,Consumer,Mexico,North America,Guadalajara,,48026,2025-07-13,Consumer
+C00734,Sterling Retail Group,B2B,Hospitality,Netherlands,Europe,Rotterdam,,92883,2025-10-17,Small Business
+C00735,Fatima Kim,B2C,Consumer,Canada,North America,Toronto,,97276,2024-12-16,Consumer
+C00736,Mohammed White,B2C,Consumer,Japan,Asia Pacific,Tokyo,,80525,2024-04-10,Consumer
+C00737,Bluewave Ventures,B2B,Technology,Canada,North America,Toronto,,48771,2025-12-24,Mid-Market
+C00738,Claire Tanaka,B2C,Consumer,Mexico,North America,Mexico City,,75522,2023-04-07,Consumer
+C00739,Anchor Commerce,B2B,Retail,Germany,Europe,Hamburg,,58245,2025-07-09,Enterprise
+C00740,Prime Wholesale,B2B,Energy,France,Europe,Marseille,,51394,2025-12-08,Enterprise
+C00741,Cascade Ventures,B2B,Food & Beverage,United States,North America,Newark,IL,44877,2023-07-23,Enterprise
+C00742,Horizon Networks,B2B,Food & Beverage,United States,North America,Dallas,OH,66817,2023-02-05,Small Business
+C00743,Quantum Partners,B2B,Technology,Colombia,Latin America,Bogota,,46485,2025-02-01,Enterprise
+C00744,Pioneer Retail Group,B2B,Healthcare,Canada,North America,Montreal,,20208,2024-12-16,Mid-Market
+C00745,Frontier Mart,B2B,Automotive,Germany,Europe,Hamburg,,83795,2025-09-22,Mid-Market
+C00746,Union Commerce,B2B,Automotive,United Kingdom,Europe,Manchester,,85434,2023-04-04,Small Business
+C00747,Nova Retail Group,B2B,Healthcare,Mexico,North America,Mexico City,,33011,2025-05-17,Enterprise
+C00748,Zenith Distribution,B2B,Technology,Spain,Europe,Barcelona,,28424,2023-07-21,Small Business
+C00749,Lukas Ali,B2C,Consumer,China,Asia Pacific,Shanghai,,19966,2025-06-23,Consumer
+C00750,Sarah Clark,B2C,Consumer,Chile,Latin America,Santiago,,74837,2023-06-01,Consumer
+C00751,Ironclad Enterprises,B2B,Pharmaceuticals,Canada,North America,Vancouver,,12526,2023-07-04,Enterprise
+C00752,Skyline Retail Group,B2B,Manufacturing,United States,North America,Dallas,AZ,69150,2023-02-08,Small Business
+C00753,Coastal Solutions,B2B,Telecommunications,United States,North America,Columbus,FL,99734,2023-10-22,Mid-Market
+C00754,Pioneer Depot,B2B,Hospitality,United Kingdom,Europe,Manchester,,91108,2024-01-02,Small Business
+C00755,Amara Kobayashi,B2C,Consumer,Vietnam,Asia Pacific,Hanoi,,94125,2023-05-25,Consumer
+C00756,Karen Rossi,B2C,Consumer,Canada,North America,Montreal,,64349,2023-08-13,Consumer
+C00757,Silverline Logistics,B2B,Telecommunications,United States,North America,Atlanta,FL,41445,2023-03-16,Small Business
+C00758,Mia Tran,B2C,Consumer,United Arab Emirates,Middle East & Africa,Dubai,,15932,2023-06-17,Consumer
+C00759,Silverline Commerce,B2B,Government,Canada,North America,Vancouver,,44065,2023-09-19,Mid-Market
+C00760,Coastal Enterprises,B2B,Pharmaceuticals,United Kingdom,Europe,London,,16158,2025-07-16,Mid-Market
+C00761,Priya Taylor,B2C,Consumer,China,Asia Pacific,Shanghai,,88086,2024-07-12,Consumer
+C00762,Nova Wholesale,B2B,Healthcare,Canada,North America,Toronto,,88571,2024-07-31,Small Business
+C00763,Nova Holdings,B2B,Agriculture,United States,North America,Phoenix,GA,55212,2024-11-30,Small Business
+C00764,Claire Ali,B2C,Consumer,Mexico,North America,Guadalajara,,48986,2024-03-05,Consumer
+C00765,Nova Merchants,B2B,Manufacturing,Colombia,Latin America,Bogota,,22259,2024-07-10,Mid-Market
+C00766,Meridian Merchants,B2B,Agriculture,Canada,North America,Montreal,,48931,2024-11-16,Mid-Market
+C00767,Atlas Import Export,B2B,Hospitality,Canada,North America,Vancouver,,85895,2023-02-26,Small Business
+C00768,Pioneer Traders,B2B,Agriculture,United States,North America,Newark,TX,51653,2025-06-18,Mid-Market
+C00769,Chen Li,B2C,Consumer,Mexico,North America,Mexico City,,22893,2023-07-09,Consumer
+C00770,Bluewave Mart,B2B,Healthcare,India,Asia Pacific,Chennai,,38697,2025-12-15,Small Business
+C00771,Wei Dubois,B2C,Consumer,Canada,North America,Vancouver,,60117,2023-01-24,Consumer
+C00772,Vertex Retail Group,B2B,Manufacturing,Spain,Europe,Madrid,,67210,2024-07-28,Enterprise
+C00773,Pioneer Trading Co.,B2B,Construction,Spain,Europe,Madrid,,78269,2024-03-09,Enterprise
+C00774,Zenith Merchants,B2B,Healthcare,Argentina,Latin America,Buenos Aires,,28260,2023-12-16,Mid-Market
+C00775,Harbor Partners,B2B,Telecommunications,Canada,North America,Montreal,,92202,2025-01-03,Small Business
+C00776,Vertex Trading Co.,B2B,Food & Beverage,Brazil,Latin America,Sao Paulo,,47003,2025-10-12,Enterprise
+C00777,Carlos Zhang,B2C,Consumer,China,Asia Pacific,Shenzhen,,55621,2023-05-13,Consumer
+C00778,Pinnacle Wholesale,B2B,Telecommunications,Mexico,North America,Guadalajara,,86711,2025-09-25,Small Business
+C00779,Horizon Partners,B2B,Food & Beverage,China,Asia Pacific,Shenzhen,,78455,2024-02-04,Small Business
+C00780,Atlas Holdings,B2B,Construction,Brazil,Latin America,Sao Paulo,,18877,2025-01-01,Small Business
+C00781,Meridian Merchants,B2B,Construction,Mexico,North America,Guadalajara,,74360,2023-12-30,Small Business
+C00782,Betty Anderson,B2C,Consumer,Brazil,Latin America,Rio de Janeiro,,95856,2024-11-08,Consumer
+C00783,Pinnacle Depot,B2B,Telecommunications,Poland,Europe,Warsaw,,91437,2024-09-15,Enterprise
+C00784,Frontier Distribution,B2B,Automotive,Singapore,Asia Pacific,Singapore,,99210,2024-01-17,Small Business
+C00785,James Cohen,B2C,Consumer,Egypt,Middle East & Africa,Cairo,,32908,2025-09-23,Consumer
+C00786,Betty Thomas,B2C,Consumer,France,Europe,Paris,,86422,2023-12-30,Consumer
+C00787,Quantum Mart,B2B,Construction,China,Asia Pacific,Ningbo,,70626,2024-06-01,Mid-Market
+C00788,Cascade Partners,B2B,Agriculture,Mexico,North America,Monterrey,,13665,2023-08-07,Small Business
+C00789,Vantage Ventures,B2B,Energy,China,Asia Pacific,Shenzhen,,28551,2025-05-11,Enterprise
+C00790,Global Wholesale,B2B,Government,Singapore,Asia Pacific,Singapore,,40639,2025-03-12,Small Business
+C00791,Bluewave Supply Co.,B2B,Retail,United States,North America,Chicago,TX,40818,2023-04-21,Enterprise
+C00792,Global Distribution,B2B,Manufacturing,United Kingdom,Europe,London,,99313,2024-04-09,Mid-Market
+C00793,Meridian Enterprises,B2B,Automotive,Mexico,North America,Monterrey,,93369,2023-05-15,Mid-Market
+C00794,Vantage Enterprises,B2B,Agriculture,Mexico,North America,Monterrey,,33294,2025-01-02,Mid-Market
+C00795,Prime Systems,B2B,Consumer Goods,Mexico,North America,Monterrey,,17584,2023-11-03,Small Business
+C00796,Summit Trading Co.,B2B,Technology,Spain,Europe,Barcelona,,23012,2025-02-05,Small Business
+C00797,Frontier Supply Co.,B2B,Manufacturing,Canada,North America,Toronto,,93814,2023-05-10,Small Business
+C00798,Granite Commerce,B2B,Government,Mexico,North America,Guadalajara,,72937,2023-11-19,Small Business
+C00799,Union Mart,B2B,Construction,Vietnam,Asia Pacific,Hanoi,,47291,2024-11-15,Mid-Market
+C00800,Olga Ibrahim,B2C,Consumer,Vietnam,Asia Pacific,Ho Chi Minh City,,40929,2024-10-21,Consumer
+C00801,Apex Retail Group,B2B,Consumer Goods,Japan,Asia Pacific,Osaka,,56232,2023-12-27,Small Business
+C00802,Cascade Networks,B2B,Consumer Goods,Mexico,North America,Guadalajara,,90690,2025-12-31,Mid-Market
+C00803,Summit Supply Co.,B2B,Education,Argentina,Latin America,Buenos Aires,,44109,2023-01-20,Enterprise
+C00804,Silverline Commerce,B2B,Pharmaceuticals,Germany,Europe,Munich,,,2024-08-20,Mid-Market
+C00805,Silverline Mart,B2B,Food & Beverage,United States,North America,Atlanta,IL,98675,2023-07-19,Enterprise
+C00806,Ironclad Retail Group,B2B,Hospitality,Canada,North America,Toronto,,,2024-01-08,Small Business
+C00807,Nova Distribution,B2B,Agriculture,China,Asia Pacific,Shenzhen,,62470,2024-07-25,Small Business
+C00808,Harbor Logistics,B2B,Government,Canada,North America,Montreal,,50640,2025-08-23,Mid-Market
+C00809,Vertex Industries,B2B,Energy,United Kingdom,Europe,Manchester,,12132,2024-12-14,Mid-Market
+C00810,Pinnacle Commerce,B2B,Manufacturing,Saudi Arabia,Middle East & Africa,Riyadh,,94461,2023-04-20,Enterprise
+C00811,Cascade Ventures,B2B,Consumer Goods,Mexico,North America,Monterrey,,57258,2024-07-04,Small Business
+C00812,Anchor Depot,B2B,Education,Mexico,North America,Mexico City,,74453,2025-05-13,Mid-Market
+C00813,Skyline Networks,B2B,Consumer Goods,Egypt,Middle East & Africa,Cairo,,95725,2023-10-07,Small Business
+C00814,Susan Smith,B2C,Consumer,France,Europe,Paris,,53280,2024-02-07,Consumer
+C00815,Redwood Industries,B2B,Automotive,Canada,North America,Vancouver,,13245,2024-12-12,Small Business
+C00816,Chen Robinson,B2C,Consumer,Chile,Latin America,Santiago,,38696,2024-10-12,Consumer
+C00817,Liam Tran,B2C,Consumer,Argentina,Latin America,Buenos Aires,,52793,2024-05-17,Consumer
+C00818,Divya Rossi,B2C,Consumer,Poland,Europe,Warsaw,,35149,2023-01-28,Consumer
+C00819,Lukas Singh,B2C,Consumer,Japan,Asia Pacific,Tokyo,,66069,2023-11-25,Consumer
+C00820,Vantage Wholesale,B2B,Automotive,United States,North America,Chicago,TX,48667,2023-07-02,Mid-Market
+C00821,Divya Jackson,B2C,Consumer,United States,North America,Chicago,AZ,66408,2023-02-12,Consumer
+C00822,Ironclad Supply Co.,B2B,Automotive,Poland,Europe,Warsaw,,44112,2023-01-24,Mid-Market
+C00823,Global Supply Co.,B2B,Hospitality,United States,North America,Chicago,OH,16513,2023-02-07,Mid-Market
+C00824,Pinnacle Import Export,B2B,Construction,Australia,Asia Pacific,Melbourne,,22663,2025-05-22,Enterprise
+C00825,Anna White,B2C,Consumer,India,Asia Pacific,Chennai,,37456,2023-12-30,Consumer
+C00826,Global Supply Co.,B2B,Manufacturing,United States,North America,Columbus,TX,57327,2023-04-06,Mid-Market
+C00827,Global Retail Group,B2B,Energy,Poland,Europe,Warsaw,,49449,2024-06-10,Small Business
+C00828,Karen Harris,B2C,Consumer,Canada,North America,Montreal,,13957,2025-11-27,Consumer
+C00829,Crest Traders,B2B,Hospitality,Chile,Latin America,Santiago,,84885,2023-01-27,Small Business
+C00830,Prime Industries,B2B,Manufacturing,Canada,North America,Montreal,,14842,2024-09-30,Mid-Market
+C00831,Coastal Logistics,B2B,Education,Australia,Asia Pacific,Melbourne,,75060,2024-07-04,Mid-Market
+C00832,Sterling Logistics,B2B,Education,Germany,Europe,Frankfurt,,67675,2024-12-19,Mid-Market
+C00833,Emma Lee,B2C,Consumer,Poland,Europe,Gdansk,,69588,2024-02-15,Consumer
+C00834,Harbor Partners,B2B,Energy,Australia,Asia Pacific,Sydney,,60013,2023-05-06,Enterprise
+C00835,Sterling Wholesale,B2B,Pharmaceuticals,Japan,Asia Pacific,Tokyo,,78649,2024-02-21,Small Business
+C00836,Zenith Import Export,B2B,Energy,Netherlands,Europe,Rotterdam,,35721,2024-11-24,Enterprise
+C00837,Coastal Enterprises,B2B,Energy,India,Asia Pacific,Mumbai,,12253,2024-11-26,Enterprise
+C00838,Bluewave Merchants,B2B,Hospitality,Egypt,Middle East & Africa,Cairo,,43430,2024-06-20,Enterprise
+C00839,Mary Ferreira,B2C,Consumer,Netherlands,Europe,Amsterdam,,62438,2024-11-10,Consumer
+C00840,Charles Taylor,B2C,Consumer,Netherlands,Europe,Rotterdam,,31129,2024-03-15,Consumer
+C00841,Marco Ferreira,B2C,Consumer,Canada,North America,Vancouver,,22622,2025-02-08,Consumer
+C00842,Harbor Commerce,B2B,Construction,Japan,Asia Pacific,Tokyo,,28163,2024-09-29,Mid-Market
+C00843,Granite Systems,B2B,Automotive,France,Europe,Marseille,,81615,2024-03-22,Enterprise
+C00844,Cascade Distribution,B2B,Manufacturing,United Kingdom,Europe,London,,91517,2025-06-30,Enterprise
+C00845,Cascade Supply Co.,B2B,Hospitality,United States,North America,Dallas,OH,70529,2024-07-21,Enterprise
+C00846,Redwood Industries,B2B,Automotive,Chile,Latin America,Santiago,,30378,2023-06-05,Mid-Market
+C00847,Silverline Traders,B2B,Consumer Goods,Spain,Europe,Madrid,,53371,2023-04-30,Enterprise
+C00848,Liam Ferreira,B2C,Consumer,Japan,Asia Pacific,Tokyo,,81570,2025-11-14,Consumer
+C00849,Harbor Wholesale,B2B,Hospitality,Canada,North America,Vancouver,,28900,2025-04-10,Enterprise
+C00850,Lukas Smith,B2C,Consumer,United Arab Emirates,Middle East & Africa,Dubai,,95271,2024-07-24,Consumer
+C00851,Ironclad Industries,B2B,Manufacturing,Mexico,North America,Mexico City,,84896,2024-06-07,Small Business
+C00852,Bluewave Mart,B2B,Energy,Mexico,North America,Guadalajara,,69993,2024-09-19,Mid-Market
+C00853,Sven Lee,B2C,Consumer,Brazil,Latin America,Curitiba,,35225,2023-04-09,Consumer
+C00854,Oliver Zhang,B2C,Consumer,Chile,Latin America,Santiago,,30073,2024-04-05,Consumer
+C00855,Charles Miller,B2C,Consumer,United States,North America,Atlanta,WA,47281,2023-12-05,Consumer
+C00856,Redwood Commerce,B2B,Retail,Spain,Europe,Barcelona,,68145,2025-02-13,Small Business
+C00857,Sterling Merchants,B2B,Food & Beverage,India,Asia Pacific,Chennai,,63691,2023-11-16,Mid-Market
+C00858,Sven Oliveira,B2C,Consumer,Colombia,Latin America,Medellin,,90131,2025-07-06,Consumer
+C00859,Vantage Commerce,B2B,Automotive,Poland,Europe,Gdansk,,97237,2025-02-24,Mid-Market
+C00860,Betty Moore,B2C,Consumer,Netherlands,Europe,Rotterdam,,49327,2024-01-27,Consumer
+C00861,Summit Distribution,B2B,Education,Japan,Asia Pacific,Osaka,,63786,2024-07-28,Enterprise
+C00862,Anchor Systems,B2B,Construction,Singapore,Asia Pacific,Singapore,,60509,2023-11-19,Small Business
+C00863,Skyline Solutions,B2B,Energy,Singapore,Asia Pacific,Singapore,,97192,2024-11-17,Small Business
+C00864,Giulia Martin,B2C,Consumer,Netherlands,Europe,Rotterdam,,63796,2023-07-30,Consumer
+C00865,Crest Trading Co.,B2B,Manufacturing,United States,North America,Chicago,WA,79637,2023-10-10,Small Business
+C00866,Carlos White,B2C,Consumer,Brazil,Latin America,Curitiba,,76783,2024-07-21,Consumer
+C00867,Metro Partners,B2B,Retail,Brazil,Latin America,Curitiba,,20716,2025-09-02,Mid-Market
+C00868,Global Partners,B2B,Manufacturing,India,Asia Pacific,Bengaluru,,10495,2024-10-09,Small Business
+C00869,Yuki Thompson,B2C,Consumer,Mexico,North America,Monterrey,,12424,2024-07-27,Small Business
+C00870,Liam Lee,B2C,Consumer,Canada,North America,Montreal,,,2024-10-14,Consumer
+C00871,Quantum Commerce,B2B,Consumer Goods,China,Asia Pacific,Shanghai,,34022,2025-09-13,Enterprise
+C00872,Vertex Partners,B2B,Government,United States,North America,Atlanta,NY,76467,2025-06-02,Enterprise
+C00873,Global Enterprises,B2B,Automotive,Egypt,Middle East & Africa,Cairo,,98363,2023-04-04,Mid-Market
+C00874,Coastal Mart,B2B,Food & Beverage,Spain,Europe,Madrid,,98168,2025-12-09,Mid-Market
+C00875,Prime Trading Co.,B2B,Manufacturing,Australia,Asia Pacific,Sydney,,95012,2024-02-24,Small Business
+C00876,Atlas Enterprises,B2B,Agriculture,Chile,Latin America,Santiago,,44504,2023-01-14,Mid-Market
+C00877,Skyline Partners,B2B,Consumer Goods,France,Europe,Paris,,73701,2023-01-17,Mid-Market
+C00878,Coastal Partners,B2B,Construction,Mexico,North America,Monterrey,,50702,2025-05-23,Mid-Market
+C00879,David Schmidt,B2C,Consumer,Vietnam,Asia Pacific,Ho Chi Minh City,,89278,2025-06-05,Consumer
+C00880,Ravi Hernandez,B2C,Consumer,United Kingdom,Europe,Birmingham,,98102,2025-03-28,Consumer
+C00881,Frontier Partners,B2B,Pharmaceuticals,United Kingdom,Europe,Manchester,,70852,2025-09-25,Small Business
+C00882,Summit Distribution,B2B,Energy,Australia,Asia Pacific,Sydney,,84589,2023-01-12,Mid-Market
+C00883,Prime Supply Co.,B2B,Retail,Saudi Arabia,Middle East & Africa,Jeddah,,61136,2025-12-11,Small Business
+C00884,Fatima Zhang,B2C,Consumer,France,Europe,Paris,,57820,2023-03-10,Consumer
+C00885,Atlas Traders,B2B,Agriculture,Canada,North America,Montreal,,67885,2023-09-09,Small Business
+C00886,Ivan Wilson,B2C,Consumer,Germany,Europe,Hamburg,,82129,2023-11-15,Consumer
+C00887,Ironclad Depot,B2B,Automotive,France,Europe,Marseille,,21741,2025-10-23,Small Business
+C00888,Beacon Trading Co.,B2B,Food & Beverage,United States,North America,Dallas,GA,64213,2023-09-13,Small Business
+C00889,Mark Garcia,B2C,Consumer,Canada,North America,Montreal,,75156,2024-09-09,Consumer
+C00890,Nancy Li,B2C,Consumer,Japan,Asia Pacific,Osaka,,76122,2023-03-30,Consumer
+C00891,Elizabeth Muller,B2C,Consumer,Mexico,North America,Mexico City,,95906,2025-08-04,Consumer
+C00892,Union Mart,B2B,Healthcare,United Arab Emirates,Middle East & Africa,Dubai,,15459,2024-09-17,Small Business
+C00893,Silverline Wholesale,B2B,Education,Canada,North America,Vancouver,,55337,2023-07-15,Enterprise
+C00894,Ironclad Supply Co.,B2B,Healthcare,United States,North America,Columbus,NJ,98255,2023-01-07,Enterprise
+C00895,Ironclad Mart,B2B,Technology,Australia,Asia Pacific,Sydney,,13418,2025-01-26,Mid-Market
+C00896,Quantum Industries,B2B,Hospitality,Argentina,Latin America,Buenos Aires,,52853,2023-06-28,Small Business
+C00897,Beacon Supply Co.,B2B,Energy,United States,North America,Columbus,NY,21760,2024-11-05,Small Business
+C00898,Redwood Industries,B2B,Technology,Mexico,North America,Guadalajara,,98397,2024-08-13,Enterprise
+C00899,Prime Retail Group,B2B,Agriculture,Mexico,North America,Mexico City,,98124,2023-07-10,Small Business
+C00900,Quantum Partners,B2B,Pharmaceuticals,Poland,Europe,Gdansk,,72179,2025-09-24,Enterprise
+C00901,Apex Distribution,B2B,Automotive,Spain,Europe,Madrid,,56016,2023-08-06,Mid-Market
+C00902,Vertex Distribution,B2B,Hospitality,Canada,North America,Montreal,,98978,2025-05-07,Enterprise
+C00903,Quantum Supply Co.,B2B,Energy,United States,North America,Dallas,AZ,57595,2024-10-26,Small Business
+C00904,Ivan Wang,B2C,Consumer,Poland,Europe,Warsaw,,73322,2024-05-22,Consumer
+C00905,Elizabeth Nguyen,B2C,Consumer,United Arab Emirates,Middle East & Africa,Dubai,,80807,2025-07-17,Consumer
+C00906,Sterling Import Export,B2B,Technology,Australia,Asia Pacific,Melbourne,,38435,2024-10-31,Mid-Market
+C00907,Crest Supply Co.,B2B,Retail,France,Europe,Lyon,,84399,2024-06-20,Small Business
+C00908,Horizon Logistics,B2B,Consumer Goods,United States,North America,Chicago,IL,71283,2023-12-18,Small Business
+C00909,Matthew Johnson,B2C,Consumer,United States,North America,Phoenix,CA,73886,2025-07-15,Consumer
+C00910,Quantum Wholesale,B2B,Energy,Canada,North America,Vancouver,,17728,2023-02-24,Small Business
+C00911,Elizabeth Hernandez,B2C,Consumer,Singapore,Asia Pacific,Singapore,,39741,2025-09-28,Consumer
+C00912,Metro Supply Co.,B2B,Construction,Chile,Latin America,Santiago,,58306,2023-10-20,Small Business
+C00913,Ravi Santos,B2C,Consumer,Chile,Latin America,Santiago,,91705,2024-11-09,Consumer
+C00914,Vertex Import Export,B2B,Agriculture,United Arab Emirates,Middle East & Africa,Dubai,,12712,2024-06-06,Mid-Market
+C00915,Anchor Enterprises,B2B,Technology,United Arab Emirates,Middle East & Africa,Abu Dhabi,,35203,2024-09-04,Mid-Market
+C00916,Granite Enterprises,B2B,Pharmaceuticals,Saudi Arabia,Middle East & Africa,Jeddah,,70058,2025-08-10,Small Business
+C00917,Prime Wholesale,B2B,Technology,United States,North America,Dallas,TX,75763,2025-06-14,Small Business
+C00918,Nova Commerce,B2B,Automotive,Mexico,North America,Mexico City,,89706,2023-03-31,Enterprise
+C00919,Crest Merchants,B2B,Healthcare,United States,North America,Newark,NJ,70090,2024-12-05,Mid-Market
+C00920,Harbor Import Export,B2B,Construction,Germany,Europe,Frankfurt,,11610,2023-03-01,Mid-Market
+C00921,Frontier Industries,B2B,Manufacturing,Canada,North America,Montreal,,24188,2024-11-15,Enterprise
+C00922,Granite Import Export,B2B,Technology,Chile,Latin America,Santiago,,22713,2023-10-20,Small Business
+C00923,Silverline Solutions,B2B,Telecommunications,China,Asia Pacific,Shanghai,,23120,2025-09-10,Small Business
+C00924,Barbara Clark,B2C,Consumer,Germany,Europe,Munich,,13942,2025-09-28,Consumer
+C00925,Sofia Moore,B2C,Consumer,Mexico,North America,Guadalajara,,96314,2024-08-24,Consumer
+C00926,Nova Partners,B2B,Technology,Mexico,North America,Mexico City,,95048,2024-11-21,Mid-Market
+C00927,Sandra Sharma,B2C,Consumer,Canada,North America,Toronto,,13101,2024-06-08,Consumer
+C00928,Vertex Distribution,B2B,Construction,Colombia,Latin America,Bogota,,50994,2025-03-20,Small Business
+C00929,Daniel Lopez,B2C,Consumer,France,Europe,Lyon,,,2025-04-23,Consumer
+C00930,Meridian Networks,B2B,Retail,China,Asia Pacific,Ningbo,,61803,2025-03-31,Small Business
+C00931,Christopher Muller,B2C,Consumer,Canada,North America,Toronto,,63548,2023-06-25,Consumer
+C00932,Vertex Import Export,B2B,Telecommunications,France,Europe,Marseille,,57646,2024-05-20,Enterprise
+C00933,Sterling Enterprises,B2B,Energy,United Kingdom,Europe,London,,99337,2025-01-27,Enterprise
+C00934,Ingrid Rossi,B2C,Consumer,China,Asia Pacific,Shanghai,,74393,2025-03-15,Consumer
+C00935,Bluewave Logistics,B2B,Food & Beverage,Vietnam,Asia Pacific,Ho Chi Minh City,,44939,2024-01-28,Mid-Market
+C00936,Skyline Systems,B2B,Healthcare,Mexico,North America,Guadalajara,,68849,2025-03-19,Enterprise
+C00937,Union Wholesale,B2B,Education,South Africa,Middle East & Africa,Johannesburg,,19295,2023-09-20,Mid-Market
+C00938,Zenith Partners,B2B,Telecommunications,Canada,North America,Montreal,,20215,2025-07-21,Small Business
+C00939,Frontier Systems,B2B,Retail,Chile,Latin America,Santiago,,,2024-09-20,Small Business
+C00940,Pioneer Merchants,B2B,Energy,Mexico,North America,Guadalajara,,25959,2024-01-07,Mid-Market
+C00941,Coastal Supply Co.,B2B,Automotive,Canada,North America,Vancouver,,41985,2024-07-25,Mid-Market
+C00942,Carlos Patel,B2C,Consumer,Argentina,Latin America,Buenos Aires,,59510,2023-01-26,Consumer
+C00943,Margaret Thomas,B2C,Consumer,Canada,North America,Toronto,,24465,2024-05-28,Small Business
+C00944,Charles Schmidt,B2C,Consumer,United Kingdom,Europe,Birmingham,,90904,2023-01-18,Consumer
+C00945,Beacon Traders,B2B,Food & Beverage,Spain,Europe,Madrid,,61496,2023-01-27,Mid-Market
+C00946,Atlas Commerce,B2B,Energy,United States,North America,Atlanta,CA,86343,2025-01-09,Small Business
+C00947,Harbor Industries,B2B,Retail,Australia,Asia Pacific,Sydney,,74469,2024-06-07,Small Business
+C00948,Crest Supply Co.,B2B,Government,Brazil,Latin America,Curitiba,,13220,2023-01-22,Enterprise
+C00949,Sterling Enterprises,B2B,Manufacturing,Argentina,Latin America,Buenos Aires,,74403,2023-09-10,Small Business
+C00950,Metro Solutions,B2B,Manufacturing,Canada,North America,Montreal,,14098,2025-01-31,Mid-Market
+C00951,Union Networks,B2B,Manufacturing,Poland,Europe,Gdansk,,68534,2023-05-22,Mid-Market
+C00952,Ananya Lewis,B2C,Consumer,Canada,North America,Toronto,,34396,2024-08-26,Consumer
+C00953,Vertex Industries,B2B,Agriculture,United States,North America,Dallas,AZ,36849,2025-01-02,Small Business
+C00954,Crest Partners,B2B,Hospitality,Mexico,North America,Guadalajara,,90402,2023-10-10,Small Business
+C00955,Prime Mart,B2B,Manufacturing,United Arab Emirates,Middle East & Africa,Dubai,,69481,2023-11-21,Small Business
+C00956,Mark Cohen,B2C,Consumer,Chile,Latin America,Santiago,,95492,2023-05-24,Consumer
+C00957,Crest Depot,B2B,Education,China,Asia Pacific,Shanghai,,,2025-09-16,Enterprise
+C00958,Redwood Networks,B2B,Education,Poland,Europe,Warsaw,,96752,2023-06-25,Small Business
+C00959,William Muller,B2C,Consumer,France,Europe,Paris,,66111,2024-11-08,Consumer
+C00960,Isabella Wilson,B2C,Consumer,Spain,Europe,Barcelona,,56878,2024-11-06,Consumer
+C00961,Nova Retail Group,B2B,Consumer Goods,Poland,Europe,Gdansk,,56135,2023-02-08,Small Business
+C00962,Mohammed Fischer,B2C,Consumer,France,Europe,Marseille,,39037,2024-03-11,Consumer
+C00963,Michael Silva,B2C,Consumer,Canada,North America,Montreal,,46291,2023-10-30,Consumer
+C00964,Metro Systems,B2B,Consumer Goods,Canada,North America,Toronto,,50936,2025-07-14,Mid-Market
+C00965,Horizon Industries,B2B,Retail,United Arab Emirates,Middle East & Africa,Abu Dhabi,,91169,2024-08-11,Small Business
+C00966,Granite Systems,B2B,Consumer Goods,France,Europe,Marseille,,73810,2025-08-30,Mid-Market
+C00967,Hiroshi Singh,B2C,Consumer,United Arab Emirates,Middle East & Africa,Abu Dhabi,,75069,2024-09-19,Consumer
+C00968,Cascade Systems,B2B,Telecommunications,Mexico,North America,Monterrey,,15739,2024-05-29,Mid-Market
+C00969,Redwood Networks,B2B,Pharmaceuticals,Spain,Europe,Madrid,,52910,2023-09-01,Mid-Market
+C00970,Emma Novak,B2C,Consumer,United States,North America,Dallas,GA,80050,2025-04-30,Consumer
+C00971,Redwood Merchants,B2B,Food & Beverage,United States,North America,Phoenix,IL,52429,2023-06-09,Mid-Market
+C00972,Meridian Depot,B2B,Construction,Canada,North America,Vancouver,,41365,2023-07-10,Small Business
+C00973,Meridian Ventures,B2B,Consumer Goods,Canada,North America,Toronto,,97560,2024-07-23,Small Business
+C00974,Redwood Partners,B2B,Pharmaceuticals,Chile,Latin America,Santiago,,85095,2025-01-31,Enterprise
+C00975,Nova Supply Co.,B2B,Retail,Canada,North America,Montreal,,95964,2023-02-04,Mid-Market
+C00976,Apex Industries,B2B,Hospitality,China,Asia Pacific,Shanghai,,20024,2023-08-21,Small Business
+C00977,Bluewave Ventures,B2B,Agriculture,Spain,Europe,Madrid,,27531,2024-12-04,Mid-Market
+C00978,Atlas Industries,B2B,Government,United Kingdom,Europe,Manchester,,80139,2024-02-11,Mid-Market
+C00979,Pinnacle Retail Group,B2B,Retail,United Kingdom,Europe,London,,51132,2024-08-14,Small Business
+C00980,Susan Thomas,B2C,Consumer,Canada,North America,Vancouver,,95556,2023-03-04,Consumer
+C00981,Vertex Merchants,B2B,Government,South Africa,Middle East & Africa,Cape Town,,68943,2025-05-08,Enterprise
+C00982,Summit Networks,B2B,Food & Beverage,India,Asia Pacific,Bengaluru,,32881,2024-03-10,Small Business
+C00983,Atlas Solutions,B2B,Automotive,India,Asia Pacific,Mumbai,,91975,2024-12-21,Small Business
+C00984,Ironclad Commerce,B2B,Retail,Poland,Europe,Gdansk,,,2023-11-12,Small Business
+C00985,Amara Ali,B2C,Consumer,United States,North America,Dallas,CA,57680,2024-04-10,Consumer
+C00986,Union Networks,B2B,Technology,Argentina,Latin America,Buenos Aires,,32923,2025-03-31,Small Business
+C00987,Ironclad Systems,B2B,Manufacturing,France,Europe,Lyon,,49669,2024-02-18,Small Business
+C00988,Summit Traders,B2B,Consumer Goods,United States,North America,Dallas,GA,48484,2025-08-21,Small Business
+C00989,Pioneer Logistics,B2B,Energy,Spain,Europe,Barcelona,,55441,2024-04-01,Mid-Market
+C00990,Rahul Santos,B2C,Consumer,China,Asia Pacific,Shanghai,,58653,2025-01-16,Consumer
+C00991,Ironclad Enterprises,B2B,Pharmaceuticals,Japan,Asia Pacific,Osaka,,15053,2024-03-28,Small Business
+C00992,Vantage Logistics,B2B,Hospitality,China,Asia Pacific,Ningbo,,82374,2024-12-04,Enterprise
+C00993,Frontier Systems,B2B,Telecommunications,Singapore,Asia Pacific,Singapore,,40547,2025-01-27,Small Business
+C00994,Ironclad Ventures,B2B,Telecommunications,Mexico,North America,Monterrey,,59054,2025-02-07,Mid-Market
+C00995,Union Traders,B2B,Technology,Argentina,Latin America,Buenos Aires,,65848,2025-12-02,Mid-Market
+C00996,Cascade Ventures,B2B,Consumer Goods,Netherlands,Europe,Amsterdam,,,2025-10-06,Enterprise
+C00997,Horizon Depot,B2B,Automotive,Japan,Asia Pacific,Osaka,,40000,2025-01-21,Enterprise
+C00998,Union Holdings,B2B,Telecommunications,Canada,North America,Vancouver,,39448,2023-12-07,Small Business
+C00999,Atlas Ventures,B2B,Telecommunications,South Africa,Middle East & Africa,Johannesburg,,92754,2023-04-28,Mid-Market
+C01000,Pioneer Holdings,B2B,Education,United States,North America,Atlanta,CA,62310,2023-07-23,Small Business
+C01001,Anchor Holdings,B2B,Construction,United States,North America,Columbus,FL,76706,2023-02-21,Small Business
+C01002,Vertex Logistics,B2B,Energy,Germany,Europe,Munich,,11556,2023-12-07,Mid-Market
+C01003,Ironclad Retail Group,B2B,Consumer Goods,Mexico,North America,Mexico City,,51482,2023-02-17,Mid-Market
+C01004,Vertex Retail Group,B2B,Energy,Canada,North America,Montreal,,95355,2024-08-06,Small Business
+C01005,Pinnacle Systems,B2B,Manufacturing,Japan,Asia Pacific,Tokyo,,42654,2023-03-07,Mid-Market
+C01006,Silverline Logistics,B2B,Education,United Kingdom,Europe,London,,19282,2024-04-09,Small Business
+C01007,Atlas Ventures,B2B,Healthcare,Colombia,Latin America,Bogota,,42222,2023-03-23,Small Business
+C01008,Claire White,B2C,Consumer,Canada,North America,Montreal,,44095,2024-12-27,Consumer
+C01009,Skyline Enterprises,B2B,Technology,Australia,Asia Pacific,Melbourne,,22688,2023-06-18,Small Business
+C01010,Noah Cohen,B2C,Consumer,France,Europe,Marseille,,14586,2024-08-15,Consumer
+C01011,Redwood Supply Co.,B2B,Pharmaceuticals,China,Asia Pacific,Shanghai,,17154,2025-06-10,Mid-Market
+C01012,Metro Distribution,B2B,Retail,United Kingdom,Europe,London,,36644,2025-05-20,Small Business
+C01013,Apex Commerce,B2B,Retail,Poland,Europe,Warsaw,,13914,2023-12-02,Enterprise
+C01014,Harbor Systems,B2B,Technology,United Arab Emirates,Middle East & Africa,Dubai,,56229,2023-08-19,Small Business
+C01015,James Harris,B2C,Consumer,Germany,Europe,Hamburg,,91388,2024-05-05,Consumer
+C01016,Robert Brown,B2C,Consumer,Mexico,North America,Mexico City,,71007,2025-06-11,Consumer
+C01017,Cascade Merchants,B2B,Telecommunications,Japan,Asia Pacific,Tokyo,,90549,2023-06-05,Mid-Market
+C01018,Horizon Networks,B2B,Telecommunications,Chile,Latin America,Santiago,,45559,2024-07-13,Small Business
+C01019,Quantum Wholesale,B2B,Food & Beverage,United States,North America,Atlanta,FL,80192,2023-09-29,Enterprise
+C01020,Olga White,B2C,Consumer,Spain,Europe,Barcelona,,50762,2024-05-01,Consumer
+C01021,Marco Schmidt,B2C,Consumer,Colombia,Latin America,Bogota,,86147,2023-08-10,Consumer
+C01022,Ironclad Networks,B2B,Consumer Goods,Australia,Asia Pacific,Sydney,,87755,2024-01-01,Enterprise
+C01023,Frontier Wholesale,B2B,Healthcare,United Arab Emirates,Middle East & Africa,Dubai,,13464,2023-09-12,Small Business
+C01024,Sterling Networks,B2B,Energy,Spain,Europe,Barcelona,,59093,2024-03-27,Small Business
+C01025,Cascade Depot,B2B,Education,Japan,Asia Pacific,Osaka,,30022,2025-02-27,Small Business
+C01026,Thomas Hernandez,B2C,Consumer,United States,North America,Newark,TX,68984,2025-02-17,Consumer
+C01027,Linda Harris,B2C,Consumer,Saudi Arabia,Middle East & Africa,Riyadh,,53839,2025-05-10,Consumer
+C01028,Arjun Zhang,B2C,Consumer,Spain,Europe,Barcelona,,42834,2025-01-27,Consumer
+C01029,Cascade Systems,B2B,Pharmaceuticals,Singapore,Asia Pacific,Singapore,,54287,2023-02-19,Mid-Market
+C01030,Global Mart,B2B,Education,United Kingdom,Europe,Birmingham,,79918,2025-07-09,Mid-Market
+C01031,Diego Moore,B2C,Consumer,United Kingdom,Europe,Birmingham,,44607,2024-08-25,Consumer
+C01032,Oliver Oliveira,B2C,Consumer,Singapore,Asia Pacific,Singapore,,62978,2023-01-12,Consumer
+C01033,Granite Import Export,B2B,Manufacturing,France,Europe,Paris,,66613,2024-12-09,Mid-Market
+C01034,Zenith Retail Group,B2B,Manufacturing,Colombia,Latin America,Bogota,,21304,2025-07-25,Mid-Market
+C01035,Bluewave Distribution,B2B,Technology,Germany,Europe,Frankfurt,,77733,2024-05-07,Small Business
+C01036,Thomas Kobayashi,B2C,Consumer,India,Asia Pacific,Chennai,,37964,2025-12-20,Consumer
+C01037,Granite Partners,B2B,Pharmaceuticals,Germany,Europe,Frankfurt,,25568,2023-08-21,Small Business
+C01038,Pinnacle Logistics,B2B,Manufacturing,United Kingdom,Europe,London,,11074,2023-10-17,Small Business
+C01039,Summit Industries,B2B,Automotive,Spain,Europe,Madrid,,27914,2025-05-13,Small Business
+C01040,Jessica Santos,B2C,Consumer,Canada,North America,Montreal,,33396,2025-04-15,Small Business
+C01041,Beacon Holdings,B2B,Government,United States,North America,Newark,TX,93642,2023-10-13,Small Business
+C01042,Zenith Solutions,B2B,Technology,Singapore,Asia Pacific,Singapore,,75285,2024-01-03,Mid-Market
+C01043,Vantage Enterprises,B2B,Consumer Goods,Vietnam,Asia Pacific,Hanoi,,80055,2025-10-31,Mid-Market
+C01044,Bluewave Mart,B2B,Agriculture,Singapore,Asia Pacific,Singapore,,27018,2024-12-13,Small Business
+C01045,Apex Industries,B2B,Education,Mexico,North America,Guadalajara,,79280,2024-04-24,Enterprise
+C01046,Union Holdings,B2B,Telecommunications,United States,North America,Dallas,NY,93056,2024-01-06,Mid-Market
+C01047,Kwame Garcia,B2C,Consumer,Mexico,North America,Monterrey,,56849,2023-08-30,Consumer
+C01048,Cascade Depot,B2B,Construction,Australia,Asia Pacific,Melbourne,,33608,2025-08-13,Enterprise
+C01049,Granite Ventures,B2B,Healthcare,Argentina,Latin America,Buenos Aires,,46438,2023-09-12,Mid-Market
+C01050,Mohammed Tran,B2C,Consumer,Mexico,North America,Guadalajara,,73235,2023-08-10,Consumer
+C01051,Metro Partners,B2B,Healthcare,Singapore,Asia Pacific,Singapore,,31599,2023-03-24,Small Business
+C01052,Beacon Networks,B2B,Construction,Canada,North America,Montreal,,55860,2025-09-02,Small Business
+C01053,Olga Thompson,B2C,Consumer,Canada,North America,Vancouver,,66155,2024-06-28,Consumer
+C01054,Patricia Miller,B2C,Consumer,United States,North America,Columbus,WA,91352,2025-07-14,Consumer
+C01055,Pioneer Merchants,B2B,Construction,Canada,North America,Montreal,,98280,2023-06-16,Enterprise
+C01056,Granite Depot,B2B,Technology,Singapore,Asia Pacific,Singapore,,40153,2025-01-06,Mid-Market
+C01057,Zenith Trading Co.,B2B,Consumer Goods,Argentina,Latin America,Buenos Aires,,64641,2025-07-02,Small Business
+C01058,Barbara Wang,B2C,Consumer,United States,North America,Chicago,NJ,83076,2025-05-16,Consumer
+C01059,Daniel Gonzalez,B2C,Consumer,Poland,Europe,Warsaw,,24096,2023-10-21,Consumer
+C01060,Zenith Trading Co.,B2B,Construction,India,Asia Pacific,Mumbai,,93147,2024-11-02,Enterprise
+C01061,Vantage Depot,B2B,Agriculture,Egypt,Middle East & Africa,Cairo,,70157,2024-09-19,Mid-Market
+C01062,Richard Novak,B2C,Consumer,Vietnam,Asia Pacific,Ho Chi Minh City,,94947,2023-01-31,Consumer
+C01063,Frontier Supply Co.,B2B,Retail,Canada,North America,Toronto,,82433,2023-02-27,Mid-Market
+C01064,John Santos,B2C,Consumer,Singapore,Asia Pacific,Singapore,,79015,2024-08-10,Consumer
+C01065,Meridian Supply Co.,B2B,Retail,Canada,North America,Montreal,,93488,2023-04-02,Small Business
+C01066,Olga Cohen,B2C,Consumer,Saudi Arabia,Middle East & Africa,Jeddah,,87543,2023-08-02,Consumer
+C01067,William Oliveira,B2C,Consumer,France,Europe,Lyon,,86318,2025-03-06,Consumer
+C01068,Oliver Dubois,B2C,Consumer,Japan,Asia Pacific,Osaka,,49368,2023-12-19,Consumer
+C01069,Meridian Commerce,B2B,Healthcare,Canada,North America,Toronto,,92343,2024-03-02,Mid-Market
+C01070,Ivan Ibrahim,B2C,Consumer,Poland,Europe,Warsaw,,10774,2025-03-27,Consumer
+C01071,Prime Holdings,B2B,Consumer Goods,Colombia,Latin America,Bogota,,23289,2023-01-03,Mid-Market
+C01072,Pioneer Solutions,B2B,Energy,Japan,Asia Pacific,Osaka,,72256,2024-05-12,Enterprise
+C01073,Isabella Tran,B2C,Consumer,Netherlands,Europe,Rotterdam,,12798,2023-12-21,Consumer
+C01074,Pioneer Supply Co.,B2B,Agriculture,Egypt,Middle East & Africa,Cairo,,37524,2025-03-26,Small Business
+C01075,Crest Logistics,B2B,Energy,Colombia,Latin America,Bogota,,86875,2025-10-25,Small Business
+C01076,Fatima Fischer,B2C,Consumer,Mexico,North America,Monterrey,,96378,2024-06-05,Consumer
+C01077,Granite Holdings,B2B,Telecommunications,Germany,Europe,Munich,,19857,2024-02-10,Small Business
+C01078,Pioneer Ventures,B2B,Technology,France,Europe,Marseille,,28931,2025-01-06,Mid-Market
+C01079,Harbor Enterprises,B2B,Retail,Australia,Asia Pacific,Sydney,,91351,2025-02-13,Enterprise
+C01080,Meridian Partners,B2B,Government,Mexico,North America,Guadalajara,,47346,2025-05-22,Small Business
+C01081,Horizon Systems,B2B,Agriculture,Mexico,North America,Monterrey,,43559,2024-04-14,Mid-Market
+C01082,Cascade Solutions,B2B,Education,Colombia,Latin America,Medellin,,47432,2024-01-02,Enterprise
+C01083,Vantage Mart,B2B,Construction,Chile,Latin America,Santiago,,27306,2024-11-27,Mid-Market
+C01084,Nova Traders,B2B,Food & Beverage,Colombia,Latin America,Bogota,,19748,2023-10-20,Mid-Market
+C01085,Horizon Depot,B2B,Hospitality,Saudi Arabia,Middle East & Africa,Riyadh,,17205,2024-09-30,Mid-Market
+C01086,Union Mart,B2B,Manufacturing,Singapore,Asia Pacific,Singapore,,69962,2025-02-07,Enterprise
+C01087,Oliver Tran,B2C,Consumer,Australia,Asia Pacific,Melbourne,,70987,2025-05-22,Consumer
+C01088,Lucas Cohen,B2C,Consumer,Australia,Asia Pacific,Melbourne,,87785,2025-06-23,Consumer
+C01089,Redwood Trading Co.,B2B,Food & Beverage,Spain,Europe,Barcelona,,36493,2024-11-27,Small Business
+C01090,Sven Park,B2C,Consumer,United Kingdom,Europe,Birmingham,,18417,2023-03-05,Consumer
+C01091,Quantum Depot,B2B,Healthcare,United States,North America,Phoenix,NY,60456,2024-01-11,Mid-Market
+C01092,Metro Retail Group,B2B,Construction,Australia,Asia Pacific,Melbourne,,87005,2023-01-28,Small Business
+C01093,Anchor Supply Co.,B2B,Energy,Mexico,North America,Mexico City,,25495,2023-07-24,Small Business
+C01094,Atlas Mart,B2B,Agriculture,Mexico,North America,Monterrey,,65951,2025-08-04,Enterprise
+C01095,Linda Novak,B2C,Consumer,Poland,Europe,Warsaw,,34146,2025-10-29,Consumer
+C01096,Metro Industries,B2B,Consumer Goods,Spain,Europe,Barcelona,,69014,2024-08-18,Small Business
+C01097,Beacon Traders,B2B,Technology,United States,North America,Phoenix,IL,11976,2025-07-13,Small Business
+C01098,Pinnacle Supply Co.,B2B,Hospitality,India,Asia Pacific,Delhi,,81329,2024-05-06,Small Business
+C01099,Sterling Partners,B2B,Energy,Brazil,Latin America,Sao Paulo,,35227,2023-03-07,Mid-Market
+C01100,Granite Networks,B2B,Energy,United States,North America,Chicago,NJ,56245,2024-08-26,Small Business
+C01101,David Oliveira,B2C,Consumer,Mexico,North America,Monterrey,,93852,2024-08-14,Consumer
+C01102,Harbor Partners,B2B,Retail,United States,North America,Phoenix,CA,42651,2023-06-24,Small Business
+C01103,Ava Martinez,B2C,Consumer,Vietnam,Asia Pacific,Ho Chi Minh City,,71296,2024-03-16,Consumer
+C01104,Apex Merchants,B2B,Food & Beverage,China,Asia Pacific,Shanghai,,80115,2025-07-31,Mid-Market
+C01105,Zenith Retail Group,B2B,Education,Canada,North America,Toronto,,24652,2023-09-10,Small Business
+C01106,Apex Supply Co.,B2B,Energy,India,Asia Pacific,Mumbai,,14749,2025-11-26,Mid-Market
+C01107,Skyline Depot,B2B,Energy,Mexico,North America,Monterrey,,67784,2024-10-17,Mid-Market
+C01108,Mary Muller,B2C,Consumer,Spain,Europe,Madrid,,20024,2025-06-09,Consumer
+C01109,Summit Enterprises,B2B,Education,Saudi Arabia,Middle East & Africa,Riyadh,,86091,2023-01-09,Mid-Market
+C01110,Yuki Khan,B2C,Consumer,Canada,North America,Vancouver,,40209,2024-08-26,Consumer
+C01111,Ananya Wang,B2C,Consumer,Canada,North America,Vancouver,,41501,2025-02-17,Consumer
+C01112,Pinnacle Merchants,B2B,Agriculture,Poland,Europe,Gdansk,,31944,2024-04-23,Mid-Market
+C01113,Atlas Supply Co.,B2B,Telecommunications,China,Asia Pacific,Shenzhen,,27721,2025-09-11,Mid-Market
+C01114,Silverline Merchants,B2B,Consumer Goods,Egypt,Middle East & Africa,Cairo,,28452,2025-05-29,Mid-Market
+C01115,Global Holdings,B2B,Government,Saudi Arabia,Middle East & Africa,Jeddah,,62565,2024-05-13,Enterprise
+C01116,Meridian Networks,B2B,Education,United States,North America,Newark,GA,63309,2024-02-01,Enterprise
+C01117,Granite Retail Group,B2B,Technology,Mexico,North America,Mexico City,,38637,2025-08-13,Mid-Market
+C01118,Skyline Commerce,B2B,Government,Singapore,Asia Pacific,Singapore,,78576,2024-04-12,Mid-Market
+C01119,Christopher Ramirez,B2C,Consumer,United States,North America,Dallas,WA,13107,2024-12-26,Consumer
+C01120,Apex Holdings,B2B,Healthcare,Chile,Latin America,Santiago,,67852,2025-02-10,Small Business
+C01121,Pinnacle Ventures,B2B,Technology,Australia,Asia Pacific,Sydney,,17725,2025-01-21,Enterprise
+C01122,Harbor Commerce,B2B,Telecommunications,Mexico,North America,Monterrey,,14435,2025-06-17,Mid-Market
+C01123,Skyline Import Export,B2B,Construction,Australia,Asia Pacific,Melbourne,,,2024-07-11,Mid-Market
+C01124,Summit Wholesale,B2B,Government,Mexico,North America,Mexico City,,26296,2023-10-13,Mid-Market
+C01125,Karen Wilson,B2C,Consumer,Germany,Europe,Hamburg,,97214,2023-03-04,Consumer
+C01126,Redwood Mart,B2B,Automotive,France,Europe,Lyon,,39008,2023-11-26,Small Business
+C01127,Pioneer Industries,B2B,Hospitality,Spain,Europe,Barcelona,,13380,2023-08-16,Enterprise
+C01128,Nova Supply Co.,B2B,Hospitality,Australia,Asia Pacific,Melbourne,,93130,2024-01-12,Small Business
+C01129,Frontier Traders,B2B,Hospitality,Japan,Asia Pacific,Osaka,,13395,2024-10-16,Small Business
+C01130,Bluewave Supply Co.,B2B,Manufacturing,South Africa,Middle East & Africa,Cape Town,,79968,2023-02-08,Small Business
+C01131,Anchor Enterprises,B2B,Healthcare,Egypt,Middle East & Africa,Cairo,,79918,2024-11-08,Mid-Market
+C01132,Nova Solutions,B2B,Energy,France,Europe,Paris,,,2023-10-09,Enterprise
+C01133,Cascade Traders,B2B,Retail,Canada,North America,Vancouver,,54073,2024-09-30,Small Business
+C01134,Pioneer Trading Co.,B2B,Automotive,Japan,Asia Pacific,Tokyo,,72912,2023-10-30,Mid-Market
+C01135,Frontier Ventures,B2B,Manufacturing,South Africa,Middle East & Africa,Johannesburg,,13191,2024-10-23,Enterprise
+C01136,Coastal Solutions,B2B,Manufacturing,Canada,North America,Montreal,,43268,2025-02-23,Enterprise
+C01137,Prime Depot,B2B,Retail,United Kingdom,Europe,Manchester,,54366,2023-11-15,Small Business
+C01138,Atlas Merchants,B2B,Agriculture,United Kingdom,Europe,Birmingham,,95606,2025-12-21,Mid-Market
+C01139,Pioneer Ventures,B2B,Technology,Canada,North America,Toronto,,78686,2025-11-18,Mid-Market
+C01140,Beacon Retail Group,B2B,Energy,Singapore,Asia Pacific,Singapore,,10765,2024-03-19,Small Business
+C01141,Arjun Wang,B2C,Consumer,Poland,Europe,Warsaw,,72465,2025-02-02,Consumer
+C01142,Meridian Systems,B2B,Automotive,India,Asia Pacific,Chennai,,39383,2024-03-29,Small Business
+C01143,Apex Wholesale,B2B,Healthcare,India,Asia Pacific,Chennai,,27372,2023-08-27,Mid-Market
+C01144,Horizon Traders,B2B,Pharmaceuticals,India,Asia Pacific,Mumbai,,92704,2024-03-12,Mid-Market
+C01145,Beacon Depot,B2B,Manufacturing,Spain,Europe,Madrid,,71130,2024-09-01,Small Business
+C01146,Meridian Mart,B2B,Healthcare,United States,North America,Columbus,OH,36716,2025-05-24,Small Business
+C01147,Elizabeth Thomas,B2C,Consumer,Japan,Asia Pacific,Tokyo,,30799,2023-05-30,Consumer
+C01148,Ironclad Networks,B2B,Pharmaceuticals,India,Asia Pacific,Delhi,,59996,2025-08-28,Small Business
+C01149,Beacon Wholesale,B2B,Food & Beverage,Poland,Europe,Gdansk,,22208,2023-12-28,Mid-Market
+C01150,Pinnacle Trading Co.,B2B,Consumer Goods,Brazil,Latin America,Sao Paulo,,80694,2023-08-21,Small Business
+C01151,Ava Ali,B2C,Consumer,United States,North America,Chicago,OH,41127,2025-08-22,Consumer
+C01152,Matthew Jackson,B2C,Consumer,Brazil,Latin America,Curitiba,,81321,2024-08-24,Consumer
+C01153,Summit Mart,B2B,Energy,Mexico,North America,Guadalajara,,62761,2024-12-02,Small Business
+C01154,Diego Patel,B2C,Consumer,Mexico,North America,Monterrey,,69515,2023-07-15,Consumer
+C01155,Summit Networks,B2B,Technology,Netherlands,Europe,Amsterdam,,68329,2024-09-13,Enterprise
+C01156,Global Enterprises,B2B,Technology,Mexico,North America,Monterrey,,39625,2023-05-31,Enterprise
+C01157,Anna Wilson,B2C,Consumer,Mexico,North America,Monterrey,,34656,2024-10-10,Consumer
+C01158,Horizon Systems,B2B,Education,Canada,North America,Toronto,,26580,2024-10-24,Mid-Market
+C01159,Cascade Distribution,B2B,Education,Germany,Europe,Munich,,46117,2023-08-23,Mid-Market
+C01160,Summit Supply Co.,B2B,Manufacturing,Australia,Asia Pacific,Sydney,,46316,2024-05-30,Mid-Market
+C01161,Karen Smith,B2C,Consumer,Mexico,North America,Mexico City,,12039,2024-02-29,Consumer
+C01162,Harbor Enterprises,B2B,Technology,Vietnam,Asia Pacific,Hanoi,,82150,2024-06-21,Small Business
+C01163,Global Solutions,B2B,Healthcare,Australia,Asia Pacific,Sydney,,63865,2023-10-19,Enterprise
+C01164,Jennifer Oliveira,B2C,Consumer,Canada,North America,Toronto,,32025,2023-08-27,Consumer
+C01165,Beacon Industries,B2B,Consumer Goods,Canada,North America,Toronto,,47743,2023-12-17,Enterprise
+C01166,Anchor Industries,B2B,Consumer Goods,Colombia,Latin America,Bogota,,46613,2025-09-26,Mid-Market
+C01167,Ironclad Supply Co.,B2B,Hospitality,Vietnam,Asia Pacific,Ho Chi Minh City,,80509,2024-07-02,Small Business
+C01168,Apex Merchants,B2B,Construction,France,Europe,Marseille,,77262,2025-09-14,Small Business
+C01169,Summit Industries,B2B,Telecommunications,Australia,Asia Pacific,Melbourne,,75109,2024-04-27,Mid-Market
+C01170,Coastal Import Export,B2B,Government,Mexico,North America,Guadalajara,,22721,2023-01-17,Mid-Market
+C01171,Ingrid Wilson,B2C,Consumer,Netherlands,Europe,Amsterdam,,49353,2024-10-11,Small Business
+C01172,Cascade Logistics,B2B,Construction,Australia,Asia Pacific,Sydney,,94952,2025-04-18,Small Business
+C01173,Silverline Mart,B2B,Healthcare,United States,North America,Phoenix,TX,55102,2023-01-07,Mid-Market
+C01174,Frontier Distribution,B2B,Telecommunications,Vietnam,Asia Pacific,Hanoi,,10219,2024-09-12,Small Business
+C01175,Sterling Systems,B2B,Food & Beverage,France,Europe,Paris,,94567,2024-09-02,Mid-Market
+C01176,Daniel Fischer,B2C,Consumer,Australia,Asia Pacific,Sydney,,96784,2024-08-08,Consumer
+C01177,Prime Solutions,B2B,Manufacturing,Poland,Europe,Gdansk,,92696,2023-07-30,Enterprise
+C01178,Ironclad Ventures,B2B,Hospitality,United Kingdom,Europe,Manchester,,97835,2024-12-01,Small Business
+C01179,Karen Jones,B2C,Consumer,Mexico,North America,Mexico City,,92278,2023-02-04,Consumer
+C01180,Horizon Retail Group,B2B,Automotive,United States,North America,Columbus,TX,85249,2023-05-13,Small Business
+C01181,Ravi Rodriguez,B2C,Consumer,Vietnam,Asia Pacific,Hanoi,,69539,2023-09-27,Consumer
+C01182,Silverline Import Export,B2B,Education,United States,North America,Columbus,FL,12901,2024-12-20,Small Business
+C01183,Vantage Distribution,B2B,Consumer Goods,Mexico,North America,Monterrey,,68556,2023-09-01,Small Business
+C01184,Carlos Jackson,B2C,Consumer,Canada,North America,Montreal,,91774,2024-10-28,Consumer
+C01185,Pioneer Solutions,B2B,Retail,Mexico,North America,Guadalajara,,42415,2025-06-25,Enterprise
+C01186,Crest Logistics,B2B,Agriculture,Japan,Asia Pacific,Osaka,,35996,2023-04-12,Mid-Market
+C01187,Sterling Retail Group,B2B,Agriculture,United Kingdom,Europe,Manchester,,73446,2023-05-02,Enterprise
+C01188,Cascade Wholesale,B2B,Construction,Saudi Arabia,Middle East & Africa,Riyadh,,99303,2024-05-10,Mid-Market
+C01189,Global Merchants,B2B,Food & Beverage,Canada,North America,Toronto,,56993,2025-05-12,Small Business
+C01190,Bluewave Mart,B2B,Pharmaceuticals,Australia,Asia Pacific,Sydney,,92502,2024-08-29,Small Business
+C01191,Coastal Commerce,B2B,Hospitality,United Kingdom,Europe,Birmingham,,22704,2024-01-29,Mid-Market
+C01192,Pioneer Traders,B2B,Government,France,Europe,Lyon,,76717,2023-08-02,Small Business
+C01193,Skyline Systems,B2B,Retail,Argentina,Latin America,Buenos Aires,,52003,2025-05-19,Mid-Market
+C01194,Vertex Import Export,B2B,Retail,Egypt,Middle East & Africa,Cairo,,33966,2024-08-23,Enterprise
+C01195,Crest Traders,B2B,Retail,Brazil,Latin America,Rio de Janeiro,,17502,2024-08-16,Enterprise
+C01196,Granite Trading Co.,B2B,Technology,United States,North America,Columbus,NJ,97309,2023-10-23,Mid-Market
+C01197,Frontier Ventures,B2B,Telecommunications,Canada,North America,Toronto,,28136,2024-01-09,Small Business
+C01198,Redwood Depot,B2B,Retail,China,Asia Pacific,Ningbo,,15796,2024-02-04,Mid-Market
+C01199,Ironclad Trading Co.,B2B,Education,Canada,North America,Vancouver,,86609,2025-06-13,Mid-Market
+C01200,Marco Lee,B2C,Consumer,China,Asia Pacific,Ningbo,,96262,2024-06-02,Consumer
+C01201,Pioneer Commerce,B2B,Retail,France,Europe,Lyon,,20919,2023-04-13,Small Business
+C01202,Global Trading Co.,B2B,Food & Beverage,Netherlands,Europe,Rotterdam,,38409,2025-04-02,Small Business
+C01203,Layla Wilson,B2C,Consumer,Australia,Asia Pacific,Sydney,,14485,2024-08-20,Consumer
+C01204,Prime Supply Co.,B2B,Construction,Japan,Asia Pacific,Tokyo,,72096,2023-05-04,Mid-Market
+C01205,Bluewave Retail Group,B2B,Agriculture,Canada,North America,Toronto,,19678,2023-06-27,Mid-Market
+C01206,Vantage Import Export,B2B,Retail,United States,North America,Atlanta,IL,29191,2025-01-13,Mid-Market
+C01207,Crest Enterprises,B2B,Telecommunications,Vietnam,Asia Pacific,Hanoi,,47497,2023-11-29,Enterprise
+C01208,Barbara Hassan,B2C,Consumer,Germany,Europe,Hamburg,,61900,2025-12-29,Consumer
+C01209,Prime Commerce,B2B,Manufacturing,Mexico,North America,Mexico City,,98542,2025-03-20,Mid-Market
+C01210,Noah Li,B2C,Consumer,Germany,Europe,Munich,,69317,2024-06-06,Consumer
+C01211,Quantum Holdings,B2B,Telecommunications,India,Asia Pacific,Bengaluru,,35214,2024-06-17,Enterprise
+C01212,Sterling Wholesale,B2B,Healthcare,China,Asia Pacific,Shenzhen,,50224,2025-03-28,Small Business
+C01213,Olga Chen,B2C,Consumer,Germany,Europe,Hamburg,,32097,2023-10-06,Consumer
+C01214,Silverline Trading Co.,B2B,Automotive,Germany,Europe,Munich,,90366,2023-04-30,Enterprise
+C01215,Giulia Ferreira,B2C,Consumer,Mexico,North America,Guadalajara,,16728,2023-06-27,Consumer
+C01216,Redwood Depot,B2B,Pharmaceuticals,France,Europe,Paris,,79755,2023-01-16,Small Business
+C01217,Quantum Solutions,B2B,Energy,United States,North America,Atlanta,IL,32008,2024-10-16,Small Business
+C01218,Vertex Solutions,B2B,Government,France,Europe,Lyon,,60482,2025-11-19,Mid-Market
+C01219,Apex Enterprises,B2B,Education,India,Asia Pacific,Chennai,,42802,2025-11-07,Mid-Market
+C01220,Global Industries,B2B,Education,United States,North America,Columbus,NY,27509,2025-02-11,Small Business
+C01221,Charles White,B2C,Consumer,Canada,North America,Vancouver,,98633,2024-03-18,Consumer
+C01222,Margaret Martinez,B2C,Consumer,Mexico,North America,Guadalajara,,52275,2023-08-25,Consumer
+C01223,Amara Thomas,B2C,Consumer,Argentina,Latin America,Buenos Aires,,19201,2023-03-12,Consumer
+C01224,Harbor Traders,B2B,Pharmaceuticals,Australia,Asia Pacific,Melbourne,,38215,2024-03-18,Enterprise
+C01225,Rahul Lewis,B2C,Consumer,Canada,North America,Montreal,,53914,2023-08-02,Consumer
+C01226,Vantage Depot,B2B,Automotive,Chile,Latin America,Santiago,,46471,2025-10-23,Enterprise
+C01227,Pioneer Enterprises,B2B,Food & Beverage,Poland,Europe,Gdansk,,21752,2024-03-05,Enterprise
+C01228,Michael Nguyen,B2C,Consumer,Netherlands,Europe,Amsterdam,,48743,2024-02-08,Consumer
+C01229,Wei Singh,B2C,Consumer,United Arab Emirates,Middle East & Africa,Abu Dhabi,,78436,2025-10-14,Consumer
+C01230,Beacon Merchants,B2B,Education,United States,North America,Columbus,FL,94709,2023-08-27,Enterprise
+C01231,Anchor Trading Co.,B2B,Energy,Canada,North America,Montreal,,22207,2024-04-21,Mid-Market
+C01232,Atlas Partners,B2B,Consumer Goods,Spain,Europe,Madrid,,14252,2023-03-07,Enterprise
+C01233,Prime Retail Group,B2B,Government,Canada,North America,Vancouver,,84543,2023-06-27,Small Business
+C01234,Beacon Commerce,B2B,Hospitality,Singapore,Asia Pacific,Singapore,,10380,2025-07-16,Enterprise
+C01235,Global Ventures,B2B,Retail,Canada,North America,Toronto,,76097,2024-03-13,Small Business
+C01236,Anchor Traders,B2B,Technology,United States,North America,Chicago,WA,71745,2023-09-21,Small Business
+C01237,Quantum Solutions,B2B,Manufacturing,Mexico,North America,Monterrey,,50227,2023-06-19,Mid-Market
+C01238,Robert Thomas,B2C,Consumer,Netherlands,Europe,Amsterdam,,83492,2024-03-22,Consumer
+C01239,Marco Garcia,B2C,Consumer,United States,North America,Columbus,FL,97180,2023-06-07,Consumer
+C01240,Bluewave Trading Co.,B2B,Technology,United States,North America,Newark,NJ,51805,2025-07-23,Enterprise
+C01241,Robert Lewis,B2C,Consumer,Argentina,Latin America,Buenos Aires,,89800,2025-08-09,Consumer
+C01242,Union Commerce,B2B,Automotive,United States,North America,Dallas,WA,25620,2025-07-14,Mid-Market
+C01243,Vantage Import Export,B2B,Retail,United Kingdom,Europe,Birmingham,,67251,2025-05-09,Small Business
+C01244,Meridian Solutions,B2B,Telecommunications,Canada,North America,Vancouver,,54097,2025-04-09,Mid-Market
+C01245,Quantum Industries,B2B,Telecommunications,France,Europe,Marseille,,54620,2024-01-26,Mid-Market
+C01246,Beacon Mart,B2B,Energy,Mexico,North America,Guadalajara,,97825,2024-04-19,Mid-Market
+C01247,Nova Distribution,B2B,Hospitality,Japan,Asia Pacific,Tokyo,,31839,2024-10-24,Small Business
+C01248,Mohammed Taylor,B2C,Consumer,Canada,North America,Toronto,,68288,2024-06-27,Consumer
+C01249,Susan Singh,B2C,Consumer,Argentina,Latin America,Buenos Aires,,77894,2024-08-10,Consumer
+C01250,Metro Enterprises,B2B,Consumer Goods,Chile,Latin America,Santiago,,36892,2024-03-10,Small Business
+C01251,Redwood Partners,B2B,Construction,Canada,North America,Toronto,,39677,2023-09-29,Mid-Market
+C01252,Skyline Logistics,B2B,Food & Beverage,United States,North America,Newark,WA,28411,2024-10-10,Enterprise
+C01253,Marco Lee,B2C,Consumer,Canada,North America,Vancouver,,44500,2023-01-28,Consumer
+C01254,Apex Networks,B2B,Government,Vietnam,Asia Pacific,Ho Chi Minh City,,30326,2024-10-12,Mid-Market
+C01255,Anchor Logistics,B2B,Agriculture,Mexico,North America,Monterrey,,90005,2024-02-04,Small Business
+C01256,Cascade Merchants,B2B,Consumer Goods,Colombia,Latin America,Medellin,,99914,2025-11-04,Mid-Market
+C01257,Bluewave Commerce,B2B,Manufacturing,Australia,Asia Pacific,Melbourne,,64227,2024-07-14,Small Business
+C01258,Ivan Sanchez,B2C,Consumer,Japan,Asia Pacific,Tokyo,,80079,2024-10-09,Consumer
+C01259,Linda Harris,B2C,Consumer,Germany,Europe,Frankfurt,,62378,2023-08-21,Consumer
+C01260,Pioneer Import Export,B2B,Government,Saudi Arabia,Middle East & Africa,Riyadh,,26754,2025-01-28,Mid-Market
+C01261,Apex Mart,B2B,Healthcare,United States,North America,Chicago,NJ,57359,2023-10-02,Small Business
+C01262,Cascade Industries,B2B,Agriculture,Poland,Europe,Gdansk,,87007,2023-05-31,Small Business
+C01263,Meridian Merchants,B2B,Education,United States,North America,Columbus,TX,17456,2023-02-10,Mid-Market
+C01264,Beacon Wholesale,B2B,Consumer Goods,South Africa,Middle East & Africa,Johannesburg,,92557,2023-03-31,Mid-Market
+C01265,Apex Systems,B2B,Construction,France,Europe,Marseille,,34957,2023-04-08,Small Business
+C01266,Meridian Retail Group,B2B,Hospitality,Japan,Asia Pacific,Tokyo,,72869,2025-09-09,Small Business
+C01267,Thomas Miller,B2C,Consumer,Canada,North America,Toronto,,19277,2023-02-02,Consumer
+C01268,Sterling Commerce,B2B,Healthcare,United Arab Emirates,Middle East & Africa,Dubai,,29181,2024-07-25,Small Business
+C01269,Prime Networks,B2B,Government,Germany,Europe,Frankfurt,,32118,2024-05-04,Mid-Market
+C01270,Quantum Trading Co.,B2B,Retail,United Kingdom,Europe,London,,77017,2024-12-18,Mid-Market
+C01271,Beacon Enterprises,B2B,Telecommunications,United Arab Emirates,Middle East & Africa,Dubai,,16622,2024-10-30,Enterprise
+C01272,Meridian Networks,B2B,Consumer Goods,United Kingdom,Europe,London,,27947,2025-06-06,Small Business
+C01273,Anchor Solutions,B2B,Telecommunications,Netherlands,Europe,Amsterdam,,92191,2023-04-25,Enterprise
+C01274,Pioneer Enterprises,B2B,Pharmaceuticals,Spain,Europe,Madrid,,26247,2024-01-15,Small Business
+C01275,Metro Depot,B2B,Technology,Canada,North America,Montreal,,94939,2024-09-16,Enterprise
+C01276,Joseph Perez,B2C,Consumer,United States,North America,Newark,GA,72542,2023-09-18,Consumer
+C01277,Prime Trading Co.,B2B,Retail,United States,North America,Dallas,CA,63578,2023-06-04,Enterprise
+C01278,Valentina Tran,B2C,Consumer,United States,North America,Columbus,NY,94590,2025-03-25,Consumer
+C01279,Rahul Tanaka,B2C,Consumer,Brazil,Latin America,Rio de Janeiro,,97181,2025-03-31,Consumer
+C01280,Cascade Retail Group,B2B,Consumer Goods,Poland,Europe,Warsaw,,81264,2024-09-18,Small Business
+C01281,Silverline Import Export,B2B,Agriculture,United Kingdom,Europe,Birmingham,,87713,2025-09-08,Enterprise
+C01282,Apex Distribution,B2B,Retail,Netherlands,Europe,Rotterdam,,37088,2024-05-16,Small Business
+C01283,Ling Clark,B2C,Consumer,Germany,Europe,Frankfurt,,73669,2025-06-17,Consumer
+C01284,Coastal Supply Co.,B2B,Energy,Vietnam,Asia Pacific,Hanoi,,85126,2024-03-22,Mid-Market
+C01285,Ivan Novak,B2C,Consumer,Colombia,Latin America,Medellin,,88367,2025-06-02,Consumer
+C01286,Ahmed Sharma,B2C,Consumer,United Arab Emirates,Middle East & Africa,Abu Dhabi,,19833,2024-09-01,Consumer
+C01287,Vertex Mart,B2B,Education,United Kingdom,Europe,Birmingham,,91370,2024-09-20,Enterprise
+C01288,Horizon Wholesale,B2B,Pharmaceuticals,United States,North America,Newark,CA,18577,2024-06-28,Small Business
+C01289,Richard Silva,B2C,Consumer,France,Europe,Paris,,86356,2023-03-05,Consumer
+C01290,Nova Industries,B2B,Construction,France,Europe,Paris,,20375,2024-10-30,Enterprise
+C01291,Cascade Trading Co.,B2B,Automotive,Germany,Europe,Hamburg,,48850,2025-04-07,Small Business
+C01292,Skyline Logistics,B2B,Pharmaceuticals,Australia,Asia Pacific,Melbourne,,10155,2025-01-13,Small Business
+C01293,Harbor Networks,B2B,Manufacturing,United Kingdom,Europe,London,,12594,2023-01-09,Small Business
+C01294,Coastal Merchants,B2B,Pharmaceuticals,Canada,North America,Toronto,,32562,2023-10-29,Mid-Market
+C01295,Metro Supply Co.,B2B,Energy,Poland,Europe,Gdansk,,67317,2025-12-24,Enterprise
+C01296,Global Industries,B2B,Government,Netherlands,Europe,Amsterdam,,55937,2023-11-13,Small Business
+C01297,Pinnacle Networks,B2B,Retail,United States,North America,Newark,FL,47298,2025-05-18,Small Business
+C01298,Sven Tran,B2C,Consumer,Canada,North America,Toronto,,11816,2025-06-02,Consumer
+C01299,Patricia Kumar,B2C,Consumer,Australia,Asia Pacific,Sydney,,32021,2025-03-18,Consumer
+C01300,Ingrid Moore,B2C,Consumer,France,Europe,Paris,,57789,2023-03-06,Consumer
+C01301,Nova Logistics,B2B,Agriculture,Mexico,North America,Mexico City,,42871,2024-02-14,Small Business
+C01302,Anchor Mart,B2B,Manufacturing,Netherlands,Europe,Rotterdam,,72399,2025-06-16,Small Business
+C01303,Coastal Traders,B2B,Telecommunications,Japan,Asia Pacific,Tokyo,,49582,2023-09-03,Mid-Market
+C01304,Coastal Traders,B2B,Agriculture,United States,North America,Newark,FL,20874,2025-07-02,Mid-Market
+C01305,Metro Networks,B2B,Retail,India,Asia Pacific,Delhi,,15234,2025-10-31,Mid-Market
+C01306,Prime Enterprises,B2B,Telecommunications,Argentina,Latin America,Buenos Aires,,30190,2023-10-12,Small Business
+C01307,Prime Mart,B2B,Hospitality,Netherlands,Europe,Amsterdam,,70756,2025-04-21,Mid-Market
+C01308,Patricia Lee,B2C,Consumer,Australia,Asia Pacific,Melbourne,,,2023-07-11,Small Business
+C01309,Valentina Rossi,B2C,Consumer,Canada,North America,Vancouver,,58039,2025-02-06,Consumer
+C01310,Ironclad Merchants,B2B,Automotive,United Arab Emirates,Middle East & Africa,Dubai,,34401,2024-06-27,Mid-Market
+C01311,Pioneer Depot,B2B,Telecommunications,Poland,Europe,Warsaw,,10781,2024-03-29,Small Business
+C01312,Wei Patel,B2C,Consumer,Argentina,Latin America,Buenos Aires,,91805,2025-11-23,Consumer
+C01313,Quantum Ventures,B2B,Education,United Kingdom,Europe,Birmingham,,45083,2024-06-13,Small Business
+C01314,Nova Traders,B2B,Government,United States,North America,Chicago,CA,57844,2024-01-30,Enterprise
+C01315,Union Partners,B2B,Healthcare,Mexico,North America,Mexico City,,36422,2024-07-02,Enterprise
+C01316,Crest Merchants,B2B,Automotive,India,Asia Pacific,Bengaluru,,80752,2023-12-06,Enterprise
+C01317,Crest Networks,B2B,Technology,Germany,Europe,Munich,,41965,2024-12-20,Mid-Market
+C01318,Isabella Kumar,B2C,Consumer,Canada,North America,Toronto,,72376,2023-07-12,Consumer
+C01319,Quantum Supply Co.,B2B,Construction,India,Asia Pacific,Chennai,,77347,2023-09-22,Small Business
+C01320,William Wang,B2C,Consumer,Colombia,Latin America,Bogota,,10952,2023-01-07,Consumer
+C01321,Sofia Tanaka,B2C,Consumer,France,Europe,Lyon,,72363,2024-03-31,Consumer
+C01322,Granite Systems,B2B,Agriculture,Germany,Europe,Hamburg,,12093,2024-07-03,Mid-Market
+C01323,Anchor Networks,B2B,Pharmaceuticals,Canada,North America,Montreal,,67059,2024-09-30,Enterprise
+C01324,Atlas Industries,B2B,Technology,China,Asia Pacific,Shenzhen,,80801,2024-09-10,Mid-Market
+C01325,Pioneer Ventures,B2B,Education,Mexico,North America,Mexico City,,18614,2023-04-19,Enterprise
+C01326,Quantum Distribution,B2B,Energy,Chile,Latin America,Santiago,,16767,2025-04-02,Mid-Market
+C01327,Apex Import Export,B2B,Manufacturing,France,Europe,Lyon,,75136,2023-11-16,Mid-Market
+C01328,Layla Bernard,B2C,Consumer,Poland,Europe,Warsaw,,46022,2023-09-09,Consumer
+C01329,Robert Tanaka,B2C,Consumer,United States,North America,Dallas,CA,97319,2023-09-22,Consumer
+C01330,Isabella Robinson,B2C,Consumer,Canada,North America,Montreal,,52893,2024-11-09,Consumer
+C01331,Vertex Industries,B2B,Construction,China,Asia Pacific,Shenzhen,,20175,2024-05-18,Mid-Market
+C01332,Global Logistics,B2B,Technology,Spain,Europe,Barcelona,,26168,2025-05-16,Small Business
+C01333,Vantage Depot,B2B,Education,Spain,Europe,Barcelona,,56371,2024-01-05,Small Business
+C01334,Ironclad Solutions,B2B,Manufacturing,Saudi Arabia,Middle East & Africa,Riyadh,,11074,2025-01-24,Mid-Market
+C01335,Pinnacle Depot,B2B,Government,South Africa,Middle East & Africa,Cape Town,,60240,2025-06-30,Small Business
+C01336,Frontier Industries,B2B,Government,Argentina,Latin America,Buenos Aires,,96494,2024-02-09,Enterprise
+C01337,Cascade Enterprises,B2B,Technology,Canada,North America,Toronto,,74864,2023-02-07,Mid-Market
+C01338,Silverline Industries,B2B,Technology,Netherlands,Europe,Rotterdam,,35182,2023-06-22,Mid-Market
+C01339,Daniel Jones,B2C,Consumer,Brazil,Latin America,Rio de Janeiro,,41449,2024-07-12,Small Business
+C01340,Vertex Ventures,B2B,Energy,Spain,Europe,Barcelona,,75256,2024-08-03,Mid-Market
+C01341,Prime Depot,B2B,Education,Mexico,North America,Monterrey,,25930,2023-08-24,Enterprise
+C01342,Vantage Partners,B2B,Education,India,Asia Pacific,Chennai,,75339,2025-08-23,Small Business
+C01343,Matthew Tran,B2C,Consumer,Netherlands,Europe,Amsterdam,,57050,2025-02-11,Consumer
+C01344,Union Commerce,B2B,Technology,Spain,Europe,Madrid,,74230,2024-12-22,Mid-Market
+C01345,Sandra Williams,B2C,Consumer,Saudi Arabia,Middle East & Africa,Riyadh,,38692,2025-02-12,Small Business
+C01346,Skyline Networks,B2B,Automotive,Singapore,Asia Pacific,Singapore,,78401,2023-07-09,Enterprise
+C01347,Marco Garcia,B2C,Consumer,Poland,Europe,Warsaw,,35399,2024-06-14,Consumer
+C01348,Crest Holdings,B2B,Consumer Goods,Netherlands,Europe,Amsterdam,,19506,2023-11-23,Mid-Market
+C01349,Coastal Networks,B2B,Food & Beverage,Netherlands,Europe,Amsterdam,,60729,2023-07-05,Small Business
+C01350,Silverline Supply Co.,B2B,Food & Beverage,United States,North America,Chicago,TX,21906,2024-12-16,Mid-Market
+C01351,Skyline Import Export,B2B,Pharmaceuticals,Australia,Asia Pacific,Melbourne,,54725,2023-07-05,Enterprise
+C01352,Vertex Partners,B2B,Government,Singapore,Asia Pacific,Singapore,,69436,2023-11-29,Small Business
+C01353,Coastal Distribution,B2B,Automotive,Mexico,North America,Guadalajara,,92803,2025-12-04,Small Business
+C01354,Quantum Solutions,B2B,Hospitality,Mexico,North America,Guadalajara,,87455,2024-06-19,Small Business
+C01355,Coastal Networks,B2B,Hospitality,Argentina,Latin America,Buenos Aires,,10945,2024-04-24,Small Business
+C01356,Sterling Wholesale,B2B,Automotive,Canada,North America,Montreal,,39431,2023-12-09,Enterprise
+C01357,Vertex Distribution,B2B,Hospitality,Germany,Europe,Hamburg,,95511,2023-05-09,Enterprise
+C01358,Emma Miller,B2C,Consumer,United Kingdom,Europe,Manchester,,86029,2024-11-29,Consumer
+C01359,Priya Silva,B2C,Consumer,China,Asia Pacific,Shenzhen,,,2025-11-12,Consumer
+C01360,Skyline Import Export,B2B,Healthcare,United States,North America,Atlanta,NJ,,2023-08-16,Mid-Market
+C01361,Silverline Traders,B2B,Retail,India,Asia Pacific,Mumbai,,23758,2024-06-05,Small Business
+C01362,Union Holdings,B2B,Food & Beverage,France,Europe,Lyon,,38609,2024-04-02,Small Business
+C01363,Union Supply Co.,B2B,Food & Beverage,India,Asia Pacific,Mumbai,,85343,2024-08-13,Enterprise
+C01364,Isabella Rodriguez,B2C,Consumer,Mexico,North America,Mexico City,,84837,2023-06-10,Consumer
+C01365,Metro Systems,B2B,Telecommunications,Spain,Europe,Barcelona,,75912,2024-07-24,Enterprise
+C01366,Nancy Li,B2C,Consumer,Netherlands,Europe,Amsterdam,,14424,2023-11-05,Consumer
+C01367,Bluewave Industries,B2B,Technology,Mexico,North America,Monterrey,,71123,2023-09-24,Enterprise
+C01368,Cascade Solutions,B2B,Retail,United States,North America,Newark,NJ,18918,2024-03-08,Small Business
+C01369,Skyline Import Export,B2B,Energy,Canada,North America,Toronto,,53982,2024-07-10,Mid-Market
+C01370,Nova Distribution,B2B,Consumer Goods,Germany,Europe,Frankfurt,,,2023-10-10,Mid-Market
+C01371,Global Ventures,B2B,Healthcare,Canada,North America,Vancouver,,56641,2025-02-10,Mid-Market
+C01372,Prime Mart,B2B,Pharmaceuticals,United Arab Emirates,Middle East & Africa,Dubai,,69670,2024-11-05,Small Business
+C01373,Lucas Muller,B2C,Consumer,Poland,Europe,Gdansk,,15694,2024-04-23,Consumer
+C01374,Sandra Lee,B2C,Consumer,Japan,Asia Pacific,Osaka,,80329,2025-08-26,Consumer
+C01375,Meridian Supply Co.,B2B,Telecommunications,Saudi Arabia,Middle East & Africa,Jeddah,,,2024-03-15,Mid-Market
+C01376,Pioneer Industries,B2B,Education,United States,North America,Dallas,CA,82740,2025-05-10,Enterprise
+C01377,David Cohen,B2C,Consumer,Australia,Asia Pacific,Melbourne,,38422,2025-09-10,Consumer
+C01378,Sarah Harris,B2C,Consumer,Brazil,Latin America,Sao Paulo,,92265,2025-05-02,Consumer
+C01379,Global Distribution,B2B,Pharmaceuticals,India,Asia Pacific,Chennai,,30911,2023-11-26,Mid-Market
+C01380,Anchor Systems,B2B,Telecommunications,United Kingdom,Europe,Manchester,,64332,2025-07-13,Small Business
+C01381,Horizon Systems,B2B,Manufacturing,France,Europe,Paris,,67456,2024-05-29,Enterprise
+C01382,Ironclad Systems,B2B,Consumer Goods,Mexico,North America,Monterrey,,26662,2023-12-29,Enterprise
+C01383,Meridian Trading Co.,B2B,Healthcare,United Kingdom,Europe,Birmingham,,87679,2023-12-01,Small Business
+C01384,Prime Wholesale,B2B,Energy,South Africa,Middle East & Africa,Cape Town,,62478,2023-10-28,Mid-Market
+C01385,Apex Mart,B2B,Government,Egypt,Middle East & Africa,Cairo,,88220,2024-01-25,Mid-Market
+C01386,Pioneer Systems,B2B,Healthcare,United States,North America,Newark,OH,66189,2023-05-25,Enterprise
+C01387,Summit Networks,B2B,Technology,Australia,Asia Pacific,Melbourne,,26021,2024-01-15,Mid-Market
+C01388,Skyline Import Export,B2B,Construction,Canada,North America,Montreal,,,2024-01-19,Mid-Market
+C01389,Apex Wholesale,B2B,Technology,Brazil,Latin America,Curitiba,,44906,2025-04-12,Small Business
+C01390,Frontier Enterprises,B2B,Government,Mexico,North America,Mexico City,,13436,2025-10-17,Mid-Market
+C01391,Diego Lewis,B2C,Consumer,South Africa,Middle East & Africa,Johannesburg,,13907,2025-12-05,Small Business
+C01392,Ironclad Retail Group,B2B,Education,Japan,Asia Pacific,Osaka,,84561,2023-12-03,Mid-Market
+C01393,Ironclad Systems,B2B,Construction,Canada,North America,Vancouver,,38354,2024-05-31,Small Business
+C01394,Redwood Mart,B2B,Pharmaceuticals,Canada,North America,Toronto,,27394,2025-07-22,Mid-Market
+C01395,Vantage Solutions,B2B,Technology,Australia,Asia Pacific,Sydney,,67610,2024-04-21,Mid-Market
+C01396,Global Logistics,B2B,Construction,United States,North America,Columbus,IL,79823,2025-09-03,Small Business
+C01397,Meridian Wholesale,B2B,Telecommunications,United Kingdom,Europe,Birmingham,,11961,2025-06-06,Mid-Market
+C01398,Pinnacle Trading Co.,B2B,Government,Argentina,Latin America,Buenos Aires,,22886,2025-02-18,Mid-Market
+C01399,Anna Wang,B2C,Consumer,Netherlands,Europe,Amsterdam,,68200,2025-01-09,Consumer
+C01400,Harbor Merchants,B2B,Telecommunications,United Kingdom,Europe,London,,67535,2025-06-01,Small Business
+C01401,Granite Trading Co.,B2B,Construction,Netherlands,Europe,Amsterdam,,70466,2024-06-25,Small Business
+C01402,Pinnacle Retail Group,B2B,Healthcare,Canada,North America,Toronto,,64612,2023-05-23,Mid-Market
+C01403,Redwood Logistics,B2B,Consumer Goods,Egypt,Middle East & Africa,Cairo,,69490,2023-01-20,Small Business
+C01404,Nova Depot,B2B,Government,United States,North America,Chicago,GA,20030,2024-05-23,Mid-Market
+C01405,Harbor Networks,B2B,Government,Canada,North America,Montreal,,54492,2023-07-24,Mid-Market
+C01406,Apex Merchants,B2B,Food & Beverage,Canada,North America,Montreal,,58939,2025-10-03,Mid-Market
+C01407,Bluewave Merchants,B2B,Education,South Africa,Middle East & Africa,Johannesburg,,86305,2025-02-02,Enterprise
+C01408,Meridian Wholesale,B2B,Telecommunications,United States,North America,Chicago,IL,19562,2025-09-08,Small Business
+C01409,Anchor Mart,B2B,Healthcare,Chile,Latin America,Santiago,,66333,2025-04-18,Mid-Market
+C01410,Quantum Partners,B2B,Telecommunications,Singapore,Asia Pacific,Singapore,,87593,2024-07-05,Mid-Market
+C01411,Redwood Holdings,B2B,Energy,Vietnam,Asia Pacific,Ho Chi Minh City,,70192,2023-09-16,Mid-Market
+C01412,Vantage Logistics,B2B,Food & Beverage,Egypt,Middle East & Africa,Cairo,,90202,2024-06-14,Mid-Market
+C01413,Bluewave Supply Co.,B2B,Energy,Colombia,Latin America,Bogota,,33529,2025-06-08,Small Business
+C01414,Sterling Depot,B2B,Construction,United Arab Emirates,Middle East & Africa,Dubai,,35677,2024-11-28,Mid-Market
+C01415,Priya Fischer,B2C,Consumer,Mexico,North America,Mexico City,,82284,2025-08-10,Consumer
+C01416,Anchor Systems,B2B,Retail,Australia,Asia Pacific,Melbourne,,65489,2025-05-12,Enterprise
+C01417,Crest Logistics,B2B,Technology,Netherlands,Europe,Amsterdam,,47369,2023-01-19,Small Business
+C01418,Horizon Wholesale,B2B,Agriculture,Poland,Europe,Warsaw,,15537,2025-02-05,Enterprise
+C01419,Anna Moore,B2C,Consumer,Argentina,Latin America,Buenos Aires,,,2025-09-20,Consumer
+C01420,Daniel Clark,B2C,Consumer,Saudi Arabia,Middle East & Africa,Riyadh,,68723,2025-09-12,Consumer
+C01421,Meridian Merchants,B2B,Retail,Singapore,Asia Pacific,Singapore,,74536,2024-03-11,Mid-Market
+C01422,Pioneer Solutions,B2B,Manufacturing,Spain,Europe,Madrid,,32367,2024-07-22,Small Business
+C01423,Barbara Silva,B2C,Consumer,France,Europe,Marseille,,15457,2023-09-24,Consumer
+C01424,Beacon Traders,B2B,Agriculture,France,Europe,Paris,,93533,2023-08-25,Enterprise
+C01425,Joseph White,B2C,Consumer,Germany,Europe,Munich,,82419,2025-10-03,Consumer
+C01426,Pioneer Networks,B2B,Telecommunications,France,Europe,Lyon,,85536,2023-07-30,Small Business
+C01427,Skyline Holdings,B2B,Consumer Goods,United States,North America,Columbus,IL,56305,2024-07-16,Mid-Market
+C01428,Skyline Mart,B2B,Energy,Canada,North America,Vancouver,,33529,2023-03-02,Mid-Market
+C01429,Nova Partners,B2B,Energy,China,Asia Pacific,Ningbo,,22843,2024-05-29,Mid-Market
+C01430,Bluewave Depot,B2B,Education,Netherlands,Europe,Rotterdam,,82711,2023-07-25,Enterprise
+C01431,Sandra Brown,B2C,Consumer,Egypt,Middle East & Africa,Cairo,,16686,2024-05-13,Consumer
+C01432,Kwame Sanchez,B2C,Consumer,India,Asia Pacific,Bengaluru,,84826,2025-04-13,Consumer
+C01433,Vertex Depot,B2B,Consumer Goods,Canada,North America,Montreal,,79107,2025-12-05,Small Business
+C01434,David Rodriguez,B2C,Consumer,Mexico,North America,Monterrey,,44042,2023-02-19,Consumer
+C01435,James Fischer,B2C,Consumer,United States,North America,Columbus,OH,49663,2025-02-05,Consumer
+C01436,Frontier Traders,B2B,Construction,Saudi Arabia,Middle East & Africa,Jeddah,,86959,2023-12-17,Enterprise
+C01437,Anchor Depot,B2B,Construction,Canada,North America,Toronto,,70480,2024-11-26,Small Business
+C01438,Vantage Merchants,B2B,Hospitality,Spain,Europe,Madrid,,85002,2024-09-28,Small Business
+C01439,Metro Industries,B2B,Agriculture,Saudi Arabia,Middle East & Africa,Jeddah,,10798,2024-06-29,Small Business
+C01440,Silverline Distribution,B2B,Pharmaceuticals,United Arab Emirates,Middle East & Africa,Abu Dhabi,,40212,2024-10-30,Enterprise
+C01441,Diego Ramirez,B2C,Consumer,Mexico,North America,Guadalajara,,21882,2024-10-29,Consumer
+C01442,Sandra Wilson,B2C,Consumer,Canada,North America,Montreal,,36545,2024-08-09,Consumer
+C01443,Anchor Enterprises,B2B,Telecommunications,United States,North America,Dallas,NJ,50383,2025-05-21,Mid-Market
+C01444,Global Solutions,B2B,Government,United States,North America,Newark,FL,51307,2023-04-17,Mid-Market
+C01445,Ivan Santos,B2C,Consumer,Canada,North America,Montreal,,84508,2023-08-13,Consumer
+C01446,Valentina Nguyen,B2C,Consumer,Poland,Europe,Warsaw,,16235,2023-02-07,Consumer
+C01447,Frontier Wholesale,B2B,Retail,Brazil,Latin America,Curitiba,,10578,2024-10-24,Small Business
+C01448,Nova Industries,B2B,Telecommunications,Poland,Europe,Gdansk,,60517,2023-01-13,Enterprise
+C01449,Beacon Wholesale,B2B,Telecommunications,Singapore,Asia Pacific,Singapore,,49147,2025-08-02,Small Business
+C01450,Redwood Holdings,B2B,Manufacturing,Mexico,North America,Monterrey,,,2024-07-10,Small Business
+C01451,Nova Holdings,B2B,Telecommunications,Japan,Asia Pacific,Osaka,,69638,2023-02-08,Enterprise
+C01452,Silverline Industries,B2B,Energy,Vietnam,Asia Pacific,Ho Chi Minh City,,56736,2024-06-10,Small Business
+C01453,Layla Sharma,B2C,Consumer,Argentina,Latin America,Buenos Aires,,88149,2023-10-10,Consumer
+C01454,Silverline Commerce,B2B,Consumer Goods,South Africa,Middle East & Africa,Johannesburg,,12488,2024-10-01,Small Business
+C01455,Vertex Wholesale,B2B,Hospitality,Spain,Europe,Barcelona,,13884,2025-07-04,Mid-Market
+C01456,Apex Ventures,B2B,Healthcare,United States,North America,Dallas,WA,51936,2024-07-18,Small Business
+C01457,Ingrid Li,B2C,Consumer,Canada,North America,Montreal,,92419,2023-07-23,Consumer
+C01458,Quantum Ventures,B2B,Construction,Poland,Europe,Warsaw,,82064,2024-09-29,Mid-Market
+C01459,Metro Mart,B2B,Agriculture,United Arab Emirates,Middle East & Africa,Dubai,,79697,2024-10-03,Enterprise
+C01460,Mei Gonzalez,B2C,Consumer,Spain,Europe,Madrid,,63765,2024-06-15,Consumer
+C01461,Sarah Patel,B2C,Consumer,China,Asia Pacific,Ningbo,,16265,2025-08-10,Consumer
+C01462,Richard Taylor,B2C,Consumer,Germany,Europe,Munich,,22985,2025-06-13,Consumer
+C01463,Beacon Enterprises,B2B,Hospitality,United States,North America,Atlanta,FL,88144,2024-03-10,Small Business
+C01464,Granite Mart,B2B,Education,United States,North America,Chicago,OH,36186,2023-01-26,Mid-Market
+C01465,Zenith Mart,B2B,Education,China,Asia Pacific,Shanghai,,73239,2023-02-12,Mid-Market
+C01466,Mary Ferreira,B2C,Consumer,Australia,Asia Pacific,Sydney,,41953,2025-02-11,Consumer
+C01467,Granite Mart,B2B,Energy,Spain,Europe,Madrid,,38085,2023-11-06,Small Business
+C01468,Harbor Retail Group,B2B,Energy,Canada,North America,Montreal,,38159,2023-06-02,Enterprise
+C01469,Zenith Industries,B2B,Manufacturing,Australia,Asia Pacific,Sydney,,32683,2025-02-18,Enterprise
+C01470,Quantum Solutions,B2B,Pharmaceuticals,Mexico,North America,Mexico City,,91522,2024-10-27,Enterprise
+C01471,Rahul Patel,B2C,Consumer,South Africa,Middle East & Africa,Johannesburg,,47845,2023-09-23,Consumer
+C01472,Jessica Taylor,B2C,Consumer,United States,North America,Columbus,TX,71770,2023-04-28,Consumer
+C01473,Margaret Kim,B2C,Consumer,Canada,North America,Vancouver,,74219,2023-11-25,Consumer
+C01474,Global Distribution,B2B,Telecommunications,United Kingdom,Europe,London,,50921,2024-08-20,Small Business
+C01475,Harbor Depot,B2B,Construction,Netherlands,Europe,Amsterdam,,27930,2024-09-09,Mid-Market
+C01476,Anchor Distribution,B2B,Pharmaceuticals,France,Europe,Paris,,87521,2025-02-22,Small Business
+C01477,Pinnacle Networks,B2B,Healthcare,Spain,Europe,Madrid,,12020,2024-02-18,Enterprise
+C01478,Vantage Distribution,B2B,Telecommunications,United Arab Emirates,Middle East & Africa,Abu Dhabi,,36926,2024-01-24,Small Business
+C01479,Crest Enterprises,B2B,Education,France,Europe,Paris,,97374,2023-12-09,Mid-Market
+C01480,Prime Commerce,B2B,Retail,United Kingdom,Europe,London,,93623,2025-11-01,Small Business
+C01481,Zenith Traders,B2B,Agriculture,France,Europe,Lyon,,64006,2025-10-18,Small Business
+C01482,Skyline Distribution,B2B,Food & Beverage,Canada,North America,Montreal,,74547,2023-05-29,Small Business
+C01483,Coastal Ventures,B2B,Government,Poland,Europe,Warsaw,,22607,2025-10-04,Small Business
+C01484,Ava Miller,B2C,Consumer,United States,North America,Newark,WA,98085,2024-07-07,Consumer
+C01485,Horizon Merchants,B2B,Manufacturing,Australia,Asia Pacific,Melbourne,,57992,2024-12-24,Small Business
+C01486,Ingrid Tanaka,B2C,Consumer,Canada,North America,Vancouver,,33173,2025-11-19,Consumer
+C01487,Anthony Santos,B2C,Consumer,United Arab Emirates,Middle East & Africa,Dubai,,88339,2024-02-03,Consumer
+C01488,Zenith Enterprises,B2B,Food & Beverage,Spain,Europe,Madrid,,29635,2024-01-08,Small Business
+C01489,Anchor Partners,B2B,Telecommunications,Colombia,Latin America,Medellin,,84222,2023-05-25,Mid-Market
+C01490,Nova Holdings,B2B,Agriculture,Netherlands,Europe,Rotterdam,,46007,2025-12-27,Small Business
+C01491,Zenith Distribution,B2B,Automotive,Canada,North America,Toronto,,89747,2024-08-05,Mid-Market
+C01492,Horizon Supply Co.,B2B,Telecommunications,China,Asia Pacific,Shanghai,,20617,2023-12-31,Mid-Market
+C01493,Ahmed Li,B2C,Consumer,China,Asia Pacific,Shenzhen,,60482,2024-10-18,Consumer
+C01494,Fatima Lee,B2C,Consumer,Japan,Asia Pacific,Osaka,,58873,2023-01-01,Consumer
+C01495,Silverline Import Export,B2B,Construction,United Kingdom,Europe,Birmingham,,48639,2025-11-27,Small Business
+C01496,Anchor Industries,B2B,Retail,Singapore,Asia Pacific,Singapore,,79235,2025-08-26,Mid-Market
+C01497,Silverline Depot,B2B,Construction,Chile,Latin America,Santiago,,29606,2024-09-17,Mid-Market
+C01498,Redwood Mart,B2B,Consumer Goods,India,Asia Pacific,Chennai,,79086,2025-05-28,Small Business
+C01499,Zenith Networks,B2B,Technology,Netherlands,Europe,Amsterdam,,48569,2024-06-25,Small Business
+C01500,Bluewave Trading Co.,B2B,Pharmaceuticals,China,Asia Pacific,Shanghai,,56661,2024-03-09,Small Business
+C01501,LIAM MILLER,B2C,Consumer,United States,North America,Columbus,TX,81975,2025-09-25,Consumer
+C01502,AMARA ALI,B2C,Consumer,United States,North America,Dallas,CA,57680,2024-04-10,Consumer
+C01503,QUANTUM IMPORT EXPORT,B2B,Manufacturing,Australia,Asia Pacific,Melbourne,,75380,2025-07-08,Small Business
+C01504,Arjun Jackson Inc,B2C,Consumer,China,Asia Pacific,Shanghai,,70332,2024-01-13,Consumer
+C01505,Global Holdings,B2B,Retail,United Kingdom,Europe,Birmingham,,29719,2024-01-27,Mid-Market
+C01506,PINNACLE TRADING CO.,B2B,Consumer Goods,Brazil,Latin America,Sao Paulo,,80694,2023-08-21,Small Business
+C01507,NOVA NETWORKS,B2B,Hospitality,Spain,Europe,Barcelona,,11271,2023-09-23,Mid-Market
+C01508,CASCADE DISTRIBUTION,B2B,Education,Germany,Europe,Munich,,46117,2023-08-23,Mid-Market
+C01509,Ironclad Networks Inc,B2B,Consumer Goods,Australia,Asia Pacific,Sydney,,87755,2024-01-01,Enterprise
+C01510,Metro Partners LLC,B2B,Automotive,Mexico,North America,Monterrey,,72933,2025-04-15,Enterprise
+C01511,Cascade Traders Inc,B2B,Retail,Canada,North America,Vancouver,,54073,2024-09-30,Small Business
+C01512,PRIME PARTNERS,B2B,Food & Beverage,Canada,North America,Montreal,,12811,2023-03-07,Mid-Market
+C01513,Union Retail Group LLC,B2B,Consumer Goods,Mexico,North America,Monterrey,,19798,2023-05-28,Mid-Market
+C01514,Pinnacle Retail Group,B2B,Retail,United Kingdom,Europe,London,,51132,2024-08-14,Small Business
+C01515,Zenith Import Export,B2B,Energy,Netherlands,Europe,Rotterdam,,35721,2024-11-24,Enterprise
+C01516,Crest Traders LLC,B2B,Hospitality,Chile,Latin America,Santiago,,,2023-01-27,Small Business
+C01517,Silverline Mart,B2B,Food & Beverage,United States,North America,Atlanta,IL,98675,2023-07-19,Enterprise
+C01518,Zenith Distribution Inc,B2B,Technology,Spain,Europe,Barcelona,,28424,2023-07-21,Small Business
