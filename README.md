@@ -203,7 +203,6 @@ SELECT * FROM contribution;
 ## 👤 Author
 
 **Yash Agrawal**
-📍 Moradabad, Uttar Pradesh
 📧 yashsinghal821866@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/yashsite) • [GitHub](https://github.com/yashagrawal821)
 
